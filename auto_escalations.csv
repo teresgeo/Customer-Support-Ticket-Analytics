@@ -1,0 +1,718 @@
+Ticket_ID,Current_Priority,Suggested_Priority,Reason
+TKT-00003,Medium,High,Ticket aged 613 days
+TKT-00005,Low,Medium,Ticket aged 405 days
+TKT-00006,Low,Medium,Ticket aged 468 days
+TKT-00007,Low,Medium,Ticket aged 637 days
+TKT-00007,Low,Critical,Critical category: Data Loss
+TKT-00008,Medium,High,Ticket aged 426 days
+TKT-00010,Low,Medium,Ticket aged 352 days
+TKT-00011,Medium,High,Ticket aged 470 days
+TKT-00012,Medium,High,Ticket aged 383 days
+TKT-00012,Medium,Critical,Critical category: Authentication
+TKT-00014,Low,Medium,Ticket aged 468 days
+TKT-00015,Low,Medium,Ticket aged 605 days
+TKT-00017,Low,Medium,Ticket aged 490 days
+TKT-00019,Medium,High,Ticket aged 662 days
+TKT-00021,Low,Medium,Ticket aged 491 days
+TKT-00021,Low,Critical,Critical category: Authentication
+TKT-00022,Medium,High,Ticket aged 534 days
+TKT-00024,Low,Medium,Ticket aged 324 days
+TKT-00025,Low,Medium,Ticket aged 346 days
+TKT-00025,Low,Critical,Critical category: Authentication
+TKT-00026,Low,Medium,Ticket aged 536 days
+TKT-00028,High,Critical,Critical category: Authentication
+TKT-00030,Medium,High,Ticket aged 503 days
+TKT-00032,Medium,High,Ticket aged 335 days
+TKT-00033,Medium,High,Ticket aged 373 days
+TKT-00034,Low,Medium,Ticket aged 411 days
+TKT-00035,Low,Medium,Ticket aged 601 days
+TKT-00036,Medium,High,Ticket aged 546 days
+TKT-00036,Medium,Critical,Critical category: Data Loss
+TKT-00038,High,Critical,Critical category: Authentication
+TKT-00039,Medium,High,Ticket aged 668 days
+TKT-00040,Medium,High,Ticket aged 547 days
+TKT-00040,Medium,Critical,Critical category: Authentication
+TKT-00043,Medium,High,Ticket aged 482 days
+TKT-00043,Medium,Critical,Critical category: Data Loss
+TKT-00044,Low,Medium,Ticket aged 611 days
+TKT-00045,Low,Medium,Ticket aged 558 days
+TKT-00046,Medium,High,Ticket aged 409 days
+TKT-00047,Low,Medium,Ticket aged 385 days
+TKT-00052,Medium,High,Ticket aged 363 days
+TKT-00053,Medium,High,Ticket aged 336 days
+TKT-00053,Medium,Critical,Critical category: Data Loss
+TKT-00055,Low,Medium,Ticket aged 379 days
+TKT-00055,Low,Critical,Critical category: Data Loss
+TKT-00056,Medium,High,Ticket aged 556 days
+TKT-00058,Low,Medium,Ticket aged 626 days
+TKT-00059,High,Critical,Critical category: Data Loss
+TKT-00060,Medium,High,Ticket aged 356 days
+TKT-00060,Medium,Critical,Critical category: Data Loss
+TKT-00061,Medium,High,Ticket aged 534 days
+TKT-00061,Medium,Critical,Critical category: Authentication
+TKT-00063,High,Critical,Critical category: Authentication
+TKT-00064,Low,Medium,Ticket aged 593 days
+TKT-00065,Medium,High,Ticket aged 630 days
+TKT-00065,Medium,Critical,Critical category: Authentication
+TKT-00068,Low,Medium,Ticket aged 602 days
+TKT-00069,Medium,High,Ticket aged 413 days
+TKT-00071,Low,Medium,Ticket aged 627 days
+TKT-00072,Low,Medium,Ticket aged 527 days
+TKT-00073,High,Critical,Critical category: Authentication
+TKT-00074,High,Critical,Critical category: Authentication
+TKT-00075,Medium,High,Ticket aged 649 days
+TKT-00079,Medium,High,Ticket aged 374 days
+TKT-00081,Low,Medium,Ticket aged 582 days
+TKT-00082,Low,Medium,Ticket aged 480 days
+TKT-00083,Low,Medium,Ticket aged 493 days
+TKT-00084,Low,Medium,Ticket aged 420 days
+TKT-00086,Medium,High,Ticket aged 511 days
+TKT-00087,Low,Medium,Ticket aged 401 days
+TKT-00088,Low,Medium,Ticket aged 572 days
+TKT-00094,Low,Medium,Ticket aged 408 days
+TKT-00095,Medium,High,Ticket aged 392 days
+TKT-00096,High,Critical,Critical category: Data Loss
+TKT-00097,Low,Medium,Ticket aged 476 days
+TKT-00098,High,Critical,Critical category: Data Loss
+TKT-00099,Low,Medium,Ticket aged 503 days
+TKT-00099,Low,Critical,Critical category: Data Loss
+TKT-00100,Medium,High,Ticket aged 445 days
+TKT-00101,Medium,High,Ticket aged 340 days
+TKT-00102,High,Critical,Critical category: Data Loss
+TKT-00104,Low,Medium,Ticket aged 586 days
+TKT-00105,High,Critical,Critical category: Data Loss
+TKT-00107,Medium,High,Ticket aged 557 days
+TKT-00108,Low,Medium,Ticket aged 403 days
+TKT-00109,Medium,High,Ticket aged 351 days
+TKT-00110,Low,Medium,Ticket aged 677 days
+TKT-00110,Low,Critical,Critical category: Data Loss
+TKT-00112,Low,Medium,Ticket aged 436 days
+TKT-00112,Low,Critical,Critical category: Data Loss
+TKT-00114,Low,Medium,Ticket aged 490 days
+TKT-00116,Medium,High,Ticket aged 468 days
+TKT-00117,Low,Medium,Ticket aged 400 days
+TKT-00118,Low,Medium,Ticket aged 435 days
+TKT-00118,Low,Critical,Critical category: Authentication
+TKT-00119,Medium,High,Ticket aged 533 days
+TKT-00119,Medium,Critical,Critical category: Authentication
+TKT-00120,Low,Medium,Ticket aged 388 days
+TKT-00120,Low,Critical,Critical category: Data Loss
+TKT-00121,Medium,High,Ticket aged 653 days
+TKT-00121,Medium,Critical,Critical category: Authentication
+TKT-00125,Medium,High,Ticket aged 424 days
+TKT-00127,Medium,High,Ticket aged 650 days
+TKT-00128,High,Critical,Critical category: Data Loss
+TKT-00129,Low,Medium,Ticket aged 393 days
+TKT-00129,Low,Critical,Critical category: Authentication
+TKT-00130,Low,Medium,Ticket aged 380 days
+TKT-00134,Low,Medium,Ticket aged 342 days
+TKT-00134,Low,Critical,Critical category: Authentication
+TKT-00136,Low,Medium,Ticket aged 617 days
+TKT-00140,Low,Medium,Ticket aged 647 days
+TKT-00140,Low,Critical,Critical category: Authentication
+TKT-00142,Medium,High,Ticket aged 506 days
+TKT-00144,Medium,High,Ticket aged 604 days
+TKT-00146,Low,Medium,Ticket aged 371 days
+TKT-00147,Low,Medium,Ticket aged 680 days
+TKT-00147,Low,Critical,Critical category: Data Loss
+TKT-00148,Medium,High,Ticket aged 401 days
+TKT-00148,Medium,Critical,Critical category: Authentication
+TKT-00149,Low,Medium,Ticket aged 345 days
+TKT-00150,Low,Medium,Ticket aged 616 days
+TKT-00150,Low,Critical,Critical category: Authentication
+TKT-00151,Low,Medium,Ticket aged 630 days
+TKT-00152,Medium,High,Ticket aged 605 days
+TKT-00153,Low,Medium,Ticket aged 375 days
+TKT-00153,Low,Critical,Critical category: Authentication
+TKT-00157,Medium,High,Ticket aged 658 days
+TKT-00157,Medium,Critical,Critical category: Data Loss
+TKT-00158,Medium,High,Ticket aged 468 days
+TKT-00159,Low,Medium,Ticket aged 683 days
+TKT-00159,Low,Critical,Critical category: Authentication
+TKT-00161,Medium,High,Ticket aged 602 days
+TKT-00163,Medium,High,Ticket aged 397 days
+TKT-00165,High,Critical,Critical category: Data Loss
+TKT-00167,Low,Medium,Ticket aged 609 days
+TKT-00168,High,Critical,Critical category: Authentication
+TKT-00169,Low,Medium,Ticket aged 664 days
+TKT-00170,Low,Medium,Ticket aged 335 days
+TKT-00171,Medium,High,Ticket aged 632 days
+TKT-00171,Medium,Critical,Critical category: Data Loss
+TKT-00172,Medium,High,Ticket aged 398 days
+TKT-00172,Medium,Critical,Critical category: Authentication
+TKT-00173,Low,Medium,Ticket aged 605 days
+TKT-00175,Low,Medium,Ticket aged 473 days
+TKT-00175,Low,Critical,Critical category: Data Loss
+TKT-00178,High,Critical,Critical category: Data Loss
+TKT-00179,High,Critical,Critical category: Authentication
+TKT-00180,Low,Medium,Ticket aged 665 days
+TKT-00182,Low,Medium,Ticket aged 528 days
+TKT-00182,Low,Critical,Critical category: Authentication
+TKT-00184,Medium,High,Ticket aged 480 days
+TKT-00187,Medium,High,Ticket aged 337 days
+TKT-00191,Medium,High,Ticket aged 379 days
+TKT-00192,Medium,High,Ticket aged 524 days
+TKT-00193,Medium,High,Ticket aged 423 days
+TKT-00194,Low,Medium,Ticket aged 389 days
+TKT-00194,Low,Critical,Critical category: Data Loss
+TKT-00196,Low,Medium,Ticket aged 684 days
+TKT-00197,Medium,High,Ticket aged 409 days
+TKT-00199,Low,Medium,Ticket aged 464 days
+TKT-00201,Low,Medium,Ticket aged 345 days
+TKT-00203,High,Critical,Critical category: Authentication
+TKT-00204,Low,Medium,Ticket aged 478 days
+TKT-00205,Medium,High,Ticket aged 401 days
+TKT-00206,Medium,High,Ticket aged 469 days
+TKT-00206,Medium,Critical,Critical category: Data Loss
+TKT-00209,Low,Medium,Ticket aged 530 days
+TKT-00210,Medium,High,Ticket aged 684 days
+TKT-00210,Medium,Critical,Critical category: Authentication
+TKT-00212,Low,Medium,Ticket aged 388 days
+TKT-00212,Low,Critical,Critical category: Data Loss
+TKT-00213,Low,Medium,Ticket aged 520 days
+TKT-00214,Medium,High,Ticket aged 458 days
+TKT-00216,High,Critical,Critical category: Data Loss
+TKT-00218,Low,Medium,Ticket aged 360 days
+TKT-00218,Low,Critical,Critical category: Authentication
+TKT-00219,Low,Medium,Ticket aged 637 days
+TKT-00220,Medium,High,Ticket aged 526 days
+TKT-00222,Low,Medium,Ticket aged 661 days
+TKT-00222,Low,Critical,Critical category: Authentication
+TKT-00223,Low,Medium,Ticket aged 372 days
+TKT-00223,Low,Critical,Critical category: Data Loss
+TKT-00225,Medium,High,Ticket aged 585 days
+TKT-00226,Medium,High,Ticket aged 488 days
+TKT-00226,Medium,Critical,Critical category: Authentication
+TKT-00227,High,Critical,Critical category: Data Loss
+TKT-00229,High,Critical,Critical category: Data Loss
+TKT-00235,Medium,High,Ticket aged 522 days
+TKT-00235,Medium,Critical,Critical category: Authentication
+TKT-00236,Low,Medium,Ticket aged 426 days
+TKT-00237,Medium,High,Ticket aged 404 days
+TKT-00238,Medium,High,Ticket aged 602 days
+TKT-00239,Low,Medium,Ticket aged 441 days
+TKT-00239,Low,Critical,Critical category: Data Loss
+TKT-00240,Medium,High,Ticket aged 558 days
+TKT-00241,Low,Medium,Ticket aged 418 days
+TKT-00242,Medium,High,Ticket aged 562 days
+TKT-00247,Low,Medium,Ticket aged 488 days
+TKT-00249,Medium,High,Ticket aged 472 days
+TKT-00251,High,Critical,Critical category: Data Loss
+TKT-00254,Low,Medium,Ticket aged 390 days
+TKT-00255,Low,Medium,Ticket aged 681 days
+TKT-00255,Low,Critical,Critical category: Data Loss
+TKT-00256,Medium,High,Ticket aged 485 days
+TKT-00257,High,Critical,Critical category: Authentication
+TKT-00258,Low,Medium,Ticket aged 572 days
+TKT-00259,Medium,High,Ticket aged 545 days
+TKT-00260,High,Critical,Critical category: Data Loss
+TKT-00261,Medium,High,Ticket aged 342 days
+TKT-00262,Low,Medium,Ticket aged 477 days
+TKT-00263,Medium,High,Ticket aged 445 days
+TKT-00263,Medium,Critical,Critical category: Data Loss
+TKT-00266,Low,Medium,Ticket aged 345 days
+TKT-00269,Medium,High,Ticket aged 551 days
+TKT-00270,Low,Medium,Ticket aged 576 days
+TKT-00273,Medium,High,Ticket aged 643 days
+TKT-00274,Low,Medium,Ticket aged 408 days
+TKT-00274,Low,Critical,Critical category: Data Loss
+TKT-00276,Low,Medium,Ticket aged 351 days
+TKT-00277,Medium,High,Ticket aged 669 days
+TKT-00278,Low,Medium,Ticket aged 674 days
+TKT-00278,Low,Critical,Critical category: Data Loss
+TKT-00279,Low,Medium,Ticket aged 562 days
+TKT-00280,Low,Medium,Ticket aged 342 days
+TKT-00281,Medium,High,Ticket aged 573 days
+TKT-00281,Medium,Critical,Critical category: Authentication
+TKT-00282,Medium,High,Ticket aged 553 days
+TKT-00282,Medium,Critical,Critical category: Data Loss
+TKT-00283,Medium,High,Ticket aged 374 days
+TKT-00286,Low,Medium,Ticket aged 525 days
+TKT-00288,Low,Medium,Ticket aged 583 days
+TKT-00289,Low,Medium,Ticket aged 331 days
+TKT-00290,Low,Medium,Ticket aged 632 days
+TKT-00291,Medium,High,Ticket aged 530 days
+TKT-00293,Medium,High,Ticket aged 663 days
+TKT-00294,Low,Medium,Ticket aged 465 days
+TKT-00296,Low,Medium,Ticket aged 510 days
+TKT-00297,Low,Medium,Ticket aged 469 days
+TKT-00299,Low,Medium,Ticket aged 449 days
+TKT-00299,Low,Critical,Critical category: Authentication
+TKT-00300,Medium,High,Ticket aged 462 days
+TKT-00304,Low,Medium,Ticket aged 381 days
+TKT-00307,Medium,High,Ticket aged 447 days
+TKT-00309,Medium,High,Ticket aged 670 days
+TKT-00310,Medium,High,Ticket aged 518 days
+TKT-00311,High,Critical,Critical category: Data Loss
+TKT-00314,Medium,High,Ticket aged 543 days
+TKT-00315,Low,Medium,Ticket aged 420 days
+TKT-00315,Low,Critical,Critical category: Authentication
+TKT-00316,Medium,High,Ticket aged 561 days
+TKT-00321,Low,Medium,Ticket aged 534 days
+TKT-00322,Low,Medium,Ticket aged 330 days
+TKT-00325,Medium,High,Ticket aged 508 days
+TKT-00325,Medium,Critical,Critical category: Data Loss
+TKT-00327,Medium,High,Ticket aged 325 days
+TKT-00328,Medium,High,Ticket aged 528 days
+TKT-00329,Low,Medium,Ticket aged 623 days
+TKT-00329,Low,Critical,Critical category: Authentication
+TKT-00334,High,Critical,Critical category: Authentication
+TKT-00338,Medium,High,Ticket aged 677 days
+TKT-00339,Low,Medium,Ticket aged 620 days
+TKT-00340,High,Critical,Critical category: Data Loss
+TKT-00341,Medium,High,Ticket aged 327 days
+TKT-00342,Low,Medium,Ticket aged 433 days
+TKT-00344,Low,Medium,Ticket aged 444 days
+TKT-00344,Low,Critical,Critical category: Authentication
+TKT-00347,Medium,High,Ticket aged 651 days
+TKT-00348,Medium,High,Ticket aged 647 days
+TKT-00348,Medium,Critical,Critical category: Authentication
+TKT-00349,Low,Medium,Ticket aged 333 days
+TKT-00349,Low,Critical,Critical category: Authentication
+TKT-00350,Medium,High,Ticket aged 608 days
+TKT-00351,Medium,High,Ticket aged 641 days
+TKT-00351,Medium,Critical,Critical category: Authentication
+TKT-00353,Low,Medium,Ticket aged 379 days
+TKT-00353,Low,Critical,Critical category: Data Loss
+TKT-00354,Medium,High,Ticket aged 417 days
+TKT-00356,High,Critical,Critical category: Authentication
+TKT-00357,Medium,High,Ticket aged 393 days
+TKT-00358,Medium,High,Ticket aged 372 days
+TKT-00359,Medium,High,Ticket aged 578 days
+TKT-00361,High,Critical,Critical category: Authentication
+TKT-00362,Low,Medium,Ticket aged 402 days
+TKT-00364,Medium,High,Ticket aged 332 days
+TKT-00365,Medium,High,Ticket aged 535 days
+TKT-00368,Medium,High,Ticket aged 333 days
+TKT-00368,Medium,Critical,Critical category: Authentication
+TKT-00370,Low,Medium,Ticket aged 346 days
+TKT-00371,Low,Medium,Ticket aged 626 days
+TKT-00371,Low,Critical,Critical category: Data Loss
+TKT-00372,Low,Medium,Ticket aged 353 days
+TKT-00372,Low,Critical,Critical category: Authentication
+TKT-00373,Medium,High,Ticket aged 548 days
+TKT-00373,Medium,Critical,Critical category: Data Loss
+TKT-00374,Medium,High,Ticket aged 654 days
+TKT-00375,Low,Medium,Ticket aged 527 days
+TKT-00377,Low,Medium,Ticket aged 621 days
+TKT-00378,High,Critical,Critical category: Data Loss
+TKT-00379,Medium,High,Ticket aged 545 days
+TKT-00380,Medium,High,Ticket aged 432 days
+TKT-00381,High,Critical,Critical category: Authentication
+TKT-00382,Medium,High,Ticket aged 463 days
+TKT-00383,High,Critical,Critical category: Data Loss
+TKT-00384,Low,Medium,Ticket aged 638 days
+TKT-00384,Low,Critical,Critical category: Authentication
+TKT-00385,Low,Medium,Ticket aged 390 days
+TKT-00386,Medium,High,Ticket aged 340 days
+TKT-00387,Medium,High,Ticket aged 664 days
+TKT-00388,Low,Medium,Ticket aged 419 days
+TKT-00390,Low,Medium,Ticket aged 461 days
+TKT-00390,Low,Critical,Critical category: Data Loss
+TKT-00393,Low,Medium,Ticket aged 520 days
+TKT-00397,Medium,High,Ticket aged 403 days
+TKT-00398,Medium,High,Ticket aged 639 days
+TKT-00402,Medium,High,Ticket aged 407 days
+TKT-00404,Medium,High,Ticket aged 499 days
+TKT-00405,Medium,High,Ticket aged 429 days
+TKT-00408,High,Critical,Critical category: Data Loss
+TKT-00409,Medium,High,Ticket aged 327 days
+TKT-00409,Medium,Critical,Critical category: Authentication
+TKT-00410,Medium,High,Ticket aged 670 days
+TKT-00411,Low,Medium,Ticket aged 562 days
+TKT-00411,Low,Critical,Critical category: Data Loss
+TKT-00413,Low,Medium,Ticket aged 402 days
+TKT-00414,Medium,High,Ticket aged 569 days
+TKT-00414,Medium,Critical,Critical category: Authentication
+TKT-00416,Medium,High,Ticket aged 606 days
+TKT-00416,Medium,Critical,Critical category: Data Loss
+TKT-00417,Low,Medium,Ticket aged 535 days
+TKT-00419,Medium,High,Ticket aged 437 days
+TKT-00421,Low,Medium,Ticket aged 488 days
+TKT-00422,Medium,High,Ticket aged 378 days
+TKT-00425,Medium,High,Ticket aged 425 days
+TKT-00426,Low,Medium,Ticket aged 683 days
+TKT-00429,Low,Medium,Ticket aged 608 days
+TKT-00430,High,Critical,Critical category: Authentication
+TKT-00431,Medium,High,Ticket aged 402 days
+TKT-00432,Medium,High,Ticket aged 451 days
+TKT-00432,Medium,Critical,Critical category: Data Loss
+TKT-00433,Low,Medium,Ticket aged 588 days
+TKT-00433,Low,Critical,Critical category: Authentication
+TKT-00436,Low,Medium,Ticket aged 442 days
+TKT-00437,Low,Medium,Ticket aged 489 days
+TKT-00438,Low,Medium,Ticket aged 351 days
+TKT-00438,Low,Critical,Critical category: Authentication
+TKT-00442,Medium,High,Ticket aged 415 days
+TKT-00448,Low,Medium,Ticket aged 516 days
+TKT-00450,Medium,High,Ticket aged 364 days
+TKT-00451,Medium,High,Ticket aged 435 days
+TKT-00453,Low,Medium,Ticket aged 361 days
+TKT-00453,Low,Critical,Critical category: Data Loss
+TKT-00454,Low,Medium,Ticket aged 537 days
+TKT-00456,Low,Medium,Ticket aged 360 days
+TKT-00459,Low,Medium,Ticket aged 670 days
+TKT-00459,Low,Critical,Critical category: Authentication
+TKT-00460,Low,Medium,Ticket aged 656 days
+TKT-00462,Medium,High,Ticket aged 559 days
+TKT-00464,Medium,High,Ticket aged 592 days
+TKT-00465,Low,Medium,Ticket aged 644 days
+TKT-00466,Low,Medium,Ticket aged 489 days
+TKT-00469,Low,Medium,Ticket aged 448 days
+TKT-00471,Medium,High,Ticket aged 680 days
+TKT-00473,Medium,High,Ticket aged 604 days
+TKT-00474,Low,Medium,Ticket aged 508 days
+TKT-00475,Low,Medium,Ticket aged 357 days
+TKT-00477,Medium,High,Ticket aged 530 days
+TKT-00478,Medium,High,Ticket aged 437 days
+TKT-00482,High,Critical,Critical category: Authentication
+TKT-00483,Medium,High,Ticket aged 680 days
+TKT-00484,Low,Medium,Ticket aged 333 days
+TKT-00485,Low,Medium,Ticket aged 374 days
+TKT-00488,Medium,High,Ticket aged 587 days
+TKT-00489,Low,Medium,Ticket aged 337 days
+TKT-00491,Low,Medium,Ticket aged 614 days
+TKT-00493,Low,Medium,Ticket aged 526 days
+TKT-00494,High,Critical,Critical category: Authentication
+TKT-00496,Medium,High,Ticket aged 533 days
+TKT-00497,Low,Medium,Ticket aged 472 days
+TKT-00498,Low,Medium,Ticket aged 617 days
+TKT-00499,Medium,High,Ticket aged 497 days
+TKT-00499,Medium,Critical,Critical category: Data Loss
+TKT-00500,Medium,High,Ticket aged 545 days
+TKT-00500,Medium,Critical,Critical category: Authentication
+TKT-00502,Low,Medium,Ticket aged 511 days
+TKT-00504,Low,Medium,Ticket aged 569 days
+TKT-00510,Low,Medium,Ticket aged 340 days
+TKT-00512,Medium,High,Ticket aged 629 days
+TKT-00513,High,Critical,Critical category: Authentication
+TKT-00516,Medium,High,Ticket aged 652 days
+TKT-00518,Low,Medium,Ticket aged 352 days
+TKT-00522,High,Critical,Critical category: Authentication
+TKT-00523,Medium,High,Ticket aged 452 days
+TKT-00525,Low,Medium,Ticket aged 384 days
+TKT-00526,Medium,High,Ticket aged 605 days
+TKT-00527,Low,Medium,Ticket aged 634 days
+TKT-00528,Low,Medium,Ticket aged 476 days
+TKT-00528,Low,Critical,Critical category: Data Loss
+TKT-00529,High,Critical,Critical category: Authentication
+TKT-00531,Medium,High,Ticket aged 499 days
+TKT-00532,Low,Medium,Ticket aged 496 days
+TKT-00536,Medium,High,Ticket aged 345 days
+TKT-00539,Low,Medium,Ticket aged 620 days
+TKT-00541,Low,Medium,Ticket aged 384 days
+TKT-00541,Low,Critical,Critical category: Data Loss
+TKT-00542,Medium,High,Ticket aged 565 days
+TKT-00543,Low,Medium,Ticket aged 609 days
+TKT-00545,Medium,High,Ticket aged 408 days
+TKT-00546,Medium,High,Ticket aged 595 days
+TKT-00547,Medium,High,Ticket aged 671 days
+TKT-00548,Medium,High,Ticket aged 501 days
+TKT-00549,Medium,High,Ticket aged 519 days
+TKT-00550,Low,Medium,Ticket aged 549 days
+TKT-00552,Low,Medium,Ticket aged 652 days
+TKT-00554,Medium,High,Ticket aged 629 days
+TKT-00554,Medium,Critical,Critical category: Data Loss
+TKT-00555,Medium,High,Ticket aged 571 days
+TKT-00558,Low,Medium,Ticket aged 653 days
+TKT-00559,Low,Medium,Ticket aged 479 days
+TKT-00565,Low,Medium,Ticket aged 385 days
+TKT-00567,Low,Medium,Ticket aged 413 days
+TKT-00567,Low,Critical,Critical category: Data Loss
+TKT-00569,Medium,High,Ticket aged 634 days
+TKT-00569,Medium,Critical,Critical category: Authentication
+TKT-00570,Medium,High,Ticket aged 349 days
+TKT-00570,Medium,Critical,Critical category: Authentication
+TKT-00571,Low,Medium,Ticket aged 401 days
+TKT-00571,Low,Critical,Critical category: Data Loss
+TKT-00572,Low,Medium,Ticket aged 574 days
+TKT-00573,Low,Medium,Ticket aged 568 days
+TKT-00573,Low,Critical,Critical category: Data Loss
+TKT-00581,Low,Medium,Ticket aged 494 days
+TKT-00582,Medium,High,Ticket aged 654 days
+TKT-00583,High,Critical,Critical category: Authentication
+TKT-00585,Medium,High,Ticket aged 344 days
+TKT-00585,Medium,Critical,Critical category: Data Loss
+TKT-00587,Low,Medium,Ticket aged 525 days
+TKT-00587,Low,Critical,Critical category: Data Loss
+TKT-00590,Medium,High,Ticket aged 570 days
+TKT-00590,Medium,Critical,Critical category: Authentication
+TKT-00591,Low,Medium,Ticket aged 400 days
+TKT-00593,High,Critical,Critical category: Data Loss
+TKT-00594,High,Critical,Critical category: Authentication
+TKT-00595,Low,Medium,Ticket aged 355 days
+TKT-00595,Low,Critical,Critical category: Authentication
+TKT-00597,High,Critical,Critical category: Data Loss
+TKT-00601,Low,Medium,Ticket aged 611 days
+TKT-00602,Medium,High,Ticket aged 479 days
+TKT-00603,Medium,High,Ticket aged 360 days
+TKT-00604,High,Critical,Critical category: Authentication
+TKT-00609,Low,Medium,Ticket aged 604 days
+TKT-00610,Medium,High,Ticket aged 339 days
+TKT-00612,Medium,High,Ticket aged 436 days
+TKT-00616,Low,Medium,Ticket aged 337 days
+TKT-00617,Medium,High,Ticket aged 435 days
+TKT-00618,Low,Medium,Ticket aged 527 days
+TKT-00621,Medium,High,Ticket aged 576 days
+TKT-00621,Medium,Critical,Critical category: Data Loss
+TKT-00622,Low,Medium,Ticket aged 554 days
+TKT-00623,Medium,High,Ticket aged 623 days
+TKT-00624,Medium,High,Ticket aged 464 days
+TKT-00625,Medium,High,Ticket aged 490 days
+TKT-00626,Low,Medium,Ticket aged 567 days
+TKT-00627,Medium,High,Ticket aged 342 days
+TKT-00628,Low,Medium,Ticket aged 481 days
+TKT-00630,Low,Medium,Ticket aged 645 days
+TKT-00632,Medium,High,Ticket aged 321 days
+TKT-00633,High,Critical,Critical category: Authentication
+TKT-00637,Low,Medium,Ticket aged 461 days
+TKT-00637,Low,Critical,Critical category: Data Loss
+TKT-00638,Low,Medium,Ticket aged 461 days
+TKT-00639,Medium,High,Ticket aged 416 days
+TKT-00643,Medium,High,Ticket aged 360 days
+TKT-00645,High,Critical,Critical category: Authentication
+TKT-00646,High,Critical,Critical category: Authentication
+TKT-00647,Medium,High,Ticket aged 632 days
+TKT-00649,Low,Medium,Ticket aged 606 days
+TKT-00651,Low,Medium,Ticket aged 447 days
+TKT-00653,Low,Medium,Ticket aged 395 days
+TKT-00654,Medium,High,Ticket aged 365 days
+TKT-00655,Medium,High,Ticket aged 363 days
+TKT-00656,Medium,High,Ticket aged 459 days
+TKT-00657,Medium,High,Ticket aged 458 days
+TKT-00658,Medium,High,Ticket aged 544 days
+TKT-00661,Low,Medium,Ticket aged 665 days
+TKT-00662,Low,Medium,Ticket aged 538 days
+TKT-00662,Low,Critical,Critical category: Authentication
+TKT-00664,Medium,High,Ticket aged 425 days
+TKT-00664,Medium,Critical,Critical category: Data Loss
+TKT-00665,Medium,High,Ticket aged 387 days
+TKT-00665,Medium,Critical,Critical category: Authentication
+TKT-00666,Low,Medium,Ticket aged 663 days
+TKT-00666,Low,Critical,Critical category: Authentication
+TKT-00667,Medium,High,Ticket aged 392 days
+TKT-00676,Medium,High,Ticket aged 498 days
+TKT-00678,High,Critical,Critical category: Authentication
+TKT-00680,Low,Medium,Ticket aged 513 days
+TKT-00681,Low,Medium,Ticket aged 636 days
+TKT-00681,Low,Critical,Critical category: Data Loss
+TKT-00682,High,Critical,Critical category: Data Loss
+TKT-00685,Low,Medium,Ticket aged 386 days
+TKT-00687,Low,Medium,Ticket aged 327 days
+TKT-00689,High,Critical,Critical category: Data Loss
+TKT-00690,High,Critical,Critical category: Authentication
+TKT-00691,High,Critical,Critical category: Data Loss
+TKT-00694,Medium,High,Ticket aged 341 days
+TKT-00695,Medium,High,Ticket aged 499 days
+TKT-00695,Medium,Critical,Critical category: Data Loss
+TKT-00696,Medium,High,Ticket aged 526 days
+TKT-00697,Low,Medium,Ticket aged 510 days
+TKT-00700,Medium,High,Ticket aged 633 days
+TKT-00700,Medium,Critical,Critical category: Authentication
+TKT-00701,Low,Medium,Ticket aged 407 days
+TKT-00703,High,Critical,Critical category: Data Loss
+TKT-00708,Low,Medium,Ticket aged 662 days
+TKT-00709,Medium,High,Ticket aged 338 days
+TKT-00709,Medium,Critical,Critical category: Authentication
+TKT-00711,Medium,High,Ticket aged 455 days
+TKT-00715,Medium,High,Ticket aged 448 days
+TKT-00716,Medium,High,Ticket aged 489 days
+TKT-00718,Low,Medium,Ticket aged 582 days
+TKT-00720,Medium,High,Ticket aged 438 days
+TKT-00720,Medium,Critical,Critical category: Data Loss
+TKT-00722,Medium,High,Ticket aged 420 days
+TKT-00724,Low,Medium,Ticket aged 454 days
+TKT-00724,Low,Critical,Critical category: Data Loss
+TKT-00725,Medium,High,Ticket aged 461 days
+TKT-00727,Medium,High,Ticket aged 506 days
+TKT-00733,High,Critical,Critical category: Data Loss
+TKT-00735,Low,Medium,Ticket aged 443 days
+TKT-00737,Low,Medium,Ticket aged 455 days
+TKT-00738,Low,Medium,Ticket aged 644 days
+TKT-00740,Medium,High,Ticket aged 373 days
+TKT-00741,Low,Medium,Ticket aged 628 days
+TKT-00745,Low,Medium,Ticket aged 628 days
+TKT-00745,Low,Critical,Critical category: Authentication
+TKT-00746,Medium,High,Ticket aged 410 days
+TKT-00747,Medium,High,Ticket aged 421 days
+TKT-00748,Medium,High,Ticket aged 611 days
+TKT-00752,Medium,High,Ticket aged 641 days
+TKT-00752,Medium,Critical,Critical category: Authentication
+TKT-00754,Medium,High,Ticket aged 425 days
+TKT-00754,Medium,Critical,Critical category: Authentication
+TKT-00755,Low,Medium,Ticket aged 674 days
+TKT-00758,Medium,High,Ticket aged 676 days
+TKT-00758,Medium,Critical,Critical category: Data Loss
+TKT-00760,Low,Medium,Ticket aged 348 days
+TKT-00761,Low,Medium,Ticket aged 387 days
+TKT-00764,Medium,High,Ticket aged 355 days
+TKT-00765,Medium,High,Ticket aged 334 days
+TKT-00766,Medium,High,Ticket aged 439 days
+TKT-00768,Low,Medium,Ticket aged 450 days
+TKT-00769,Medium,High,Ticket aged 581 days
+TKT-00769,Medium,Critical,Critical category: Authentication
+TKT-00776,Low,Medium,Ticket aged 545 days
+TKT-00777,Low,Medium,Ticket aged 496 days
+TKT-00777,Low,Critical,Critical category: Data Loss
+TKT-00778,Medium,High,Ticket aged 480 days
+TKT-00780,Low,Medium,Ticket aged 430 days
+TKT-00780,Low,Critical,Critical category: Data Loss
+TKT-00782,Medium,High,Ticket aged 642 days
+TKT-00782,Medium,Critical,Critical category: Data Loss
+TKT-00783,Low,Medium,Ticket aged 644 days
+TKT-00784,Low,Medium,Ticket aged 592 days
+TKT-00784,Low,Critical,Critical category: Data Loss
+TKT-00785,Medium,High,Ticket aged 520 days
+TKT-00785,Medium,Critical,Critical category: Authentication
+TKT-00786,Medium,High,Ticket aged 517 days
+TKT-00786,Medium,Critical,Critical category: Data Loss
+TKT-00788,High,Critical,Critical category: Data Loss
+TKT-00789,Medium,High,Ticket aged 457 days
+TKT-00790,Low,Medium,Ticket aged 662 days
+TKT-00793,Medium,High,Ticket aged 655 days
+TKT-00794,Low,Medium,Ticket aged 358 days
+TKT-00795,Low,Medium,Ticket aged 422 days
+TKT-00796,High,Critical,Critical category: Authentication
+TKT-00801,Medium,High,Ticket aged 488 days
+TKT-00802,High,Critical,Critical category: Authentication
+TKT-00805,Medium,High,Ticket aged 614 days
+TKT-00805,Medium,Critical,Critical category: Data Loss
+TKT-00806,Medium,High,Ticket aged 481 days
+TKT-00806,Medium,Critical,Critical category: Authentication
+TKT-00808,Low,Medium,Ticket aged 671 days
+TKT-00809,Medium,High,Ticket aged 429 days
+TKT-00810,Medium,High,Ticket aged 397 days
+TKT-00810,Medium,Critical,Critical category: Authentication
+TKT-00811,Medium,High,Ticket aged 551 days
+TKT-00811,Medium,Critical,Critical category: Authentication
+TKT-00812,Medium,High,Ticket aged 575 days
+TKT-00813,Low,Medium,Ticket aged 329 days
+TKT-00814,Medium,High,Ticket aged 622 days
+TKT-00815,Low,Medium,Ticket aged 647 days
+TKT-00817,Low,Medium,Ticket aged 335 days
+TKT-00820,Low,Medium,Ticket aged 531 days
+TKT-00820,Low,Critical,Critical category: Data Loss
+TKT-00821,Low,Medium,Ticket aged 321 days
+TKT-00822,Low,Medium,Ticket aged 595 days
+TKT-00822,Low,Critical,Critical category: Authentication
+TKT-00823,Low,Medium,Ticket aged 570 days
+TKT-00824,Low,Medium,Ticket aged 613 days
+TKT-00824,Low,Critical,Critical category: Authentication
+TKT-00825,Low,Medium,Ticket aged 432 days
+TKT-00829,Low,Medium,Ticket aged 526 days
+TKT-00832,Medium,High,Ticket aged 620 days
+TKT-00832,Medium,Critical,Critical category: Data Loss
+TKT-00833,Medium,High,Ticket aged 647 days
+TKT-00834,Low,Medium,Ticket aged 336 days
+TKT-00837,Low,Medium,Ticket aged 618 days
+TKT-00839,Medium,High,Ticket aged 606 days
+TKT-00841,Low,Medium,Ticket aged 321 days
+TKT-00842,Low,Medium,Ticket aged 419 days
+TKT-00842,Low,Critical,Critical category: Authentication
+TKT-00844,Low,Medium,Ticket aged 359 days
+TKT-00844,Low,Critical,Critical category: Authentication
+TKT-00845,Low,Medium,Ticket aged 620 days
+TKT-00845,Low,Critical,Critical category: Data Loss
+TKT-00847,Medium,High,Ticket aged 427 days
+TKT-00848,Medium,High,Ticket aged 381 days
+TKT-00848,Medium,Critical,Critical category: Authentication
+TKT-00850,Medium,High,Ticket aged 375 days
+TKT-00854,Medium,High,Ticket aged 351 days
+TKT-00855,Low,Medium,Ticket aged 392 days
+TKT-00857,Medium,High,Ticket aged 363 days
+TKT-00857,Medium,Critical,Critical category: Authentication
+TKT-00860,Medium,High,Ticket aged 532 days
+TKT-00861,Low,Medium,Ticket aged 332 days
+TKT-00862,Low,Medium,Ticket aged 459 days
+TKT-00863,Low,Medium,Ticket aged 447 days
+TKT-00864,Low,Medium,Ticket aged 374 days
+TKT-00866,Medium,High,Ticket aged 508 days
+TKT-00867,Low,Medium,Ticket aged 495 days
+TKT-00868,Low,Medium,Ticket aged 630 days
+TKT-00869,Low,Medium,Ticket aged 446 days
+TKT-00869,Low,Critical,Critical category: Authentication
+TKT-00871,Medium,High,Ticket aged 635 days
+TKT-00876,Low,Medium,Ticket aged 603 days
+TKT-00877,Low,Medium,Ticket aged 445 days
+TKT-00878,Medium,High,Ticket aged 527 days
+TKT-00878,Medium,Critical,Critical category: Data Loss
+TKT-00879,Low,Medium,Ticket aged 638 days
+TKT-00882,High,Critical,Critical category: Authentication
+TKT-00884,Low,Medium,Ticket aged 444 days
+TKT-00885,Low,Medium,Ticket aged 680 days
+TKT-00885,Low,Critical,Critical category: Data Loss
+TKT-00886,Low,Medium,Ticket aged 616 days
+TKT-00887,Low,Medium,Ticket aged 497 days
+TKT-00888,Medium,High,Ticket aged 661 days
+TKT-00889,Medium,High,Ticket aged 393 days
+TKT-00893,High,Critical,Critical category: Data Loss
+TKT-00894,Low,Medium,Ticket aged 624 days
+TKT-00895,High,Critical,Critical category: Authentication
+TKT-00897,Medium,High,Ticket aged 611 days
+TKT-00898,Low,Medium,Ticket aged 424 days
+TKT-00906,Medium,High,Ticket aged 531 days
+TKT-00906,Medium,Critical,Critical category: Authentication
+TKT-00907,Low,Medium,Ticket aged 425 days
+TKT-00907,Low,Critical,Critical category: Data Loss
+TKT-00908,Medium,High,Ticket aged 434 days
+TKT-00909,Low,Medium,Ticket aged 531 days
+TKT-00910,Medium,High,Ticket aged 676 days
+TKT-00911,Low,Medium,Ticket aged 340 days
+TKT-00915,Medium,High,Ticket aged 349 days
+TKT-00917,High,Critical,Critical category: Data Loss
+TKT-00918,Low,Medium,Ticket aged 416 days
+TKT-00919,Medium,High,Ticket aged 367 days
+TKT-00922,Low,Medium,Ticket aged 587 days
+TKT-00925,Low,Medium,Ticket aged 474 days
+TKT-00925,Low,Critical,Critical category: Authentication
+TKT-00926,Low,Medium,Ticket aged 371 days
+TKT-00929,Low,Medium,Ticket aged 518 days
+TKT-00930,Medium,High,Ticket aged 415 days
+TKT-00932,Low,Medium,Ticket aged 412 days
+TKT-00934,Medium,High,Ticket aged 336 days
+TKT-00938,Medium,High,Ticket aged 569 days
+TKT-00938,Medium,Critical,Critical category: Data Loss
+TKT-00939,Low,Medium,Ticket aged 537 days
+TKT-00939,Low,Critical,Critical category: Authentication
+TKT-00940,Low,Medium,Ticket aged 331 days
+TKT-00940,Low,Critical,Critical category: Data Loss
+TKT-00941,Medium,High,Ticket aged 522 days
+TKT-00941,Medium,Critical,Critical category: Authentication
+TKT-00944,Medium,High,Ticket aged 338 days
+TKT-00944,Medium,Critical,Critical category: Authentication
+TKT-00945,Low,Medium,Ticket aged 482 days
+TKT-00945,Low,Critical,Critical category: Data Loss
+TKT-00948,Medium,High,Ticket aged 507 days
+TKT-00948,Medium,Critical,Critical category: Authentication
+TKT-00951,Low,Medium,Ticket aged 409 days
+TKT-00952,Medium,High,Ticket aged 397 days
+TKT-00952,Medium,Critical,Critical category: Data Loss
+TKT-00955,Medium,High,Ticket aged 659 days
+TKT-00956,Low,Medium,Ticket aged 413 days
+TKT-00960,Low,Medium,Ticket aged 614 days
+TKT-00960,Low,Critical,Critical category: Data Loss
+TKT-00964,Low,Medium,Ticket aged 538 days
+TKT-00966,Low,Medium,Ticket aged 566 days
+TKT-00967,Low,Medium,Ticket aged 665 days
+TKT-00970,Low,Medium,Ticket aged 536 days
+TKT-00971,Low,Medium,Ticket aged 532 days
+TKT-00971,Low,Critical,Critical category: Authentication
+TKT-00972,Low,Medium,Ticket aged 630 days
+TKT-00972,Low,Critical,Critical category: Authentication
+TKT-00974,Medium,High,Ticket aged 416 days
+TKT-00977,High,Critical,Critical category: Data Loss
+TKT-00978,Low,Medium,Ticket aged 450 days
+TKT-00979,Medium,High,Ticket aged 589 days
+TKT-00983,High,Critical,Critical category: Data Loss
+TKT-00985,Low,Medium,Ticket aged 342 days
+TKT-00986,Low,Medium,Ticket aged 613 days
+TKT-00987,Medium,High,Ticket aged 557 days
+TKT-00988,Low,Medium,Ticket aged 488 days
+TKT-00992,High,Critical,Critical category: Authentication
+TKT-00993,Low,Medium,Ticket aged 653 days
+TKT-00994,Low,Medium,Ticket aged 446 days
+TKT-00994,Low,Critical,Critical category: Data Loss
+TKT-00995,Medium,High,Ticket aged 477 days
+TKT-00997,Medium,High,Ticket aged 624 days
+TKT-00999,Low,Medium,Ticket aged 571 days
+TKT-01000,High,Critical,Critical category: Data Loss
