@@ -1,0 +1,1001 @@
+Ticket_ID,Ticket_Type,Category,Auto_Tags,Tag_Count
+TKT-00001,General Inquiry,Performance,performance,1
+TKT-00002,Bug Report,Integration,"bug, integration",2
+TKT-00003,Account Access,UI/UX,password_reset,1
+TKT-00004,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00005,General Inquiry,Integration,integration,1
+TKT-00006,Bug Report,Integration,"bug, integration",2
+TKT-00007,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00008,Bug Report,Performance,"bug, performance",2
+TKT-00009,General Inquiry,Payment,billing,1
+TKT-00010,Billing Question,Documentation,billing,1
+TKT-00011,Billing Question,Integration,"billing, integration",2
+TKT-00012,General Inquiry,Authentication,password_reset,1
+TKT-00013,Bug Report,Authentication,"password_reset, bug",2
+TKT-00014,Technical Issue,Performance,"bug, performance",2
+TKT-00015,Bug Report,Integration,"bug, integration",2
+TKT-00016,Feature Request,Integration,"feature_request, integration",2
+TKT-00017,Bug Report,Payment,"billing, bug",2
+TKT-00018,General Inquiry,UI/UX,general,0
+TKT-00019,Account Access,Payment,"password_reset, billing",2
+TKT-00020,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00021,Bug Report,Authentication,"password_reset, bug",2
+TKT-00022,Technical Issue,UI/UX,bug,1
+TKT-00023,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00024,Bug Report,Documentation,bug,1
+TKT-00025,Bug Report,Authentication,"password_reset, bug",2
+TKT-00026,Billing Question,Integration,"billing, integration",2
+TKT-00027,Bug Report,UI/UX,bug,1
+TKT-00028,Bug Report,Authentication,"password_reset, bug",2
+TKT-00029,Billing Question,Payment,billing,1
+TKT-00030,Billing Question,Integration,"billing, integration",2
+TKT-00031,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00032,Bug Report,UI/UX,bug,1
+TKT-00033,Feature Request,Performance,"feature_request, performance",2
+TKT-00034,Technical Issue,Payment,"billing, bug",2
+TKT-00035,General Inquiry,Performance,performance,1
+TKT-00036,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00037,General Inquiry,Data Loss,data_issue,1
+TKT-00038,Bug Report,Authentication,"password_reset, bug",2
+TKT-00039,Feature Request,Documentation,feature_request,1
+TKT-00040,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00041,Bug Report,UI/UX,bug,1
+TKT-00042,Feature Request,Documentation,feature_request,1
+TKT-00043,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00044,Feature Request,Documentation,feature_request,1
+TKT-00045,Billing Question,Integration,"billing, integration",2
+TKT-00046,Bug Report,Documentation,bug,1
+TKT-00047,Feature Request,Integration,"feature_request, integration",2
+TKT-00048,Feature Request,Payment,"billing, feature_request",2
+TKT-00049,Bug Report,Performance,"bug, performance",2
+TKT-00050,Technical Issue,UI/UX,bug,1
+TKT-00051,Bug Report,Integration,"bug, integration",2
+TKT-00052,Feature Request,Integration,"feature_request, integration",2
+TKT-00053,General Inquiry,Data Loss,data_issue,1
+TKT-00054,Account Access,Performance,"password_reset, performance",2
+TKT-00055,General Inquiry,Data Loss,data_issue,1
+TKT-00056,Technical Issue,Performance,"bug, performance",2
+TKT-00057,Feature Request,Documentation,feature_request,1
+TKT-00058,Account Access,Documentation,password_reset,1
+TKT-00059,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00060,General Inquiry,Data Loss,data_issue,1
+TKT-00061,Billing Question,Authentication,"password_reset, billing",2
+TKT-00062,Bug Report,Documentation,bug,1
+TKT-00063,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00064,Technical Issue,Integration,"bug, integration",2
+TKT-00065,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00066,Account Access,Integration,"password_reset, integration",2
+TKT-00067,General Inquiry,Integration,integration,1
+TKT-00068,Technical Issue,Performance,"bug, performance",2
+TKT-00069,Bug Report,Documentation,bug,1
+TKT-00070,Technical Issue,Integration,"bug, integration",2
+TKT-00071,Technical Issue,Integration,"bug, integration",2
+TKT-00072,Feature Request,Integration,"feature_request, integration",2
+TKT-00073,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00074,Account Access,Authentication,password_reset,1
+TKT-00075,Feature Request,Payment,"billing, feature_request",2
+TKT-00076,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00077,Billing Question,UI/UX,billing,1
+TKT-00078,General Inquiry,Documentation,general,0
+TKT-00079,General Inquiry,Documentation,general,0
+TKT-00080,General Inquiry,Performance,performance,1
+TKT-00081,Feature Request,UI/UX,feature_request,1
+TKT-00082,Account Access,Payment,"password_reset, billing",2
+TKT-00083,Feature Request,Integration,"feature_request, integration",2
+TKT-00084,Feature Request,Integration,"feature_request, integration",2
+TKT-00085,Feature Request,Payment,"billing, feature_request",2
+TKT-00086,Feature Request,Performance,"feature_request, performance",2
+TKT-00087,Technical Issue,UI/UX,bug,1
+TKT-00088,General Inquiry,Integration,integration,1
+TKT-00089,General Inquiry,Integration,integration,1
+TKT-00090,Bug Report,Documentation,bug,1
+TKT-00091,Billing Question,Authentication,"password_reset, billing",2
+TKT-00092,General Inquiry,Data Loss,data_issue,1
+TKT-00093,Account Access,UI/UX,password_reset,1
+TKT-00094,Technical Issue,Integration,"bug, integration",2
+TKT-00095,Billing Question,UI/UX,billing,1
+TKT-00096,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00097,Feature Request,UI/UX,feature_request,1
+TKT-00098,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00099,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00100,General Inquiry,Integration,integration,1
+TKT-00101,Billing Question,Integration,"billing, integration",2
+TKT-00102,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00103,Technical Issue,Documentation,bug,1
+TKT-00104,Account Access,Payment,"password_reset, billing",2
+TKT-00105,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00106,General Inquiry,Authentication,password_reset,1
+TKT-00107,General Inquiry,Integration,integration,1
+TKT-00108,Bug Report,Performance,"bug, performance",2
+TKT-00109,Feature Request,Integration,"feature_request, integration",2
+TKT-00110,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00111,Feature Request,Integration,"feature_request, integration",2
+TKT-00112,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00113,Billing Question,UI/UX,billing,1
+TKT-00114,Feature Request,Performance,"feature_request, performance",2
+TKT-00115,Account Access,Documentation,password_reset,1
+TKT-00116,Billing Question,Performance,"billing, performance",2
+TKT-00117,Account Access,Performance,"password_reset, performance",2
+TKT-00118,Billing Question,Authentication,"password_reset, billing",2
+TKT-00119,General Inquiry,Authentication,password_reset,1
+TKT-00120,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00121,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00122,General Inquiry,Payment,billing,1
+TKT-00123,Feature Request,Documentation,feature_request,1
+TKT-00124,Bug Report,Performance,"bug, performance",2
+TKT-00125,Technical Issue,Performance,"bug, performance",2
+TKT-00126,Billing Question,Documentation,billing,1
+TKT-00127,Billing Question,UI/UX,billing,1
+TKT-00128,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00129,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00130,Bug Report,Documentation,bug,1
+TKT-00131,Technical Issue,UI/UX,bug,1
+TKT-00132,Feature Request,Performance,"feature_request, performance",2
+TKT-00133,Bug Report,Integration,"bug, integration",2
+TKT-00134,General Inquiry,Authentication,password_reset,1
+TKT-00135,General Inquiry,Integration,integration,1
+TKT-00136,Technical Issue,Performance,"bug, performance",2
+TKT-00137,Billing Question,Performance,"billing, performance",2
+TKT-00138,General Inquiry,Integration,integration,1
+TKT-00139,Technical Issue,Performance,"bug, performance",2
+TKT-00140,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00141,Feature Request,UI/UX,feature_request,1
+TKT-00142,Billing Question,Payment,billing,1
+TKT-00143,Bug Report,Payment,"billing, bug",2
+TKT-00144,Billing Question,Payment,billing,1
+TKT-00145,Technical Issue,UI/UX,bug,1
+TKT-00146,Billing Question,Performance,"billing, performance",2
+TKT-00147,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00148,Account Access,Authentication,password_reset,1
+TKT-00149,Billing Question,UI/UX,billing,1
+TKT-00150,General Inquiry,Authentication,password_reset,1
+TKT-00151,Bug Report,Documentation,bug,1
+TKT-00152,Account Access,Performance,"password_reset, performance",2
+TKT-00153,Bug Report,Authentication,"password_reset, bug",2
+TKT-00154,Bug Report,Performance,"bug, performance",2
+TKT-00155,General Inquiry,Payment,billing,1
+TKT-00156,Account Access,Authentication,password_reset,1
+TKT-00157,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00158,Account Access,Performance,"password_reset, performance",2
+TKT-00159,Billing Question,Authentication,"password_reset, billing",2
+TKT-00160,General Inquiry,Integration,integration,1
+TKT-00161,Bug Report,UI/UX,bug,1
+TKT-00162,Billing Question,Documentation,billing,1
+TKT-00163,Feature Request,Integration,"feature_request, integration",2
+TKT-00164,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00165,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00166,Technical Issue,Integration,"bug, integration",2
+TKT-00167,Bug Report,Performance,"bug, performance",2
+TKT-00168,Bug Report,Authentication,"password_reset, bug",2
+TKT-00169,General Inquiry,UI/UX,general,0
+TKT-00170,Billing Question,Integration,"billing, integration",2
+TKT-00171,General Inquiry,Data Loss,data_issue,1
+TKT-00172,General Inquiry,Authentication,password_reset,1
+TKT-00173,Feature Request,Performance,"feature_request, performance",2
+TKT-00174,Bug Report,Integration,"bug, integration",2
+TKT-00175,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00176,Technical Issue,Integration,"bug, integration",2
+TKT-00177,Account Access,Performance,"password_reset, performance",2
+TKT-00178,General Inquiry,Data Loss,data_issue,1
+TKT-00179,General Inquiry,Authentication,password_reset,1
+TKT-00180,Feature Request,Documentation,feature_request,1
+TKT-00181,Bug Report,Integration,"bug, integration",2
+TKT-00182,Account Access,Authentication,password_reset,1
+TKT-00183,General Inquiry,UI/UX,general,0
+TKT-00184,Feature Request,UI/UX,feature_request,1
+TKT-00185,Feature Request,Payment,"billing, feature_request",2
+TKT-00186,Billing Question,Performance,"billing, performance",2
+TKT-00187,Account Access,Integration,"password_reset, integration",2
+TKT-00188,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00189,Billing Question,Documentation,billing,1
+TKT-00190,Bug Report,Documentation,bug,1
+TKT-00191,Feature Request,UI/UX,feature_request,1
+TKT-00192,Billing Question,Performance,"billing, performance",2
+TKT-00193,Billing Question,Payment,billing,1
+TKT-00194,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00195,General Inquiry,Performance,performance,1
+TKT-00196,Billing Question,Performance,"billing, performance",2
+TKT-00197,Feature Request,Integration,"feature_request, integration",2
+TKT-00198,Technical Issue,Payment,"billing, bug",2
+TKT-00199,Bug Report,Integration,"bug, integration",2
+TKT-00200,Feature Request,UI/UX,feature_request,1
+TKT-00201,Feature Request,Documentation,feature_request,1
+TKT-00202,Bug Report,Documentation,bug,1
+TKT-00203,Bug Report,Authentication,"password_reset, bug",2
+TKT-00204,Billing Question,Documentation,billing,1
+TKT-00205,Feature Request,Documentation,feature_request,1
+TKT-00206,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00207,Account Access,Payment,"password_reset, billing",2
+TKT-00208,Billing Question,Performance,"billing, performance",2
+TKT-00209,Account Access,Performance,"password_reset, performance",2
+TKT-00210,General Inquiry,Authentication,password_reset,1
+TKT-00211,Technical Issue,Performance,"bug, performance",2
+TKT-00212,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00213,Account Access,Integration,"password_reset, integration",2
+TKT-00214,Technical Issue,Documentation,bug,1
+TKT-00215,Bug Report,Payment,"billing, bug",2
+TKT-00216,General Inquiry,Data Loss,data_issue,1
+TKT-00217,Billing Question,UI/UX,billing,1
+TKT-00218,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00219,Account Access,UI/UX,password_reset,1
+TKT-00220,Feature Request,Documentation,feature_request,1
+TKT-00221,General Inquiry,Data Loss,data_issue,1
+TKT-00222,Bug Report,Authentication,"password_reset, bug",2
+TKT-00223,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00224,Technical Issue,Performance,"bug, performance",2
+TKT-00225,Technical Issue,Performance,"bug, performance",2
+TKT-00226,Billing Question,Authentication,"password_reset, billing",2
+TKT-00227,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00228,General Inquiry,Documentation,general,0
+TKT-00229,General Inquiry,Data Loss,data_issue,1
+TKT-00230,Bug Report,Integration,"bug, integration",2
+TKT-00231,Billing Question,Integration,"billing, integration",2
+TKT-00232,Feature Request,Payment,"billing, feature_request",2
+TKT-00233,Billing Question,Performance,"billing, performance",2
+TKT-00234,Account Access,Documentation,password_reset,1
+TKT-00235,Account Access,Authentication,password_reset,1
+TKT-00236,Technical Issue,UI/UX,bug,1
+TKT-00237,Billing Question,Documentation,billing,1
+TKT-00238,Billing Question,Performance,"billing, performance",2
+TKT-00239,General Inquiry,Data Loss,data_issue,1
+TKT-00240,Technical Issue,Documentation,bug,1
+TKT-00241,General Inquiry,Performance,performance,1
+TKT-00242,Feature Request,Integration,"feature_request, integration",2
+TKT-00243,Billing Question,UI/UX,billing,1
+TKT-00244,General Inquiry,Data Loss,data_issue,1
+TKT-00245,Bug Report,Performance,"bug, performance",2
+TKT-00246,General Inquiry,Payment,billing,1
+TKT-00247,Billing Question,Integration,"billing, integration",2
+TKT-00248,Feature Request,Integration,"feature_request, integration",2
+TKT-00249,Billing Question,Performance,"billing, performance",2
+TKT-00250,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00251,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00252,Account Access,Integration,"password_reset, integration",2
+TKT-00253,Feature Request,UI/UX,feature_request,1
+TKT-00254,Feature Request,Documentation,feature_request,1
+TKT-00255,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00256,General Inquiry,Payment,billing,1
+TKT-00257,Account Access,Authentication,password_reset,1
+TKT-00258,Account Access,UI/UX,password_reset,1
+TKT-00259,Account Access,UI/UX,password_reset,1
+TKT-00260,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00261,Bug Report,Documentation,bug,1
+TKT-00262,Feature Request,Payment,"billing, feature_request",2
+TKT-00263,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00264,Technical Issue,Integration,"bug, integration",2
+TKT-00265,General Inquiry,Payment,billing,1
+TKT-00266,Feature Request,UI/UX,feature_request,1
+TKT-00267,Account Access,Documentation,password_reset,1
+TKT-00268,Billing Question,UI/UX,billing,1
+TKT-00269,Account Access,Integration,"password_reset, integration",2
+TKT-00270,Account Access,Performance,"password_reset, performance",2
+TKT-00271,Feature Request,UI/UX,feature_request,1
+TKT-00272,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00273,Bug Report,Documentation,bug,1
+TKT-00274,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00275,General Inquiry,Documentation,general,0
+TKT-00276,Billing Question,Documentation,billing,1
+TKT-00277,Technical Issue,Integration,"bug, integration",2
+TKT-00278,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00279,Bug Report,UI/UX,bug,1
+TKT-00280,Bug Report,UI/UX,bug,1
+TKT-00281,Bug Report,Authentication,"password_reset, bug",2
+TKT-00282,General Inquiry,Data Loss,data_issue,1
+TKT-00283,Feature Request,Payment,"billing, feature_request",2
+TKT-00284,Account Access,Performance,"password_reset, performance",2
+TKT-00285,Billing Question,Integration,"billing, integration",2
+TKT-00286,Billing Question,Payment,billing,1
+TKT-00287,Account Access,Payment,"password_reset, billing",2
+TKT-00288,Billing Question,Payment,billing,1
+TKT-00289,Feature Request,UI/UX,feature_request,1
+TKT-00290,Bug Report,UI/UX,bug,1
+TKT-00291,Billing Question,Documentation,billing,1
+TKT-00292,Feature Request,Performance,"feature_request, performance",2
+TKT-00293,Bug Report,Documentation,bug,1
+TKT-00294,General Inquiry,Integration,integration,1
+TKT-00295,General Inquiry,Integration,integration,1
+TKT-00296,Account Access,Performance,"password_reset, performance",2
+TKT-00297,Account Access,Documentation,password_reset,1
+TKT-00298,Feature Request,Documentation,feature_request,1
+TKT-00299,General Inquiry,Authentication,password_reset,1
+TKT-00300,General Inquiry,UI/UX,general,0
+TKT-00301,General Inquiry,Payment,billing,1
+TKT-00302,Feature Request,Documentation,feature_request,1
+TKT-00303,Feature Request,Integration,"feature_request, integration",2
+TKT-00304,Billing Question,Performance,"billing, performance",2
+TKT-00305,General Inquiry,Documentation,general,0
+TKT-00306,Account Access,Performance,"password_reset, performance",2
+TKT-00307,Billing Question,UI/UX,billing,1
+TKT-00308,Billing Question,Payment,billing,1
+TKT-00309,General Inquiry,Performance,performance,1
+TKT-00310,Bug Report,UI/UX,bug,1
+TKT-00311,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00312,Billing Question,Payment,billing,1
+TKT-00313,Bug Report,Integration,"bug, integration",2
+TKT-00314,General Inquiry,Payment,billing,1
+TKT-00315,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00316,Bug Report,Payment,"billing, bug",2
+TKT-00317,Technical Issue,Payment,"billing, bug",2
+TKT-00318,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00319,General Inquiry,Payment,billing,1
+TKT-00320,Technical Issue,Documentation,bug,1
+TKT-00321,Technical Issue,Documentation,bug,1
+TKT-00322,Feature Request,Performance,"feature_request, performance",2
+TKT-00323,Billing Question,Integration,"billing, integration",2
+TKT-00324,General Inquiry,Integration,integration,1
+TKT-00325,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00326,Technical Issue,Integration,"bug, integration",2
+TKT-00327,General Inquiry,Integration,integration,1
+TKT-00328,Billing Question,UI/UX,billing,1
+TKT-00329,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00330,Billing Question,Payment,billing,1
+TKT-00331,Bug Report,Payment,"billing, bug",2
+TKT-00332,Feature Request,Performance,"feature_request, performance",2
+TKT-00333,Account Access,Payment,"password_reset, billing",2
+TKT-00334,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00335,Bug Report,Performance,"bug, performance",2
+TKT-00336,General Inquiry,Documentation,general,0
+TKT-00337,General Inquiry,Documentation,general,0
+TKT-00338,Bug Report,Performance,"bug, performance",2
+TKT-00339,Feature Request,UI/UX,feature_request,1
+TKT-00340,General Inquiry,Data Loss,data_issue,1
+TKT-00341,Feature Request,Payment,"billing, feature_request",2
+TKT-00342,Technical Issue,UI/UX,bug,1
+TKT-00343,Technical Issue,Documentation,bug,1
+TKT-00344,Bug Report,Authentication,"password_reset, bug",2
+TKT-00345,Bug Report,UI/UX,bug,1
+TKT-00346,Feature Request,Integration,"feature_request, integration",2
+TKT-00347,Technical Issue,Documentation,bug,1
+TKT-00348,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00349,Bug Report,Authentication,"password_reset, bug",2
+TKT-00350,General Inquiry,Documentation,general,0
+TKT-00351,Account Access,Authentication,password_reset,1
+TKT-00352,Bug Report,Performance,"bug, performance",2
+TKT-00353,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00354,Technical Issue,Performance,"bug, performance",2
+TKT-00355,Bug Report,Documentation,bug,1
+TKT-00356,General Inquiry,Authentication,password_reset,1
+TKT-00357,General Inquiry,Integration,integration,1
+TKT-00358,Feature Request,Performance,"feature_request, performance",2
+TKT-00359,Billing Question,UI/UX,billing,1
+TKT-00360,Technical Issue,UI/UX,bug,1
+TKT-00361,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00362,Bug Report,Integration,"bug, integration",2
+TKT-00363,Billing Question,Documentation,billing,1
+TKT-00364,Billing Question,UI/UX,billing,1
+TKT-00365,Billing Question,Documentation,billing,1
+TKT-00366,Bug Report,Payment,"billing, bug",2
+TKT-00367,Bug Report,Payment,"billing, bug",2
+TKT-00368,Account Access,Authentication,password_reset,1
+TKT-00369,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00370,Account Access,UI/UX,password_reset,1
+TKT-00371,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00372,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00373,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00374,Feature Request,UI/UX,feature_request,1
+TKT-00375,Feature Request,Documentation,feature_request,1
+TKT-00376,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00377,Billing Question,Documentation,billing,1
+TKT-00378,General Inquiry,Data Loss,data_issue,1
+TKT-00379,Billing Question,Performance,"billing, performance",2
+TKT-00380,Account Access,Integration,"password_reset, integration",2
+TKT-00381,General Inquiry,Authentication,password_reset,1
+TKT-00382,Technical Issue,Payment,"billing, bug",2
+TKT-00383,General Inquiry,Data Loss,data_issue,1
+TKT-00384,General Inquiry,Authentication,password_reset,1
+TKT-00385,Technical Issue,Documentation,bug,1
+TKT-00386,Technical Issue,Documentation,bug,1
+TKT-00387,Feature Request,Performance,"feature_request, performance",2
+TKT-00388,Feature Request,Performance,"feature_request, performance",2
+TKT-00389,Feature Request,Documentation,feature_request,1
+TKT-00390,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00391,Feature Request,UI/UX,feature_request,1
+TKT-00392,Technical Issue,Integration,"bug, integration",2
+TKT-00393,General Inquiry,Documentation,general,0
+TKT-00394,Technical Issue,UI/UX,bug,1
+TKT-00395,General Inquiry,UI/UX,general,0
+TKT-00396,Billing Question,Payment,billing,1
+TKT-00397,Technical Issue,Integration,"bug, integration",2
+TKT-00398,Feature Request,Payment,"billing, feature_request",2
+TKT-00399,Feature Request,Payment,"billing, feature_request",2
+TKT-00400,General Inquiry,Authentication,password_reset,1
+TKT-00401,Account Access,Payment,"password_reset, billing",2
+TKT-00402,Bug Report,Payment,"billing, bug",2
+TKT-00403,Technical Issue,Performance,"bug, performance",2
+TKT-00404,Bug Report,Integration,"bug, integration",2
+TKT-00405,Technical Issue,Integration,"bug, integration",2
+TKT-00406,Billing Question,Performance,"billing, performance",2
+TKT-00407,Billing Question,Documentation,billing,1
+TKT-00408,General Inquiry,Data Loss,data_issue,1
+TKT-00409,Bug Report,Authentication,"password_reset, bug",2
+TKT-00410,Feature Request,Integration,"feature_request, integration",2
+TKT-00411,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00412,Technical Issue,Performance,"bug, performance",2
+TKT-00413,Technical Issue,UI/UX,bug,1
+TKT-00414,General Inquiry,Authentication,password_reset,1
+TKT-00415,Account Access,Performance,"password_reset, performance",2
+TKT-00416,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00417,Bug Report,Integration,"bug, integration",2
+TKT-00418,General Inquiry,Integration,integration,1
+TKT-00419,Technical Issue,UI/UX,bug,1
+TKT-00420,Billing Question,Payment,billing,1
+TKT-00421,Account Access,Performance,"password_reset, performance",2
+TKT-00422,Technical Issue,Documentation,bug,1
+TKT-00423,Billing Question,Payment,billing,1
+TKT-00424,Bug Report,Performance,"bug, performance",2
+TKT-00425,Billing Question,Integration,"billing, integration",2
+TKT-00426,General Inquiry,UI/UX,general,0
+TKT-00427,Feature Request,Performance,"feature_request, performance",2
+TKT-00428,Technical Issue,Documentation,bug,1
+TKT-00429,Account Access,Performance,"password_reset, performance",2
+TKT-00430,Billing Question,Authentication,"password_reset, billing",2
+TKT-00431,Bug Report,UI/UX,bug,1
+TKT-00432,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00433,Bug Report,Authentication,"password_reset, bug",2
+TKT-00434,Feature Request,Documentation,feature_request,1
+TKT-00435,General Inquiry,UI/UX,general,0
+TKT-00436,Bug Report,UI/UX,bug,1
+TKT-00437,Account Access,Documentation,password_reset,1
+TKT-00438,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00439,General Inquiry,UI/UX,general,0
+TKT-00440,Billing Question,Documentation,billing,1
+TKT-00441,General Inquiry,UI/UX,general,0
+TKT-00442,General Inquiry,Payment,billing,1
+TKT-00443,Technical Issue,Performance,"bug, performance",2
+TKT-00444,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00445,General Inquiry,Integration,integration,1
+TKT-00446,Account Access,Performance,"password_reset, performance",2
+TKT-00447,Technical Issue,UI/UX,bug,1
+TKT-00448,Technical Issue,UI/UX,bug,1
+TKT-00449,Feature Request,Performance,"feature_request, performance",2
+TKT-00450,Billing Question,Documentation,billing,1
+TKT-00451,Technical Issue,UI/UX,bug,1
+TKT-00452,Account Access,Authentication,password_reset,1
+TKT-00453,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00454,Bug Report,Documentation,bug,1
+TKT-00455,Bug Report,Payment,"billing, bug",2
+TKT-00456,Feature Request,Documentation,feature_request,1
+TKT-00457,Account Access,Integration,"password_reset, integration",2
+TKT-00458,Technical Issue,Integration,"bug, integration",2
+TKT-00459,General Inquiry,Authentication,password_reset,1
+TKT-00460,Account Access,Integration,"password_reset, integration",2
+TKT-00461,Feature Request,Performance,"feature_request, performance",2
+TKT-00462,Feature Request,Performance,"feature_request, performance",2
+TKT-00463,Billing Question,Authentication,"password_reset, billing",2
+TKT-00464,Account Access,Documentation,password_reset,1
+TKT-00465,Bug Report,Documentation,bug,1
+TKT-00466,Feature Request,Payment,"billing, feature_request",2
+TKT-00467,Feature Request,Performance,"feature_request, performance",2
+TKT-00468,Billing Question,Payment,billing,1
+TKT-00469,General Inquiry,Documentation,general,0
+TKT-00470,Bug Report,Payment,"billing, bug",2
+TKT-00471,General Inquiry,Integration,integration,1
+TKT-00472,Feature Request,UI/UX,feature_request,1
+TKT-00473,Technical Issue,Performance,"bug, performance",2
+TKT-00474,Bug Report,Documentation,bug,1
+TKT-00475,Account Access,Documentation,password_reset,1
+TKT-00476,Billing Question,UI/UX,billing,1
+TKT-00477,General Inquiry,Integration,integration,1
+TKT-00478,Technical Issue,Documentation,bug,1
+TKT-00479,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00480,Account Access,Performance,"password_reset, performance",2
+TKT-00481,Billing Question,Documentation,billing,1
+TKT-00482,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00483,General Inquiry,Documentation,general,0
+TKT-00484,General Inquiry,Documentation,general,0
+TKT-00485,Billing Question,Integration,"billing, integration",2
+TKT-00486,General Inquiry,Integration,integration,1
+TKT-00487,Feature Request,UI/UX,feature_request,1
+TKT-00488,Account Access,Integration,"password_reset, integration",2
+TKT-00489,Account Access,Documentation,password_reset,1
+TKT-00490,Technical Issue,Performance,"bug, performance",2
+TKT-00491,Technical Issue,UI/UX,bug,1
+TKT-00492,Technical Issue,Integration,"bug, integration",2
+TKT-00493,Account Access,Documentation,password_reset,1
+TKT-00494,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00495,Account Access,Documentation,password_reset,1
+TKT-00496,Account Access,Payment,"password_reset, billing",2
+TKT-00497,Technical Issue,UI/UX,bug,1
+TKT-00498,Billing Question,Performance,"billing, performance",2
+TKT-00499,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00500,Billing Question,Authentication,"password_reset, billing",2
+TKT-00501,Feature Request,Performance,"feature_request, performance",2
+TKT-00502,Feature Request,Integration,"feature_request, integration",2
+TKT-00503,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00504,Bug Report,UI/UX,bug,1
+TKT-00505,Bug Report,Documentation,bug,1
+TKT-00506,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00507,Technical Issue,UI/UX,bug,1
+TKT-00508,Technical Issue,Performance,"bug, performance",2
+TKT-00509,Technical Issue,Integration,"bug, integration",2
+TKT-00510,Account Access,UI/UX,password_reset,1
+TKT-00511,Bug Report,Authentication,"password_reset, bug",2
+TKT-00512,Technical Issue,Documentation,bug,1
+TKT-00513,Bug Report,Authentication,"password_reset, bug",2
+TKT-00514,Bug Report,UI/UX,bug,1
+TKT-00515,Account Access,UI/UX,password_reset,1
+TKT-00516,Feature Request,Payment,"billing, feature_request",2
+TKT-00517,Technical Issue,UI/UX,bug,1
+TKT-00518,Account Access,Integration,"password_reset, integration",2
+TKT-00519,Feature Request,Documentation,feature_request,1
+TKT-00520,Feature Request,UI/UX,feature_request,1
+TKT-00521,Technical Issue,Payment,"billing, bug",2
+TKT-00522,General Inquiry,Authentication,password_reset,1
+TKT-00523,Bug Report,Integration,"bug, integration",2
+TKT-00524,Billing Question,Payment,billing,1
+TKT-00525,Bug Report,UI/UX,bug,1
+TKT-00526,Bug Report,Performance,"bug, performance",2
+TKT-00527,Billing Question,Performance,"billing, performance",2
+TKT-00528,General Inquiry,Data Loss,data_issue,1
+TKT-00529,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00530,Billing Question,Authentication,"password_reset, billing",2
+TKT-00531,Billing Question,Payment,billing,1
+TKT-00532,Account Access,Payment,"password_reset, billing",2
+TKT-00533,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00534,Account Access,UI/UX,password_reset,1
+TKT-00535,Feature Request,Documentation,feature_request,1
+TKT-00536,Billing Question,Documentation,billing,1
+TKT-00537,Technical Issue,UI/UX,bug,1
+TKT-00538,Billing Question,Documentation,billing,1
+TKT-00539,Feature Request,Payment,"billing, feature_request",2
+TKT-00540,Account Access,Documentation,password_reset,1
+TKT-00541,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00542,Account Access,UI/UX,password_reset,1
+TKT-00543,Feature Request,Integration,"feature_request, integration",2
+TKT-00544,Technical Issue,Documentation,bug,1
+TKT-00545,Account Access,Performance,"password_reset, performance",2
+TKT-00546,Account Access,Integration,"password_reset, integration",2
+TKT-00547,Billing Question,Integration,"billing, integration",2
+TKT-00548,General Inquiry,Documentation,general,0
+TKT-00549,General Inquiry,UI/UX,general,0
+TKT-00550,Feature Request,Payment,"billing, feature_request",2
+TKT-00551,Bug Report,Performance,"bug, performance",2
+TKT-00552,Bug Report,Payment,"billing, bug",2
+TKT-00553,Billing Question,UI/UX,billing,1
+TKT-00554,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00555,Technical Issue,Documentation,bug,1
+TKT-00556,Billing Question,Performance,"billing, performance",2
+TKT-00557,Account Access,Documentation,password_reset,1
+TKT-00558,Technical Issue,Performance,"bug, performance",2
+TKT-00559,Feature Request,Payment,"billing, feature_request",2
+TKT-00560,Account Access,Authentication,password_reset,1
+TKT-00561,Bug Report,Integration,"bug, integration",2
+TKT-00562,Feature Request,Performance,"feature_request, performance",2
+TKT-00563,Account Access,Payment,"password_reset, billing",2
+TKT-00564,Feature Request,Integration,"feature_request, integration",2
+TKT-00565,Account Access,Integration,"password_reset, integration",2
+TKT-00566,Feature Request,Documentation,feature_request,1
+TKT-00567,General Inquiry,Data Loss,data_issue,1
+TKT-00568,Bug Report,Payment,"billing, bug",2
+TKT-00569,Billing Question,Authentication,"password_reset, billing",2
+TKT-00570,Account Access,Authentication,password_reset,1
+TKT-00571,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00572,Bug Report,UI/UX,bug,1
+TKT-00573,General Inquiry,Data Loss,data_issue,1
+TKT-00574,Billing Question,UI/UX,billing,1
+TKT-00575,Feature Request,Payment,"billing, feature_request",2
+TKT-00576,Account Access,Authentication,password_reset,1
+TKT-00577,Billing Question,Integration,"billing, integration",2
+TKT-00578,Feature Request,Payment,"billing, feature_request",2
+TKT-00579,Account Access,Performance,"password_reset, performance",2
+TKT-00580,Account Access,UI/UX,password_reset,1
+TKT-00581,General Inquiry,Documentation,general,0
+TKT-00582,General Inquiry,Payment,billing,1
+TKT-00583,General Inquiry,Authentication,password_reset,1
+TKT-00584,Feature Request,Integration,"feature_request, integration",2
+TKT-00585,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00586,Billing Question,Integration,"billing, integration",2
+TKT-00587,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00588,Feature Request,Performance,"feature_request, performance",2
+TKT-00589,Account Access,Payment,"password_reset, billing",2
+TKT-00590,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00591,Account Access,Performance,"password_reset, performance",2
+TKT-00592,Technical Issue,Payment,"billing, bug",2
+TKT-00593,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00594,Billing Question,Authentication,"password_reset, billing",2
+TKT-00595,Bug Report,Authentication,"password_reset, bug",2
+TKT-00596,Bug Report,UI/UX,bug,1
+TKT-00597,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00598,General Inquiry,Integration,integration,1
+TKT-00599,Bug Report,Documentation,bug,1
+TKT-00600,Technical Issue,Integration,"bug, integration",2
+TKT-00601,General Inquiry,Documentation,general,0
+TKT-00602,Feature Request,UI/UX,feature_request,1
+TKT-00603,General Inquiry,Integration,integration,1
+TKT-00604,Billing Question,Authentication,"password_reset, billing",2
+TKT-00605,Feature Request,Payment,"billing, feature_request",2
+TKT-00606,Account Access,UI/UX,password_reset,1
+TKT-00607,General Inquiry,Payment,billing,1
+TKT-00608,Technical Issue,Payment,"billing, bug",2
+TKT-00609,Feature Request,Documentation,feature_request,1
+TKT-00610,General Inquiry,Documentation,general,0
+TKT-00611,Feature Request,Documentation,feature_request,1
+TKT-00612,Billing Question,Performance,"billing, performance",2
+TKT-00613,General Inquiry,Performance,performance,1
+TKT-00614,Account Access,UI/UX,password_reset,1
+TKT-00615,Billing Question,Integration,"billing, integration",2
+TKT-00616,Account Access,Integration,"password_reset, integration",2
+TKT-00617,General Inquiry,Payment,billing,1
+TKT-00618,Billing Question,Integration,"billing, integration",2
+TKT-00619,General Inquiry,Documentation,general,0
+TKT-00620,Feature Request,Payment,"billing, feature_request",2
+TKT-00621,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00622,Technical Issue,Payment,"billing, bug",2
+TKT-00623,Feature Request,Documentation,feature_request,1
+TKT-00624,Bug Report,Performance,"bug, performance",2
+TKT-00625,Feature Request,UI/UX,feature_request,1
+TKT-00626,Bug Report,UI/UX,bug,1
+TKT-00627,Feature Request,Payment,"billing, feature_request",2
+TKT-00628,Bug Report,Integration,"bug, integration",2
+TKT-00629,Bug Report,Payment,"billing, bug",2
+TKT-00630,General Inquiry,Integration,integration,1
+TKT-00631,Feature Request,Documentation,feature_request,1
+TKT-00632,Bug Report,Payment,"billing, bug",2
+TKT-00633,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00634,Account Access,Performance,"password_reset, performance",2
+TKT-00635,General Inquiry,Performance,performance,1
+TKT-00636,Bug Report,Payment,"billing, bug",2
+TKT-00637,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00638,General Inquiry,Integration,integration,1
+TKT-00639,Technical Issue,Payment,"billing, bug",2
+TKT-00640,Technical Issue,Performance,"bug, performance",2
+TKT-00641,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00642,General Inquiry,UI/UX,general,0
+TKT-00643,General Inquiry,UI/UX,general,0
+TKT-00644,Account Access,Integration,"password_reset, integration",2
+TKT-00645,Billing Question,Authentication,"password_reset, billing",2
+TKT-00646,General Inquiry,Authentication,password_reset,1
+TKT-00647,Bug Report,Integration,"bug, integration",2
+TKT-00648,Technical Issue,Payment,"billing, bug",2
+TKT-00649,Bug Report,Documentation,bug,1
+TKT-00650,General Inquiry,Performance,performance,1
+TKT-00651,General Inquiry,UI/UX,general,0
+TKT-00652,General Inquiry,Integration,integration,1
+TKT-00653,Feature Request,UI/UX,feature_request,1
+TKT-00654,Account Access,Payment,"password_reset, billing",2
+TKT-00655,Feature Request,UI/UX,feature_request,1
+TKT-00656,Technical Issue,Integration,"bug, integration",2
+TKT-00657,Technical Issue,UI/UX,bug,1
+TKT-00658,Technical Issue,Integration,"bug, integration",2
+TKT-00659,Account Access,UI/UX,password_reset,1
+TKT-00660,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00661,Bug Report,Performance,"bug, performance",2
+TKT-00662,General Inquiry,Authentication,password_reset,1
+TKT-00663,Bug Report,Authentication,"password_reset, bug",2
+TKT-00664,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00665,Bug Report,Authentication,"password_reset, bug",2
+TKT-00666,General Inquiry,Authentication,password_reset,1
+TKT-00667,Bug Report,Performance,"bug, performance",2
+TKT-00668,Billing Question,Payment,billing,1
+TKT-00669,Feature Request,Integration,"feature_request, integration",2
+TKT-00670,Account Access,Performance,"password_reset, performance",2
+TKT-00671,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00672,Feature Request,UI/UX,feature_request,1
+TKT-00673,General Inquiry,Documentation,general,0
+TKT-00674,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00675,General Inquiry,UI/UX,general,0
+TKT-00676,Bug Report,UI/UX,bug,1
+TKT-00677,Billing Question,Documentation,billing,1
+TKT-00678,Account Access,Authentication,password_reset,1
+TKT-00679,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00680,Feature Request,Performance,"feature_request, performance",2
+TKT-00681,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00682,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00683,Feature Request,Integration,"feature_request, integration",2
+TKT-00684,Technical Issue,Performance,"bug, performance",2
+TKT-00685,Technical Issue,Integration,"bug, integration",2
+TKT-00686,General Inquiry,UI/UX,general,0
+TKT-00687,Billing Question,Performance,"billing, performance",2
+TKT-00688,Account Access,Payment,"password_reset, billing",2
+TKT-00689,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00690,Account Access,Authentication,password_reset,1
+TKT-00691,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00692,Billing Question,Payment,billing,1
+TKT-00693,Bug Report,Performance,"bug, performance",2
+TKT-00694,Feature Request,Payment,"billing, feature_request",2
+TKT-00695,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00696,Feature Request,Integration,"feature_request, integration",2
+TKT-00697,Technical Issue,Performance,"bug, performance",2
+TKT-00698,Feature Request,Integration,"feature_request, integration",2
+TKT-00699,General Inquiry,Payment,billing,1
+TKT-00700,General Inquiry,Authentication,password_reset,1
+TKT-00701,Feature Request,Performance,"feature_request, performance",2
+TKT-00702,Account Access,UI/UX,password_reset,1
+TKT-00703,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00704,Account Access,Integration,"password_reset, integration",2
+TKT-00705,Technical Issue,Payment,"billing, bug",2
+TKT-00706,General Inquiry,Performance,performance,1
+TKT-00707,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00708,Technical Issue,Performance,"bug, performance",2
+TKT-00709,Account Access,Authentication,password_reset,1
+TKT-00710,General Inquiry,Payment,billing,1
+TKT-00711,Technical Issue,Integration,"bug, integration",2
+TKT-00712,General Inquiry,Documentation,general,0
+TKT-00713,Billing Question,Documentation,billing,1
+TKT-00714,General Inquiry,Performance,performance,1
+TKT-00715,Billing Question,UI/UX,billing,1
+TKT-00716,Bug Report,Performance,"bug, performance",2
+TKT-00717,Billing Question,Integration,"billing, integration",2
+TKT-00718,Bug Report,Performance,"bug, performance",2
+TKT-00719,Billing Question,Performance,"billing, performance",2
+TKT-00720,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00721,Bug Report,Documentation,bug,1
+TKT-00722,Feature Request,Documentation,feature_request,1
+TKT-00723,Feature Request,Performance,"feature_request, performance",2
+TKT-00724,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00725,Feature Request,Performance,"feature_request, performance",2
+TKT-00726,General Inquiry,Integration,integration,1
+TKT-00727,Billing Question,Payment,billing,1
+TKT-00728,Billing Question,Performance,"billing, performance",2
+TKT-00729,General Inquiry,UI/UX,general,0
+TKT-00730,General Inquiry,Integration,integration,1
+TKT-00731,Feature Request,Documentation,feature_request,1
+TKT-00732,Feature Request,Payment,"billing, feature_request",2
+TKT-00733,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00734,General Inquiry,Documentation,general,0
+TKT-00735,Bug Report,UI/UX,bug,1
+TKT-00736,Billing Question,UI/UX,billing,1
+TKT-00737,Feature Request,Documentation,feature_request,1
+TKT-00738,Bug Report,Integration,"bug, integration",2
+TKT-00739,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00740,Feature Request,Payment,"billing, feature_request",2
+TKT-00741,Technical Issue,Payment,"billing, bug",2
+TKT-00742,General Inquiry,Authentication,password_reset,1
+TKT-00743,Billing Question,Payment,billing,1
+TKT-00744,Billing Question,Payment,billing,1
+TKT-00745,Account Access,Authentication,password_reset,1
+TKT-00746,General Inquiry,Integration,integration,1
+TKT-00747,Technical Issue,Performance,"bug, performance",2
+TKT-00748,Bug Report,Payment,"billing, bug",2
+TKT-00749,Technical Issue,UI/UX,bug,1
+TKT-00750,Bug Report,Integration,"bug, integration",2
+TKT-00751,Billing Question,Integration,"billing, integration",2
+TKT-00752,Account Access,Authentication,password_reset,1
+TKT-00753,Account Access,Integration,"password_reset, integration",2
+TKT-00754,Billing Question,Authentication,"password_reset, billing",2
+TKT-00755,Feature Request,Integration,"feature_request, integration",2
+TKT-00756,Technical Issue,Performance,"bug, performance",2
+TKT-00757,Account Access,UI/UX,password_reset,1
+TKT-00758,General Inquiry,Data Loss,data_issue,1
+TKT-00759,Feature Request,Integration,"feature_request, integration",2
+TKT-00760,Bug Report,Integration,"bug, integration",2
+TKT-00761,General Inquiry,Integration,integration,1
+TKT-00762,Account Access,Authentication,password_reset,1
+TKT-00763,Bug Report,Documentation,bug,1
+TKT-00764,Feature Request,UI/UX,feature_request,1
+TKT-00765,Bug Report,Documentation,bug,1
+TKT-00766,Feature Request,Payment,"billing, feature_request",2
+TKT-00767,Bug Report,Authentication,"password_reset, bug",2
+TKT-00768,Technical Issue,Performance,"bug, performance",2
+TKT-00769,Account Access,Authentication,password_reset,1
+TKT-00770,Account Access,Payment,"password_reset, billing",2
+TKT-00771,Feature Request,Documentation,feature_request,1
+TKT-00772,Bug Report,Performance,"bug, performance",2
+TKT-00773,Billing Question,Payment,billing,1
+TKT-00774,General Inquiry,Documentation,general,0
+TKT-00775,General Inquiry,Payment,billing,1
+TKT-00776,Account Access,UI/UX,password_reset,1
+TKT-00777,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00778,Bug Report,Documentation,bug,1
+TKT-00779,Technical Issue,Performance,"bug, performance",2
+TKT-00780,General Inquiry,Data Loss,data_issue,1
+TKT-00781,Billing Question,UI/UX,billing,1
+TKT-00782,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00783,Technical Issue,Payment,"billing, bug",2
+TKT-00784,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00785,Account Access,Authentication,password_reset,1
+TKT-00786,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00787,Billing Question,Documentation,billing,1
+TKT-00788,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00789,General Inquiry,Payment,billing,1
+TKT-00790,Billing Question,Integration,"billing, integration",2
+TKT-00791,Bug Report,Authentication,"password_reset, bug",2
+TKT-00792,Feature Request,Payment,"billing, feature_request",2
+TKT-00793,Feature Request,Documentation,feature_request,1
+TKT-00794,Bug Report,Integration,"bug, integration",2
+TKT-00795,Billing Question,UI/UX,billing,1
+TKT-00796,Bug Report,Authentication,"password_reset, bug",2
+TKT-00797,Feature Request,Performance,"feature_request, performance",2
+TKT-00798,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00799,Billing Question,Performance,"billing, performance",2
+TKT-00800,Feature Request,UI/UX,feature_request,1
+TKT-00801,General Inquiry,UI/UX,general,0
+TKT-00802,Bug Report,Authentication,"password_reset, bug",2
+TKT-00803,General Inquiry,Integration,integration,1
+TKT-00804,General Inquiry,Performance,performance,1
+TKT-00805,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00806,Bug Report,Authentication,"password_reset, bug",2
+TKT-00807,Billing Question,Documentation,billing,1
+TKT-00808,Feature Request,Performance,"feature_request, performance",2
+TKT-00809,Account Access,Payment,"password_reset, billing",2
+TKT-00810,Billing Question,Authentication,"password_reset, billing",2
+TKT-00811,Billing Question,Authentication,"password_reset, billing",2
+TKT-00812,Account Access,Integration,"password_reset, integration",2
+TKT-00813,Feature Request,Documentation,feature_request,1
+TKT-00814,Bug Report,UI/UX,bug,1
+TKT-00815,Technical Issue,UI/UX,bug,1
+TKT-00816,Account Access,Integration,"password_reset, integration",2
+TKT-00817,Technical Issue,Integration,"bug, integration",2
+TKT-00818,Feature Request,UI/UX,feature_request,1
+TKT-00819,Billing Question,Performance,"billing, performance",2
+TKT-00820,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00821,Feature Request,UI/UX,feature_request,1
+TKT-00822,Bug Report,Authentication,"password_reset, bug",2
+TKT-00823,Bug Report,Performance,"bug, performance",2
+TKT-00824,General Inquiry,Authentication,password_reset,1
+TKT-00825,Feature Request,UI/UX,feature_request,1
+TKT-00826,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00827,General Inquiry,Integration,integration,1
+TKT-00828,Feature Request,Performance,"feature_request, performance",2
+TKT-00829,Feature Request,UI/UX,feature_request,1
+TKT-00830,General Inquiry,UI/UX,general,0
+TKT-00831,Feature Request,Documentation,feature_request,1
+TKT-00832,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00833,Billing Question,Payment,billing,1
+TKT-00834,Technical Issue,Payment,"billing, bug",2
+TKT-00835,Bug Report,Documentation,bug,1
+TKT-00836,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00837,Billing Question,Documentation,billing,1
+TKT-00838,Account Access,UI/UX,password_reset,1
+TKT-00839,Technical Issue,Performance,"bug, performance",2
+TKT-00840,Account Access,Performance,"password_reset, performance",2
+TKT-00841,Billing Question,Documentation,billing,1
+TKT-00842,Bug Report,Authentication,"password_reset, bug",2
+TKT-00843,Account Access,UI/UX,password_reset,1
+TKT-00844,Billing Question,Authentication,"password_reset, billing",2
+TKT-00845,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00846,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00847,General Inquiry,Integration,integration,1
+TKT-00848,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00849,Bug Report,Integration,"bug, integration",2
+TKT-00850,Bug Report,Performance,"bug, performance",2
+TKT-00851,Technical Issue,Payment,"billing, bug",2
+TKT-00852,Bug Report,Payment,"billing, bug",2
+TKT-00853,Technical Issue,Documentation,bug,1
+TKT-00854,Account Access,Documentation,password_reset,1
+TKT-00855,Bug Report,Integration,"bug, integration",2
+TKT-00856,Account Access,Authentication,password_reset,1
+TKT-00857,Bug Report,Authentication,"password_reset, bug",2
+TKT-00858,Technical Issue,Documentation,bug,1
+TKT-00859,General Inquiry,Payment,billing,1
+TKT-00860,Feature Request,Payment,"billing, feature_request",2
+TKT-00861,Bug Report,Integration,"bug, integration",2
+TKT-00862,Billing Question,Documentation,billing,1
+TKT-00863,Feature Request,Integration,"feature_request, integration",2
+TKT-00864,Technical Issue,Performance,"bug, performance",2
+TKT-00865,General Inquiry,UI/UX,general,0
+TKT-00866,General Inquiry,Documentation,general,0
+TKT-00867,Billing Question,UI/UX,billing,1
+TKT-00868,Account Access,Payment,"password_reset, billing",2
+TKT-00869,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00870,Feature Request,Performance,"feature_request, performance",2
+TKT-00871,Account Access,Integration,"password_reset, integration",2
+TKT-00872,Account Access,Documentation,password_reset,1
+TKT-00873,Technical Issue,Integration,"bug, integration",2
+TKT-00874,Feature Request,UI/UX,feature_request,1
+TKT-00875,Technical Issue,Documentation,bug,1
+TKT-00876,Billing Question,Performance,"billing, performance",2
+TKT-00877,Billing Question,UI/UX,billing,1
+TKT-00878,General Inquiry,Data Loss,data_issue,1
+TKT-00879,Bug Report,Payment,"billing, bug",2
+TKT-00880,General Inquiry,Performance,performance,1
+TKT-00881,Account Access,UI/UX,password_reset,1
+TKT-00882,General Inquiry,Authentication,password_reset,1
+TKT-00883,Bug Report,Documentation,bug,1
+TKT-00884,General Inquiry,Performance,performance,1
+TKT-00885,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00886,Billing Question,Payment,billing,1
+TKT-00887,Bug Report,Integration,"bug, integration",2
+TKT-00888,Billing Question,Integration,"billing, integration",2
+TKT-00889,Billing Question,Integration,"billing, integration",2
+TKT-00890,Billing Question,Integration,"billing, integration",2
+TKT-00891,Technical Issue,Performance,"bug, performance",2
+TKT-00892,Bug Report,Data Loss,"bug, data_issue",2
+TKT-00893,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00894,Bug Report,Integration,"bug, integration",2
+TKT-00895,Account Access,Authentication,password_reset,1
+TKT-00896,Bug Report,Documentation,bug,1
+TKT-00897,Bug Report,Integration,"bug, integration",2
+TKT-00898,Billing Question,Documentation,billing,1
+TKT-00899,Account Access,Performance,"password_reset, performance",2
+TKT-00900,General Inquiry,Data Loss,data_issue,1
+TKT-00901,Account Access,Payment,"password_reset, billing",2
+TKT-00902,Account Access,Integration,"password_reset, integration",2
+TKT-00903,Bug Report,UI/UX,bug,1
+TKT-00904,Account Access,Integration,"password_reset, integration",2
+TKT-00905,Bug Report,Authentication,"password_reset, bug",2
+TKT-00906,General Inquiry,Authentication,password_reset,1
+TKT-00907,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00908,Billing Question,Performance,"billing, performance",2
+TKT-00909,Feature Request,Integration,"feature_request, integration",2
+TKT-00910,Technical Issue,UI/UX,bug,1
+TKT-00911,Account Access,Payment,"password_reset, billing",2
+TKT-00912,General Inquiry,UI/UX,general,0
+TKT-00913,Billing Question,UI/UX,billing,1
+TKT-00914,General Inquiry,UI/UX,general,0
+TKT-00915,Billing Question,Payment,billing,1
+TKT-00916,Billing Question,Integration,"billing, integration",2
+TKT-00917,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00918,General Inquiry,UI/UX,general,0
+TKT-00919,Account Access,UI/UX,password_reset,1
+TKT-00920,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00921,General Inquiry,Authentication,password_reset,1
+TKT-00922,Feature Request,Performance,"feature_request, performance",2
+TKT-00923,Feature Request,Integration,"feature_request, integration",2
+TKT-00924,Billing Question,Integration,"billing, integration",2
+TKT-00925,Bug Report,Authentication,"password_reset, bug",2
+TKT-00926,General Inquiry,Documentation,general,0
+TKT-00927,Account Access,Integration,"password_reset, integration",2
+TKT-00928,General Inquiry,Performance,performance,1
+TKT-00929,Feature Request,Payment,"billing, feature_request",2
+TKT-00930,Feature Request,Payment,"billing, feature_request",2
+TKT-00931,Feature Request,UI/UX,feature_request,1
+TKT-00932,Technical Issue,Performance,"bug, performance",2
+TKT-00933,General Inquiry,Documentation,general,0
+TKT-00934,Technical Issue,Payment,"billing, bug",2
+TKT-00935,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00936,Bug Report,Integration,"bug, integration",2
+TKT-00937,General Inquiry,Performance,performance,1
+TKT-00938,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00939,General Inquiry,Authentication,password_reset,1
+TKT-00940,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00941,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00942,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00943,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00944,Bug Report,Authentication,"password_reset, bug",2
+TKT-00945,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00946,General Inquiry,Integration,integration,1
+TKT-00947,Technical Issue,Integration,"bug, integration",2
+TKT-00948,General Inquiry,Authentication,password_reset,1
+TKT-00949,Feature Request,Integration,"feature_request, integration",2
+TKT-00950,General Inquiry,UI/UX,general,0
+TKT-00951,General Inquiry,UI/UX,general,0
+TKT-00952,General Inquiry,Data Loss,data_issue,1
+TKT-00953,Account Access,Documentation,password_reset,1
+TKT-00954,Technical Issue,Performance,"bug, performance",2
+TKT-00955,Bug Report,Performance,"bug, performance",2
+TKT-00956,Feature Request,Performance,"feature_request, performance",2
+TKT-00957,Billing Question,Data Loss,"billing, data_issue",2
+TKT-00958,Feature Request,Authentication,"password_reset, feature_request",2
+TKT-00959,Billing Question,Documentation,billing,1
+TKT-00960,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00961,Account Access,Authentication,password_reset,1
+TKT-00962,Account Access,Authentication,password_reset,1
+TKT-00963,Account Access,UI/UX,password_reset,1
+TKT-00964,Account Access,UI/UX,password_reset,1
+TKT-00965,Bug Report,Integration,"bug, integration",2
+TKT-00966,Bug Report,Payment,"billing, bug",2
+TKT-00967,Billing Question,Documentation,billing,1
+TKT-00968,Bug Report,Payment,"billing, bug",2
+TKT-00969,Feature Request,Documentation,feature_request,1
+TKT-00970,Account Access,Integration,"password_reset, integration",2
+TKT-00971,General Inquiry,Authentication,password_reset,1
+TKT-00972,Technical Issue,Authentication,"password_reset, bug",2
+TKT-00973,Technical Issue,Integration,"bug, integration",2
+TKT-00974,Technical Issue,UI/UX,bug,1
+TKT-00975,General Inquiry,Performance,performance,1
+TKT-00976,Feature Request,Performance,"feature_request, performance",2
+TKT-00977,Technical Issue,Data Loss,"bug, data_issue",2
+TKT-00978,Technical Issue,UI/UX,bug,1
+TKT-00979,Billing Question,Integration,"billing, integration",2
+TKT-00980,Feature Request,Documentation,feature_request,1
+TKT-00981,Feature Request,UI/UX,feature_request,1
+TKT-00982,Technical Issue,Integration,"bug, integration",2
+TKT-00983,Feature Request,Data Loss,"feature_request, data_issue",2
+TKT-00984,Billing Question,Documentation,billing,1
+TKT-00985,General Inquiry,Performance,performance,1
+TKT-00986,Billing Question,Performance,"billing, performance",2
+TKT-00987,General Inquiry,Documentation,general,0
+TKT-00988,Account Access,Documentation,password_reset,1
+TKT-00989,Billing Question,Payment,billing,1
+TKT-00990,Account Access,Payment,"password_reset, billing",2
+TKT-00991,Technical Issue,Payment,"billing, bug",2
+TKT-00992,General Inquiry,Authentication,password_reset,1
+TKT-00993,Account Access,UI/UX,password_reset,1
+TKT-00994,Account Access,Data Loss,"password_reset, data_issue",2
+TKT-00995,Technical Issue,Performance,"bug, performance",2
+TKT-00996,Account Access,Documentation,password_reset,1
+TKT-00997,General Inquiry,UI/UX,general,0
+TKT-00998,General Inquiry,Authentication,password_reset,1
+TKT-00999,Billing Question,Integration,"billing, integration",2
+TKT-01000,Technical Issue,Data Loss,"bug, data_issue",2
