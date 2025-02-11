@@ -1,0 +1,1001 @@
+Ticket_ID,Created_Date,Ticket_Type,Priority,Status,Channel,Product,Category,Assigned_Agent,First_Response_Time_Hours,Resolution_Time_Hours,CSAT_Score
+TKT-00001,2024-11-23 03:01:00,General Inquiry,Critical,Closed,Chat,Product D,Performance,Agent_1,1.11,18.05,5.0
+TKT-00002,2024-05-20 07:14:00,Bug Report,High,In Progress,Phone,Product C,Integration,Agent_1,7.88,22.74,
+TKT-00003,2024-03-12 23:06:00,Account Access,Medium,In Progress,Phone,Product B,UI/UX,Agent_7,19.43,33.02,
+TKT-00004,2024-12-12 23:57:00,Feature Request,Critical,Open,Web Portal,Product C,Data Loss,Agent_2,0.95,10.5,
+TKT-00005,2024-10-06 02:37:00,General Inquiry,Low,Resolved,Email,Product B,Integration,Agent_1,68.01,133.65,3.0
+TKT-00006,2024-08-04 01:01:00,Bug Report,Low,In Progress,Web Portal,Product D,Integration,Agent_3,63.33,151.47,
+TKT-00007,2024-02-17 06:14:00,Feature Request,Low,Resolved,Web Portal,Product B,Data Loss,Agent_11,64.86,112.5,2.0
+TKT-00008,2024-09-15 19:01:00,Bug Report,Medium,In Progress,Phone,Product E,Performance,Agent_8,19.12,53.18,
+TKT-00009,2024-10-14 06:45:00,General Inquiry,Critical,Pending,Email,Product A,Payment,Agent_8,1.46,18.01,
+TKT-00010,2024-11-28 22:34:00,Billing Question,Low,Open,Web Portal,Product C,Documentation,Agent_12,62.86,95.26,
+TKT-00011,2024-08-02 07:28:00,Billing Question,Medium,Resolved,Phone,Product A,Integration,Agent_7,6.42,82.86,3.0
+TKT-00012,2024-10-28 08:51:00,General Inquiry,Medium,Open,Chat,Product B,Authentication,Agent_14,23.46,80.41,
+TKT-00013,2024-01-04 05:44:00,Bug Report,Critical,Closed,Email,Product E,Authentication,Agent_11,2.87,14.6,5.0
+TKT-00014,2024-08-04 10:17:00,Technical Issue,Low,Open,Phone,Product B,Performance,Agent_12,48.87,55.67,
+TKT-00015,2024-03-20 06:48:00,Bug Report,Low,Resolved,Chat,Product D,Integration,Agent_10,52.84,148.46,2.0
+TKT-00016,2024-06-21 03:05:00,Feature Request,High,Resolved,Web Portal,Product D,Integration,Agent_12,10.83,31.4,3.0
+TKT-00017,2024-07-13 03:22:00,Bug Report,Low,Closed,Web Portal,Product D,Payment,Agent_8,12.12,146.26,4.0
+TKT-00018,2024-06-25 19:16:00,General Inquiry,Critical,Closed,Web Portal,Product B,UI/UX,Agent_5,1.99,17.03,4.0
+TKT-00019,2024-01-23 23:29:00,Account Access,Medium,In Progress,Chat,Product D,Payment,Agent_10,18.12,78.25,
+TKT-00020,2024-10-01 03:59:00,Technical Issue,Critical,Resolved,Chat,Product B,Authentication,Agent_14,2.78,8.15,5.0
+TKT-00021,2024-07-12 02:35:00,Bug Report,Low,Open,Web Portal,Product B,Authentication,Agent_10,63.23,127.03,
+TKT-00022,2024-05-30 20:39:00,Technical Issue,Medium,Closed,Web Portal,Product E,UI/UX,Agent_6,11.81,32.45,5.0
+TKT-00023,2024-07-04 18:12:00,Technical Issue,Critical,Open,Chat,Product C,Authentication,Agent_12,3.46,21.24,
+TKT-00024,2024-12-26 02:02:00,Bug Report,Low,Closed,Phone,Product A,Documentation,Agent_11,36.41,131.43,4.0
+TKT-00025,2024-12-04 07:49:00,Bug Report,Low,Resolved,Email,Product C,Authentication,Agent_12,19.3,48.64,2.0
+TKT-00026,2024-05-28 02:54:00,Billing Question,Low,Closed,Web Portal,Product A,Integration,Agent_11,43.1,101.67,3.0
+TKT-00027,2024-04-29 03:24:00,Bug Report,High,Resolved,Chat,Product A,UI/UX,Agent_7,6.96,23.31,2.0
+TKT-00028,2024-05-22 14:40:00,Bug Report,High,Closed,Phone,Product B,Authentication,Agent_13,7.17,13.41,2.0
+TKT-00029,2024-07-05 05:23:00,Billing Question,High,In Progress,Phone,Product D,Payment,Agent_5,2.43,32.7,
+TKT-00030,2024-06-30 06:42:00,Billing Question,Medium,Closed,Phone,Product D,Integration,Agent_2,18.98,70.99,1.0
+TKT-00031,2024-05-16 22:59:00,Account Access,Critical,In Progress,Web Portal,Product D,Data Loss,Agent_3,0.66,5.76,
+TKT-00032,2024-12-15 20:04:00,Bug Report,Medium,In Progress,Chat,Product C,UI/UX,Agent_3,22.53,42.49,
+TKT-00033,2024-11-07 20:10:00,Feature Request,Medium,Open,Email,Product D,Performance,Agent_1,15.58,78.22,
+TKT-00034,2024-09-30 23:15:00,Technical Issue,Low,Resolved,Chat,Product E,Payment,Agent_4,30.97,58.15,4.0
+TKT-00035,2024-03-24 14:24:00,General Inquiry,Low,Closed,Chat,Product B,Performance,Agent_2,35.51,62.97,2.0
+TKT-00036,2024-05-18 20:44:00,Billing Question,Medium,Closed,Phone,Product D,Data Loss,Agent_14,12.02,45.5,4.0
+TKT-00037,2024-10-12 07:43:00,General Inquiry,Critical,Pending,Email,Product D,Data Loss,Agent_1,3.58,23.33,
+TKT-00038,2024-06-15 01:14:00,Bug Report,High,Closed,Web Portal,Product D,Authentication,Agent_12,10.08,18.18,4.0
+TKT-00039,2024-01-17 10:25:00,Feature Request,Medium,Resolved,Web Portal,Product C,Documentation,Agent_4,23.82,94.35,5.0
+TKT-00040,2024-05-17 02:13:00,Technical Issue,Medium,Resolved,Phone,Product B,Authentication,Agent_14,10.06,71.39,4.0
+TKT-00041,2024-10-17 22:20:00,Bug Report,Critical,Closed,Web Portal,Product E,UI/UX,Agent_1,2.91,8.97,3.0
+TKT-00042,2024-04-18 20:31:00,Feature Request,Critical,In Progress,Chat,Product D,Documentation,Agent_4,3.85,4.92,
+TKT-00043,2024-07-21 20:29:00,Technical Issue,Medium,Pending,Phone,Product A,Data Loss,Agent_8,22.51,92.1,
+TKT-00044,2024-03-14 08:08:00,Feature Request,Low,Resolved,Email,Product C,Documentation,Agent_11,23.81,156.55,4.0
+TKT-00045,2024-05-06 23:35:00,Billing Question,Low,Pending,Chat,Product D,Integration,Agent_3,31.75,83.21,
+TKT-00046,2024-10-02 08:47:00,Bug Report,Medium,Pending,Email,Product D,Documentation,Agent_11,7.13,62.46,
+TKT-00047,2024-10-26 13:57:00,Feature Request,Low,Resolved,Email,Product C,Integration,Agent_4,49.52,64.78,5.0
+TKT-00048,2024-10-25 12:23:00,Feature Request,Critical,In Progress,Chat,Product E,Payment,Agent_7,0.6,13.81,
+TKT-00049,2024-04-22 04:32:00,Bug Report,High,In Progress,Email,Product A,Performance,Agent_14,6.32,23.27,
+TKT-00050,2024-09-09 02:48:00,Technical Issue,Critical,Resolved,Phone,Product A,UI/UX,Agent_11,0.58,22.22,5.0
+TKT-00051,2024-01-25 03:09:00,Bug Report,High,Closed,Phone,Product E,Integration,Agent_14,9.97,47.88,5.0
+TKT-00052,2024-11-17 05:50:00,Feature Request,Medium,Closed,Chat,Product C,Integration,Agent_13,22.83,67.64,2.0
+TKT-00053,2024-12-14 13:38:00,General Inquiry,Medium,Pending,Web Portal,Product D,Data Loss,Agent_9,21.13,60.76,
+TKT-00054,2024-02-02 12:24:00,Account Access,High,Closed,Email,Product E,Performance,Agent_4,4.47,36.77,4.0
+TKT-00055,2024-11-01 14:33:00,General Inquiry,Low,Pending,Chat,Product C,Data Loss,Agent_2,40.41,127.51,
+TKT-00056,2024-05-08 17:55:00,Technical Issue,Medium,Closed,Email,Product C,Performance,Agent_5,23.26,27.22,3.0
+TKT-00057,2024-01-06 21:46:00,Feature Request,High,In Progress,Chat,Product C,Documentation,Agent_13,10.33,13.32,
+TKT-00058,2024-02-28 21:56:00,Account Access,Low,In Progress,Email,Product C,Documentation,Agent_8,61.3,65.0,
+TKT-00059,2024-10-01 08:49:00,Technical Issue,High,In Progress,Web Portal,Product A,Data Loss,Agent_3,7.2,42.82,
+TKT-00060,2024-11-24 10:07:00,General Inquiry,Medium,Closed,Chat,Product C,Data Loss,Agent_8,10.26,39.5,2.0
+TKT-00061,2024-05-30 13:10:00,Billing Question,Medium,Pending,Phone,Product E,Authentication,Agent_7,7.31,33.66,
+TKT-00062,2024-08-20 00:46:00,Bug Report,Critical,Pending,Web Portal,Product D,Documentation,Agent_1,2.6,15.04,
+TKT-00063,2024-05-14 16:48:00,Technical Issue,High,In Progress,Phone,Product D,Authentication,Agent_2,6.39,33.3,
+TKT-00064,2024-04-01 16:58:00,Technical Issue,Low,In Progress,Web Portal,Product B,Integration,Agent_3,17.74,81.29,
+TKT-00065,2024-02-24 20:19:00,Feature Request,Medium,Closed,Phone,Product E,Authentication,Agent_15,14.04,76.5,4.0
+TKT-00066,2024-11-23 16:38:00,Account Access,Critical,Closed,Web Portal,Product B,Integration,Agent_3,0.94,12.44,5.0
+TKT-00067,2024-04-11 04:23:00,General Inquiry,Critical,Pending,Email,Product E,Integration,Agent_12,3.91,15.0,
+TKT-00068,2024-03-23 17:49:00,Technical Issue,Low,Open,Phone,Product C,Performance,Agent_12,67.0,79.28,
+TKT-00069,2024-09-28 00:38:00,Bug Report,Medium,Pending,Email,Product B,Documentation,Agent_8,12.79,70.78,
+TKT-00070,2024-06-14 15:01:00,Technical Issue,Critical,Closed,Chat,Product C,Integration,Agent_8,3.62,7.27,5.0
+TKT-00071,2024-02-27 11:56:00,Technical Issue,Low,Resolved,Email,Product E,Integration,Agent_8,53.6,102.73,3.0
+TKT-00072,2024-06-06 07:03:00,Feature Request,Low,Closed,Phone,Product A,Integration,Agent_1,58.96,161.37,3.0
+TKT-00073,2024-05-03 18:05:00,Technical Issue,High,Closed,Web Portal,Product A,Authentication,Agent_14,2.62,36.35,2.0
+TKT-00074,2024-02-13 23:31:00,Account Access,High,Resolved,Email,Product A,Authentication,Agent_8,10.02,45.85,2.0
+TKT-00075,2024-02-05 17:49:00,Feature Request,Medium,Closed,Web Portal,Product A,Payment,Agent_10,6.99,34.31,2.0
+TKT-00076,2024-03-05 04:42:00,Billing Question,Critical,Pending,Chat,Product D,Data Loss,Agent_4,2.64,8.08,
+TKT-00077,2024-08-31 17:10:00,Billing Question,Critical,Resolved,Chat,Product A,UI/UX,Agent_4,2.01,16.59,3.0
+TKT-00078,2024-05-15 16:55:00,General Inquiry,High,Open,Phone,Product E,Documentation,Agent_5,3.02,21.7,
+TKT-00079,2024-11-06 13:13:00,General Inquiry,Medium,Closed,Web Portal,Product A,Documentation,Agent_10,7.0,69.58,5.0
+TKT-00080,2024-10-03 23:44:00,General Inquiry,Critical,Open,Email,Product D,Performance,Agent_14,0.68,16.91,
+TKT-00081,2024-04-12 22:19:00,Feature Request,Low,Open,Email,Product C,UI/UX,Agent_14,63.0,133.73,
+TKT-00082,2024-07-23 21:41:00,Account Access,Low,Resolved,Chat,Product B,Payment,Agent_7,36.1,115.64,5.0
+TKT-00083,2024-07-10 14:57:00,Feature Request,Low,In Progress,Web Portal,Product C,Integration,Agent_1,49.04,125.73,
+TKT-00084,2024-09-21 14:07:00,Feature Request,Low,Open,Web Portal,Product C,Integration,Agent_6,36.67,109.37,
+TKT-00085,2024-05-06 07:04:00,Feature Request,High,Open,Chat,Product B,Payment,Agent_1,10.65,17.91,
+TKT-00086,2024-06-22 00:37:00,Feature Request,Medium,In Progress,Email,Product A,Performance,Agent_2,20.17,83.15,
+TKT-00087,2024-10-10 07:37:00,Technical Issue,Low,Pending,Chat,Product A,UI/UX,Agent_11,49.44,85.96,
+TKT-00088,2024-04-22 00:04:00,General Inquiry,Low,In Progress,Web Portal,Product E,Integration,Agent_14,39.2,142.53,
+TKT-00089,2024-12-28 20:03:00,General Inquiry,Critical,Pending,Email,Product A,Integration,Agent_12,2.12,11.58,
+TKT-00090,2024-04-27 02:57:00,Bug Report,High,Pending,Chat,Product A,Documentation,Agent_7,6.28,46.7,
+TKT-00091,2024-01-17 10:04:00,Billing Question,Critical,In Progress,Web Portal,Product E,Authentication,Agent_7,2.67,8.95,
+TKT-00092,2024-09-20 07:17:00,General Inquiry,Critical,Open,Web Portal,Product B,Data Loss,Agent_14,0.85,9.4,
+TKT-00093,2024-12-08 15:13:00,Account Access,Critical,Pending,Phone,Product E,UI/UX,Agent_8,2.78,14.63,
+TKT-00094,2024-10-03 04:46:00,Technical Issue,Low,In Progress,Phone,Product A,Integration,Agent_12,52.55,130.08,
+TKT-00095,2024-10-19 18:30:00,Billing Question,Medium,Closed,Chat,Product A,UI/UX,Agent_10,6.47,53.29,2.0
+TKT-00096,2024-05-04 15:51:00,Bug Report,High,Open,Email,Product A,Data Loss,Agent_10,7.17,23.86,
+TKT-00097,2024-07-27 06:06:00,Feature Request,Low,Pending,Email,Product E,UI/UX,Agent_12,47.27,58.68,
+TKT-00098,2024-02-19 21:27:00,Bug Report,High,Resolved,Phone,Product B,Data Loss,Agent_9,3.08,44.73,5.0
+TKT-00099,2024-06-30 13:26:00,Billing Question,Low,Open,Web Portal,Product D,Data Loss,Agent_5,12.74,141.37,
+TKT-00100,2024-08-27 23:03:00,General Inquiry,Medium,Closed,Phone,Product E,Integration,Agent_1,18.84,34.54,2.0
+TKT-00101,2024-12-10 20:41:00,Billing Question,Medium,Closed,Chat,Product B,Integration,Agent_8,16.67,81.46,2.0
+TKT-00102,2024-02-20 01:25:00,Technical Issue,High,In Progress,Phone,Product A,Data Loss,Agent_7,10.41,21.85,
+TKT-00103,2024-06-22 03:15:00,Technical Issue,Critical,Closed,Email,Product B,Documentation,Agent_8,3.67,5.96,4.0
+TKT-00104,2024-04-08 06:34:00,Account Access,Low,Resolved,Chat,Product C,Payment,Agent_9,19.56,165.54,2.0
+TKT-00105,2024-08-17 04:27:00,Feature Request,High,In Progress,Email,Product C,Data Loss,Agent_10,7.09,20.0,
+TKT-00106,2024-04-03 08:29:00,General Inquiry,Critical,Closed,Chat,Product D,Authentication,Agent_12,1.74,23.04,3.0
+TKT-00107,2024-05-07 02:28:00,General Inquiry,Medium,Pending,Web Portal,Product A,Integration,Agent_10,14.67,80.36,
+TKT-00108,2024-10-08 03:03:00,Bug Report,Low,Open,Phone,Product D,Performance,Agent_15,49.25,62.82,
+TKT-00109,2024-11-29 17:53:00,Feature Request,Medium,Resolved,Email,Product C,Integration,Agent_11,9.35,61.91,4.0
+TKT-00110,2024-01-08 02:59:00,Bug Report,Low,Resolved,Chat,Product D,Data Loss,Agent_15,20.26,153.06,5.0
+TKT-00111,2024-05-01 05:26:00,Feature Request,Critical,Resolved,Phone,Product C,Integration,Agent_14,0.65,15.78,4.0
+TKT-00112,2024-09-05 15:13:00,Billing Question,Low,Pending,Email,Product C,Data Loss,Agent_14,19.66,144.82,
+TKT-00113,2024-07-24 01:10:00,Billing Question,Critical,Closed,Web Portal,Product B,UI/UX,Agent_8,2.55,5.91,4.0
+TKT-00114,2024-07-13 00:24:00,Feature Request,Low,Open,Chat,Product A,Performance,Agent_4,42.79,89.87,
+TKT-00115,2024-05-15 14:18:00,Account Access,High,Open,Email,Product C,Documentation,Agent_12,8.52,32.6,
+TKT-00116,2024-08-04 22:46:00,Billing Question,Medium,Pending,Email,Product A,Performance,Agent_1,12.44,44.3,
+TKT-00117,2024-10-11 21:45:00,Account Access,Low,In Progress,Web Portal,Product D,Performance,Agent_9,47.02,80.53,
+TKT-00118,2024-09-06 04:12:00,Billing Question,Low,Closed,Chat,Product D,Authentication,Agent_1,44.47,59.89,4.0
+TKT-00119,2024-05-31 06:03:00,General Inquiry,Medium,Resolved,Phone,Product C,Authentication,Agent_7,8.62,27.45,3.0
+TKT-00120,2024-10-23 23:34:00,Technical Issue,Low,In Progress,Email,Product A,Data Loss,Agent_10,40.17,86.16,
+TKT-00121,2024-02-01 23:20:00,Technical Issue,Medium,Pending,Chat,Product C,Authentication,Agent_6,16.86,78.13,
+TKT-00122,2024-01-30 01:37:00,General Inquiry,Critical,Closed,Chat,Product C,Payment,Agent_9,1.52,7.61,5.0
+TKT-00123,2024-09-01 16:58:00,Feature Request,High,Closed,Web Portal,Product B,Documentation,Agent_2,11.7,41.02,4.0
+TKT-00124,2024-09-28 05:03:00,Bug Report,High,Closed,Email,Product D,Performance,Agent_5,7.18,36.4,3.0
+TKT-00125,2024-09-17 02:54:00,Technical Issue,Medium,In Progress,Phone,Product A,Performance,Agent_15,17.84,80.79,
+TKT-00126,2024-04-05 02:38:00,Billing Question,High,In Progress,Email,Product D,Documentation,Agent_11,3.45,31.86,
+TKT-00127,2024-02-04 21:55:00,Billing Question,Medium,Pending,Email,Product B,UI/UX,Agent_7,10.27,87.51,
+TKT-00128,2024-04-30 12:07:00,Technical Issue,High,Resolved,Phone,Product E,Data Loss,Agent_15,10.19,26.5,4.0
+TKT-00129,2024-10-18 07:37:00,Technical Issue,Low,In Progress,Chat,Product D,Authentication,Agent_8,45.57,119.08,
+TKT-00130,2024-10-31 01:39:00,Bug Report,Low,Open,Email,Product B,Documentation,Agent_2,15.28,79.09,
+TKT-00131,2024-02-11 13:42:00,Technical Issue,High,In Progress,Chat,Product D,UI/UX,Agent_8,5.44,36.72,
+TKT-00132,2024-10-25 18:33:00,Feature Request,Critical,In Progress,Web Portal,Product A,Performance,Agent_10,3.92,18.26,
+TKT-00133,2024-06-10 08:13:00,Bug Report,High,Closed,Chat,Product B,Integration,Agent_11,8.41,35.67,5.0
+TKT-00134,2024-12-08 22:20:00,General Inquiry,Low,Open,Phone,Product E,Authentication,Agent_6,24.08,65.12,
+TKT-00135,2024-05-02 08:25:00,General Inquiry,High,Resolved,Phone,Product D,Integration,Agent_8,2.68,32.43,4.0
+TKT-00136,2024-03-08 21:41:00,Technical Issue,Low,Open,Web Portal,Product B,Performance,Agent_12,23.36,80.08,
+TKT-00137,2024-06-02 14:20:00,Billing Question,Critical,Resolved,Chat,Product E,Performance,Agent_7,2.17,22.37,5.0
+TKT-00138,2024-02-07 00:29:00,General Inquiry,Critical,Pending,Email,Product A,Integration,Agent_1,2.92,16.78,
+TKT-00139,2024-11-14 18:06:00,Technical Issue,High,Closed,Web Portal,Product D,Performance,Agent_3,6.67,25.33,3.0
+TKT-00140,2024-02-07 17:13:00,Feature Request,Low,Pending,Phone,Product C,Authentication,Agent_5,53.54,141.3,
+TKT-00141,2024-09-16 08:08:00,Feature Request,Critical,In Progress,Chat,Product A,UI/UX,Agent_12,3.48,17.56,
+TKT-00142,2024-06-27 02:56:00,Billing Question,Medium,In Progress,Phone,Product A,Payment,Agent_4,16.19,54.11,
+TKT-00143,2024-05-05 11:18:00,Bug Report,High,Closed,Email,Product A,Payment,Agent_8,5.36,28.48,3.0
+TKT-00144,2024-03-21 14:53:00,Billing Question,Medium,Pending,Web Portal,Product A,Payment,Agent_6,11.39,55.61,
+TKT-00145,2024-10-05 22:19:00,Technical Issue,High,Open,Web Portal,Product E,UI/UX,Agent_8,5.29,24.74,
+TKT-00146,2024-11-09 20:33:00,Billing Question,Low,Pending,Phone,Product C,Performance,Agent_4,18.29,104.24,
+TKT-00147,2024-01-05 21:52:00,Bug Report,Low,Resolved,Web Portal,Product D,Data Loss,Agent_9,64.57,82.42,5.0
+TKT-00148,2024-10-10 09:59:00,Account Access,Medium,In Progress,Chat,Product A,Authentication,Agent_4,22.39,92.59,
+TKT-00149,2024-12-05 03:56:00,Billing Question,Low,Open,Chat,Product D,UI/UX,Agent_10,41.76,110.47,
+TKT-00150,2024-03-09 08:07:00,General Inquiry,Low,In Progress,Phone,Product B,Authentication,Agent_15,67.2,134.22,
+TKT-00151,2024-02-24 23:35:00,Bug Report,Low,Pending,Phone,Product A,Documentation,Agent_11,50.33,158.86,
+TKT-00152,2024-03-20 08:18:00,Account Access,Medium,Closed,Web Portal,Product A,Performance,Agent_6,18.48,40.47,4.0
+TKT-00153,2024-11-05 06:45:00,Bug Report,Low,Open,Phone,Product D,Authentication,Agent_15,39.99,124.28,
+TKT-00154,2024-06-24 06:43:00,Bug Report,Critical,Closed,Chat,Product C,Performance,Agent_10,1.25,5.74,5.0
+TKT-00155,2024-11-20 08:32:00,General Inquiry,High,Pending,Email,Product B,Payment,Agent_14,6.81,23.0,
+TKT-00156,2024-09-07 08:57:00,Account Access,Critical,Resolved,Chat,Product C,Authentication,Agent_14,3.19,19.41,5.0
+TKT-00157,2024-01-27 02:40:00,Billing Question,Medium,Closed,Web Portal,Product D,Data Loss,Agent_12,20.66,84.86,2.0
+TKT-00158,2024-08-04 08:02:00,Account Access,Medium,Closed,Phone,Product E,Performance,Agent_11,20.53,69.7,3.0
+TKT-00159,2024-01-02 10:49:00,Billing Question,Low,Pending,Phone,Product A,Authentication,Agent_8,34.55,57.2,
+TKT-00160,2024-03-07 20:16:00,General Inquiry,Critical,Open,Phone,Product E,Integration,Agent_3,1.9,8.8,
+TKT-00161,2024-03-23 23:28:00,Bug Report,Medium,Pending,Web Portal,Product D,UI/UX,Agent_15,20.87,30.74,
+TKT-00162,2024-10-09 22:27:00,Billing Question,High,Closed,Email,Product D,Documentation,Agent_5,2.07,32.71,4.0
+TKT-00163,2024-10-14 00:07:00,Feature Request,Medium,In Progress,Web Portal,Product D,Integration,Agent_12,6.18,30.09,
+TKT-00164,2024-02-08 22:57:00,Account Access,Critical,In Progress,Chat,Product D,Data Loss,Agent_12,1.75,9.72,
+TKT-00165,2024-03-17 17:02:00,Account Access,High,Closed,Email,Product A,Data Loss,Agent_7,7.55,45.47,5.0
+TKT-00166,2024-07-08 18:35:00,Technical Issue,High,Open,Phone,Product E,Integration,Agent_7,3.42,41.1,
+TKT-00167,2024-03-16 13:08:00,Bug Report,Low,Closed,Chat,Product B,Performance,Agent_14,38.42,49.28,4.0
+TKT-00168,2024-01-22 09:23:00,Bug Report,High,In Progress,Phone,Product A,Authentication,Agent_11,8.31,46.14,
+TKT-00169,2024-01-21 11:13:00,General Inquiry,Low,Resolved,Email,Product D,UI/UX,Agent_11,66.76,129.24,1.0
+TKT-00170,2024-12-15 07:42:00,Billing Question,Low,Closed,Web Portal,Product D,Integration,Agent_12,33.59,159.89,4.0
+TKT-00171,2024-02-22 11:49:00,General Inquiry,Medium,Closed,Chat,Product A,Data Loss,Agent_6,23.56,33.82,3.0
+TKT-00172,2024-10-13 13:39:00,General Inquiry,Medium,Resolved,Web Portal,Product E,Authentication,Agent_13,9.58,59.84,2.0
+TKT-00173,2024-03-20 07:55:00,Feature Request,Low,Open,Chat,Product E,Performance,Agent_8,29.05,130.21,
+TKT-00174,2024-03-24 05:56:00,Bug Report,Critical,Pending,Phone,Product C,Integration,Agent_13,1.27,17.54,
+TKT-00175,2024-07-30 00:11:00,Feature Request,Low,In Progress,Phone,Product C,Data Loss,Agent_14,27.72,111.89,
+TKT-00176,2024-06-19 13:51:00,Technical Issue,Critical,In Progress,Web Portal,Product C,Integration,Agent_3,1.11,6.49,
+TKT-00177,2024-12-08 23:51:00,Account Access,High,Pending,Phone,Product D,Performance,Agent_10,10.48,12.5,
+TKT-00178,2024-05-07 08:10:00,General Inquiry,High,Pending,Email,Product A,Data Loss,Agent_4,4.46,18.85,
+TKT-00179,2024-12-25 03:24:00,General Inquiry,High,Pending,Email,Product A,Authentication,Agent_5,3.96,41.93,
+TKT-00180,2024-01-20 15:14:00,Feature Request,Low,Pending,Email,Product C,Documentation,Agent_12,22.56,48.87,
+TKT-00181,2024-04-12 14:22:00,Bug Report,Critical,In Progress,Email,Product E,Integration,Agent_12,1.42,12.5,
+TKT-00182,2024-06-05 07:14:00,Account Access,Low,Closed,Chat,Product C,Authentication,Agent_2,18.07,112.12,4.0
+TKT-00183,2024-01-13 21:12:00,General Inquiry,High,Closed,Chat,Product A,UI/UX,Agent_11,10.31,24.42,4.0
+TKT-00184,2024-07-23 10:17:00,Feature Request,Medium,Resolved,Email,Product D,UI/UX,Agent_8,8.47,95.58,4.0
+TKT-00185,2024-02-05 08:22:00,Feature Request,High,Closed,Chat,Product C,Payment,Agent_3,8.55,35.8,5.0
+TKT-00186,2024-11-24 16:25:00,Billing Question,High,Open,Email,Product B,Performance,Agent_3,10.85,45.14,
+TKT-00187,2024-12-13 17:21:00,Account Access,Medium,Open,Web Portal,Product B,Integration,Agent_4,12.09,95.94,
+TKT-00188,2024-01-15 03:56:00,Feature Request,Critical,Pending,Chat,Product E,Data Loss,Agent_3,1.24,22.9,
+TKT-00189,2024-05-13 05:37:00,Billing Question,High,Resolved,Email,Product A,Documentation,Agent_10,6.56,36.63,3.0
+TKT-00190,2024-05-15 01:06:00,Bug Report,Critical,In Progress,Email,Product D,Documentation,Agent_8,1.79,4.85,
+TKT-00191,2024-11-01 13:22:00,Feature Request,Medium,Closed,Web Portal,Product B,UI/UX,Agent_2,12.7,56.3,3.0
+TKT-00192,2024-06-09 13:38:00,Billing Question,Medium,Closed,Web Portal,Product C,Performance,Agent_13,9.08,36.13,5.0
+TKT-00193,2024-09-18 03:24:00,Billing Question,Medium,In Progress,Phone,Product D,Payment,Agent_7,15.48,90.97,
+TKT-00194,2024-10-22 06:16:00,Account Access,Low,Open,Email,Product A,Data Loss,Agent_8,59.94,139.65,
+TKT-00195,2024-01-23 22:27:00,General Inquiry,Critical,Pending,Phone,Product C,Performance,Agent_5,2.68,22.08,
+TKT-00196,2024-01-01 16:59:00,Billing Question,Low,Resolved,Chat,Product D,Performance,Agent_4,38.02,68.98,1.0
+TKT-00197,2024-10-02 21:46:00,Feature Request,Medium,Open,Email,Product A,Integration,Agent_4,18.8,50.43,
+TKT-00198,2024-12-09 06:23:00,Technical Issue,High,Resolved,Email,Product D,Payment,Agent_9,3.18,16.8,3.0
+TKT-00199,2024-08-08 02:42:00,Bug Report,Low,Pending,Chat,Product B,Integration,Agent_1,64.96,90.39,
+TKT-00200,2024-06-18 19:20:00,Feature Request,High,Closed,Web Portal,Product B,UI/UX,Agent_1,3.31,13.83,2.0
+TKT-00201,2024-12-05 03:46:00,Feature Request,Low,Pending,Email,Product A,Documentation,Agent_6,23.38,107.46,
+TKT-00202,2024-06-02 16:19:00,Bug Report,Critical,Open,Web Portal,Product B,Documentation,Agent_15,2.36,7.41,
+TKT-00203,2024-12-07 13:20:00,Bug Report,High,Closed,Email,Product A,Authentication,Agent_5,8.94,46.91,4.0
+TKT-00204,2024-07-25 22:18:00,Billing Question,Low,Pending,Phone,Product E,Documentation,Agent_6,31.08,88.56,
+TKT-00205,2024-10-10 04:12:00,Feature Request,Medium,Closed,Web Portal,Product B,Documentation,Agent_11,13.73,72.89,2.0
+TKT-00206,2024-08-03 21:24:00,Billing Question,Medium,Closed,Phone,Product D,Data Loss,Agent_3,17.45,83.88,3.0
+TKT-00207,2024-12-12 23:57:00,Account Access,Critical,Resolved,Email,Product D,Payment,Agent_3,3.72,21.02,4.0
+TKT-00208,2024-03-30 19:36:00,Billing Question,Critical,Resolved,Phone,Product A,Performance,Agent_14,3.17,21.16,3.0
+TKT-00209,2024-06-03 12:35:00,Account Access,Low,Open,Email,Product E,Performance,Agent_14,47.24,82.81,
+TKT-00210,2024-01-01 09:18:00,General Inquiry,Medium,Pending,Email,Product C,Authentication,Agent_15,21.38,58.78,
+TKT-00211,2024-04-17 13:50:00,Technical Issue,High,In Progress,Phone,Product D,Performance,Agent_9,4.94,21.53,
+TKT-00212,2024-10-23 19:41:00,Feature Request,Low,Pending,Email,Product E,Data Loss,Agent_1,20.91,48.27,
+TKT-00213,2024-06-13 14:28:00,Account Access,Low,Closed,Chat,Product D,Integration,Agent_13,26.83,123.74,4.0
+TKT-00214,2024-08-14 21:13:00,Technical Issue,Medium,Open,Email,Product A,Documentation,Agent_2,17.33,52.34,
+TKT-00215,2024-09-18 15:50:00,Bug Report,Critical,Open,Email,Product A,Payment,Agent_6,1.48,22.46,
+TKT-00216,2024-03-27 21:05:00,General Inquiry,High,In Progress,Chat,Product C,Data Loss,Agent_7,3.26,45.45,
+TKT-00217,2024-05-25 16:42:00,Billing Question,Critical,Closed,Web Portal,Product A,UI/UX,Agent_2,2.28,23.18,5.0
+TKT-00218,2024-11-20 19:21:00,Technical Issue,Low,Closed,Chat,Product C,Authentication,Agent_10,47.04,109.86,3.0
+TKT-00219,2024-02-17 07:43:00,Account Access,Low,Open,Chat,Product A,UI/UX,Agent_4,41.34,155.21,
+TKT-00220,2024-06-07 07:51:00,Feature Request,Medium,Open,Chat,Product D,Documentation,Agent_2,19.09,91.35,
+TKT-00221,2024-04-11 04:01:00,General Inquiry,Critical,In Progress,Chat,Product A,Data Loss,Agent_9,3.25,21.85,
+TKT-00222,2024-01-24 07:30:00,Bug Report,Low,In Progress,Web Portal,Product B,Authentication,Agent_4,59.46,149.8,
+TKT-00223,2024-11-08 02:29:00,Bug Report,Low,Resolved,Email,Product E,Data Loss,Agent_8,48.89,54.9,4.0
+TKT-00224,2024-07-31 20:36:00,Technical Issue,Critical,Open,Phone,Product D,Performance,Agent_5,1.09,4.12,
+TKT-00225,2024-04-09 22:44:00,Technical Issue,Medium,In Progress,Web Portal,Product E,Performance,Agent_6,12.99,57.15,
+TKT-00226,2024-07-15 15:25:00,Billing Question,Medium,Closed,Web Portal,Product B,Authentication,Agent_13,21.88,45.48,3.0
+TKT-00227,2024-05-04 04:41:00,Bug Report,High,Resolved,Email,Product E,Data Loss,Agent_6,9.51,15.86,5.0
+TKT-00228,2024-12-18 00:57:00,General Inquiry,High,Open,Chat,Product B,Documentation,Agent_13,5.74,24.59,
+TKT-00229,2024-02-24 13:14:00,General Inquiry,High,In Progress,Chat,Product A,Data Loss,Agent_1,7.19,38.01,
+TKT-00230,2024-03-31 22:33:00,Bug Report,Critical,Open,Web Portal,Product A,Integration,Agent_13,1.13,12.04,
+TKT-00231,2024-08-25 01:35:00,Billing Question,High,Resolved,Phone,Product B,Integration,Agent_15,9.12,12.32,5.0
+TKT-00232,2024-05-07 03:29:00,Feature Request,High,Pending,Chat,Product D,Payment,Agent_9,7.25,27.51,
+TKT-00233,2024-03-09 14:42:00,Billing Question,Critical,Open,Web Portal,Product A,Performance,Agent_5,2.19,7.95,
+TKT-00234,2024-09-28 17:38:00,Account Access,High,Open,Phone,Product D,Documentation,Agent_15,11.56,31.05,
+TKT-00235,2024-06-11 14:39:00,Account Access,Medium,Open,Phone,Product E,Authentication,Agent_3,14.53,88.69,
+TKT-00236,2024-09-15 13:53:00,Technical Issue,Low,Open,Phone,Product A,UI/UX,Agent_14,46.87,97.29,
+TKT-00237,2024-10-07 14:57:00,Billing Question,Medium,In Progress,Phone,Product B,Documentation,Agent_12,17.49,89.74,
+TKT-00238,2024-03-22 23:55:00,Billing Question,Medium,Pending,Web Portal,Product B,Performance,Agent_14,20.23,24.5,
+TKT-00239,2024-08-31 14:16:00,General Inquiry,Low,Closed,Web Portal,Product A,Data Loss,Agent_9,50.98,140.33,3.0
+TKT-00240,2024-05-06 20:17:00,Technical Issue,Medium,Open,Phone,Product B,Documentation,Agent_10,9.73,42.01,
+TKT-00241,2024-09-23 15:40:00,General Inquiry,Low,Closed,Chat,Product A,Performance,Agent_11,65.69,104.48,2.0
+TKT-00242,2024-05-02 08:28:00,Feature Request,Medium,In Progress,Chat,Product C,Integration,Agent_2,14.14,50.95,
+TKT-00243,2024-02-09 22:18:00,Billing Question,Critical,Pending,Web Portal,Product A,UI/UX,Agent_12,1.32,11.29,
+TKT-00244,2024-04-30 08:21:00,General Inquiry,Critical,Resolved,Phone,Product D,Data Loss,Agent_1,1.27,21.84,5.0
+TKT-00245,2024-06-12 17:05:00,Bug Report,High,Resolved,Phone,Product E,Performance,Agent_15,6.25,31.31,5.0
+TKT-00246,2024-03-11 04:14:00,General Inquiry,Critical,Resolved,Web Portal,Product B,Payment,Agent_8,1.82,9.39,5.0
+TKT-00247,2024-07-15 22:09:00,Billing Question,Low,Resolved,Web Portal,Product E,Integration,Agent_13,21.43,166.72,2.0
+TKT-00248,2024-12-27 06:04:00,Feature Request,High,Resolved,Web Portal,Product A,Integration,Agent_8,10.42,35.63,5.0
+TKT-00249,2024-07-31 13:21:00,Billing Question,Medium,Pending,Email,Product A,Performance,Agent_14,10.58,55.63,
+TKT-00250,2024-10-04 14:26:00,Bug Report,Critical,Open,Email,Product A,Data Loss,Agent_13,0.8,6.8,
+TKT-00251,2024-02-01 06:53:00,Account Access,High,Resolved,Phone,Product D,Data Loss,Agent_2,9.52,38.9,4.0
+TKT-00252,2024-08-03 12:57:00,Account Access,Critical,Open,Email,Product E,Integration,Agent_2,1.53,4.12,
+TKT-00253,2024-10-26 22:01:00,Feature Request,High,Closed,Chat,Product E,UI/UX,Agent_13,7.19,43.81,3.0
+TKT-00254,2024-10-21 12:30:00,Feature Request,Low,Open,Phone,Product B,Documentation,Agent_10,25.81,133.11,
+TKT-00255,2024-01-04 11:19:00,Bug Report,Low,Closed,Email,Product A,Data Loss,Agent_10,14.47,61.28,3.0
+TKT-00256,2024-07-18 13:34:00,General Inquiry,Medium,Open,Phone,Product B,Payment,Agent_13,15.22,44.51,
+TKT-00257,2024-10-06 19:57:00,Account Access,High,Closed,Chat,Product D,Authentication,Agent_14,5.36,16.81,5.0
+TKT-00258,2024-04-22 15:14:00,Account Access,Low,Open,Chat,Product C,UI/UX,Agent_2,39.07,98.53,
+TKT-00259,2024-05-19 13:31:00,Account Access,Medium,Open,Phone,Product D,UI/UX,Agent_14,13.79,47.85,
+TKT-00260,2024-01-15 12:21:00,Account Access,High,Pending,Email,Product C,Data Loss,Agent_9,5.68,13.14,
+TKT-00261,2024-12-08 21:51:00,Bug Report,Medium,Closed,Phone,Product A,Documentation,Agent_1,14.96,71.97,3.0
+TKT-00262,2024-07-26 23:10:00,Feature Request,Low,Open,Chat,Product E,Payment,Agent_9,28.38,161.81,
+TKT-00263,2024-08-27 04:39:00,Feature Request,Medium,Pending,Email,Product E,Data Loss,Agent_2,6.44,93.1,
+TKT-00264,2024-09-30 00:58:00,Technical Issue,High,Pending,Email,Product B,Integration,Agent_3,6.42,47.39,
+TKT-00265,2024-07-20 18:36:00,General Inquiry,Critical,Closed,Web Portal,Product C,Payment,Agent_11,1.43,6.38,5.0
+TKT-00266,2024-12-05 00:05:00,Feature Request,Low,Open,Phone,Product B,UI/UX,Agent_2,16.55,106.69,
+TKT-00267,2024-11-25 13:08:00,Account Access,High,Pending,Chat,Product A,Documentation,Agent_14,11.01,29.84,
+TKT-00268,2024-08-24 05:03:00,Billing Question,High,Resolved,Chat,Product E,UI/UX,Agent_4,4.95,36.54,4.0
+TKT-00269,2024-05-13 12:20:00,Account Access,Medium,Resolved,Phone,Product B,Integration,Agent_15,15.03,33.18,3.0
+TKT-00270,2024-04-18 14:20:00,Account Access,Low,Resolved,Phone,Product C,Performance,Agent_6,44.8,138.13,3.0
+TKT-00271,2024-06-21 12:17:00,Feature Request,Critical,Open,Chat,Product A,UI/UX,Agent_3,0.77,19.61,
+TKT-00272,2024-08-03 08:53:00,Technical Issue,Critical,Resolved,Chat,Product A,Data Loss,Agent_12,1.47,12.0,4.0
+TKT-00273,2024-02-11 15:01:00,Bug Report,Medium,In Progress,Phone,Product C,Documentation,Agent_5,10.1,76.27,
+TKT-00274,2024-10-03 01:22:00,Billing Question,Low,Closed,Phone,Product B,Data Loss,Agent_12,19.12,137.03,3.0
+TKT-00275,2024-04-24 20:04:00,General Inquiry,Critical,In Progress,Email,Product D,Documentation,Agent_8,1.76,20.51,
+TKT-00276,2024-11-29 01:48:00,Billing Question,Low,In Progress,Web Portal,Product B,Documentation,Agent_13,44.76,63.77,
+TKT-00277,2024-01-16 07:12:00,Technical Issue,Medium,Resolved,Chat,Product C,Integration,Agent_9,12.01,92.95,2.0
+TKT-00278,2024-01-11 19:09:00,Account Access,Low,Closed,Email,Product E,Data Loss,Agent_8,52.51,143.13,3.0
+TKT-00279,2024-05-02 04:30:00,Bug Report,Low,Pending,Phone,Product B,UI/UX,Agent_12,27.0,63.13,
+TKT-00280,2024-12-08 03:36:00,Bug Report,Low,In Progress,Web Portal,Product D,UI/UX,Agent_14,56.71,89.29,
+TKT-00281,2024-04-21 14:44:00,Bug Report,Medium,Pending,Chat,Product B,Authentication,Agent_2,19.83,24.98,
+TKT-00282,2024-05-11 11:10:00,General Inquiry,Medium,Pending,Web Portal,Product E,Data Loss,Agent_3,21.22,73.28,
+TKT-00283,2024-11-06 19:47:00,Feature Request,Medium,Open,Email,Product A,Payment,Agent_11,9.43,27.75,
+TKT-00284,2024-02-28 05:19:00,Account Access,Critical,Closed,Phone,Product B,Performance,Agent_6,2.61,20.6,5.0
+TKT-00285,2024-02-25 18:01:00,Billing Question,High,Closed,Email,Product A,Integration,Agent_6,3.38,27.47,5.0
+TKT-00286,2024-06-08 18:43:00,Billing Question,Low,In Progress,Web Portal,Product E,Payment,Agent_14,63.3,119.65,
+TKT-00287,2024-07-11 12:45:00,Account Access,High,Open,Email,Product D,Payment,Agent_3,9.16,12.29,
+TKT-00288,2024-04-11 02:37:00,Billing Question,Low,Open,Email,Product B,Payment,Agent_2,44.59,105.62,
+TKT-00289,2024-12-19 20:15:00,Feature Request,Low,Open,Phone,Product A,UI/UX,Agent_14,27.67,81.87,
+TKT-00290,2024-02-22 22:49:00,Bug Report,Low,Closed,Phone,Product D,UI/UX,Agent_4,58.2,57.91,3.0
+TKT-00291,2024-06-03 21:38:00,Billing Question,Medium,Closed,Web Portal,Product A,Documentation,Agent_8,11.07,54.88,5.0
+TKT-00292,2024-03-02 18:50:00,Feature Request,Critical,Resolved,Web Portal,Product A,Performance,Agent_7,1.71,16.35,5.0
+TKT-00293,2024-01-22 11:34:00,Bug Report,Medium,Closed,Email,Product A,Documentation,Agent_13,23.94,76.51,3.0
+TKT-00294,2024-08-07 21:23:00,General Inquiry,Low,Closed,Chat,Product B,Integration,Agent_13,68.75,70.42,3.0
+TKT-00295,2024-02-05 16:41:00,General Inquiry,High,Open,Email,Product A,Integration,Agent_1,10.22,22.12,
+TKT-00296,2024-06-23 00:54:00,Account Access,Low,Pending,Web Portal,Product E,Performance,Agent_4,57.47,61.8,
+TKT-00297,2024-08-03 15:06:00,Account Access,Low,In Progress,Email,Product C,Documentation,Agent_14,12.71,79.62,
+TKT-00298,2024-08-09 11:40:00,Feature Request,Critical,Pending,Phone,Product D,Documentation,Agent_13,2.79,18.02,
+TKT-00299,2024-08-23 22:09:00,General Inquiry,Low,In Progress,Email,Product D,Authentication,Agent_8,71.36,127.96,
+TKT-00300,2024-08-10 05:46:00,General Inquiry,Medium,Resolved,Phone,Product B,UI/UX,Agent_6,23.13,54.9,4.0
+TKT-00301,2024-09-24 20:17:00,General Inquiry,Critical,Closed,Chat,Product B,Payment,Agent_5,3.53,13.48,5.0
+TKT-00302,2024-11-11 17:49:00,Feature Request,Critical,In Progress,Phone,Product B,Documentation,Agent_9,1.3,19.65,
+TKT-00303,2024-09-04 14:27:00,Feature Request,Critical,In Progress,Chat,Product C,Integration,Agent_3,3.03,6.06,
+TKT-00304,2024-10-30 08:20:00,Billing Question,Low,In Progress,Chat,Product E,Performance,Agent_2,24.59,135.65,
+TKT-00305,2024-05-05 02:17:00,General Inquiry,Critical,In Progress,Email,Product D,Documentation,Agent_5,1.32,16.22,
+TKT-00306,2024-08-18 07:48:00,Account Access,Critical,Closed,Web Portal,Product D,Performance,Agent_6,2.55,7.77,5.0
+TKT-00307,2024-08-25 18:39:00,Billing Question,Medium,Pending,Web Portal,Product B,UI/UX,Agent_12,15.95,85.55,
+TKT-00308,2024-12-08 12:21:00,Billing Question,High,In Progress,Email,Product B,Payment,Agent_13,6.69,34.64,
+TKT-00309,2024-01-15 15:54:00,General Inquiry,Medium,Open,Chat,Product E,Performance,Agent_7,20.66,34.71,
+TKT-00310,2024-06-15 05:31:00,Bug Report,Medium,In Progress,Web Portal,Product A,UI/UX,Agent_6,12.13,32.67,
+TKT-00311,2024-04-18 11:51:00,Feature Request,High,Closed,Phone,Product E,Data Loss,Agent_11,2.86,26.45,4.0
+TKT-00312,2024-05-12 10:17:00,Billing Question,High,Open,Web Portal,Product B,Payment,Agent_11,10.46,21.86,
+TKT-00313,2024-11-01 22:56:00,Bug Report,Critical,Closed,Chat,Product D,Integration,Agent_4,2.0,7.84,4.0
+TKT-00314,2024-05-21 17:00:00,General Inquiry,Medium,Resolved,Chat,Product E,Payment,Agent_3,22.95,34.53,2.0
+TKT-00315,2024-09-21 06:05:00,Technical Issue,Low,Closed,Phone,Product A,Authentication,Agent_13,37.06,50.12,4.0
+TKT-00316,2024-05-03 23:26:00,Bug Report,Medium,Open,Email,Product C,Payment,Agent_13,13.9,38.37,
+TKT-00317,2024-09-07 17:48:00,Technical Issue,High,Pending,Web Portal,Product C,Payment,Agent_9,10.53,43.12,
+TKT-00318,2024-05-03 22:30:00,Technical Issue,Critical,Open,Email,Product D,Authentication,Agent_7,0.61,11.61,
+TKT-00319,2024-11-26 22:31:00,General Inquiry,Critical,Pending,Web Portal,Product A,Payment,Agent_13,0.99,14.5,
+TKT-00320,2024-08-17 00:05:00,Technical Issue,Critical,Open,Phone,Product E,Documentation,Agent_4,3.56,18.0,
+TKT-00321,2024-05-30 07:25:00,Technical Issue,Low,In Progress,Email,Product B,Documentation,Agent_3,30.33,165.61,
+TKT-00322,2024-12-20 07:19:00,Feature Request,Low,Closed,Web Portal,Product B,Performance,Agent_13,56.27,74.61,3.0
+TKT-00323,2024-12-05 18:23:00,Billing Question,High,Resolved,Web Portal,Product A,Integration,Agent_7,7.0,27.34,3.0
+TKT-00324,2024-08-30 17:33:00,General Inquiry,Critical,Pending,Chat,Product E,Integration,Agent_7,2.81,5.23,
+TKT-00325,2024-06-25 13:47:00,Billing Question,Medium,Pending,Chat,Product A,Data Loss,Agent_15,12.38,54.75,
+TKT-00326,2024-10-08 10:22:00,Technical Issue,Critical,In Progress,Web Portal,Product E,Integration,Agent_7,1.29,5.03,
+TKT-00327,2024-12-25 14:17:00,General Inquiry,Medium,In Progress,Chat,Product C,Integration,Agent_15,13.66,31.92,
+TKT-00328,2024-06-05 08:14:00,Billing Question,Medium,Open,Web Portal,Product E,UI/UX,Agent_8,19.55,50.18,
+TKT-00329,2024-03-02 23:12:00,Technical Issue,Low,Pending,Web Portal,Product E,Authentication,Agent_14,57.77,161.16,
+TKT-00330,2024-06-10 03:47:00,Billing Question,Critical,Closed,Chat,Product B,Payment,Agent_9,2.92,18.23,4.0
+TKT-00331,2024-10-01 22:11:00,Bug Report,High,Open,Chat,Product D,Payment,Agent_13,5.0,20.89,
+TKT-00332,2024-04-08 06:47:00,Feature Request,Critical,In Progress,Chat,Product B,Performance,Agent_11,2.55,21.9,
+TKT-00333,2024-09-04 08:46:00,Account Access,Critical,Pending,Email,Product C,Payment,Agent_6,2.49,7.64,
+TKT-00334,2024-10-28 16:38:00,Technical Issue,High,Resolved,Phone,Product A,Authentication,Agent_1,2.32,12.02,3.0
+TKT-00335,2024-05-24 03:53:00,Bug Report,High,Resolved,Web Portal,Product B,Performance,Agent_8,3.39,35.78,4.0
+TKT-00336,2024-04-09 09:14:00,General Inquiry,Critical,Pending,Phone,Product A,Documentation,Agent_3,3.92,10.43,
+TKT-00337,2024-07-03 05:19:00,General Inquiry,High,Closed,Email,Product B,Documentation,Agent_13,11.94,22.27,3.0
+TKT-00338,2024-01-08 22:34:00,Bug Report,Medium,Pending,Email,Product D,Performance,Agent_1,16.23,44.17,
+TKT-00339,2024-03-05 08:02:00,Feature Request,Low,Closed,Web Portal,Product D,UI/UX,Agent_12,59.95,120.78,3.0
+TKT-00340,2024-01-28 17:18:00,General Inquiry,High,In Progress,Web Portal,Product B,Data Loss,Agent_13,11.14,27.51,
+TKT-00341,2024-12-23 04:40:00,Feature Request,Medium,Closed,Phone,Product B,Payment,Agent_9,16.33,42.16,1.0
+TKT-00342,2024-09-08 03:55:00,Technical Issue,Low,Closed,Phone,Product A,UI/UX,Agent_2,35.45,106.95,4.0
+TKT-00343,2024-01-07 18:18:00,Technical Issue,High,Pending,Chat,Product A,Documentation,Agent_2,5.81,24.03,
+TKT-00344,2024-08-28 15:28:00,Bug Report,Low,Pending,Phone,Product C,Authentication,Agent_6,68.92,61.38,
+TKT-00345,2024-06-23 05:03:00,Bug Report,Critical,Resolved,Phone,Product C,UI/UX,Agent_6,0.72,17.38,5.0
+TKT-00346,2024-05-09 15:07:00,Feature Request,High,In Progress,Email,Product B,Integration,Agent_7,5.86,36.59,
+TKT-00347,2024-02-03 12:31:00,Technical Issue,Medium,Open,Phone,Product D,Documentation,Agent_13,14.55,79.47,
+TKT-00348,2024-02-07 18:40:00,Technical Issue,Medium,Pending,Chat,Product C,Authentication,Agent_3,11.92,33.38,
+TKT-00349,2024-12-17 01:09:00,Bug Report,Low,In Progress,Phone,Product C,Authentication,Agent_7,69.72,91.27,
+TKT-00350,2024-03-17 18:19:00,General Inquiry,Medium,In Progress,Web Portal,Product E,Documentation,Agent_1,17.5,82.32,
+TKT-00351,2024-02-13 07:07:00,Account Access,Medium,Resolved,Chat,Product D,Authentication,Agent_7,11.48,77.49,3.0
+TKT-00352,2024-10-12 13:38:00,Bug Report,High,Pending,Web Portal,Product A,Performance,Agent_13,3.71,33.2,
+TKT-00353,2024-11-01 19:14:00,Account Access,Low,Pending,Email,Product A,Data Loss,Agent_1,52.49,120.57,
+TKT-00354,2024-09-24 12:28:00,Technical Issue,Medium,In Progress,Chat,Product A,Performance,Agent_11,9.2,41.15,
+TKT-00355,2024-08-14 09:55:00,Bug Report,Critical,Pending,Chat,Product E,Documentation,Agent_15,3.39,9.52,
+TKT-00356,2024-10-28 13:19:00,General Inquiry,High,Resolved,Phone,Product B,Authentication,Agent_11,8.03,33.04,4.0
+TKT-00357,2024-10-18 19:03:00,General Inquiry,Medium,Resolved,Chat,Product B,Integration,Agent_3,6.48,30.28,3.0
+TKT-00358,2024-11-08 23:06:00,Feature Request,Medium,Resolved,Email,Product A,Performance,Agent_15,9.58,31.66,3.0
+TKT-00359,2024-04-16 20:13:00,Billing Question,Medium,Pending,Email,Product D,UI/UX,Agent_10,22.4,69.33,
+TKT-00360,2024-05-15 21:05:00,Technical Issue,High,Pending,Email,Product E,UI/UX,Agent_1,5.86,33.67,
+TKT-00361,2024-03-21 07:11:00,Technical Issue,High,Resolved,Chat,Product A,Authentication,Agent_11,4.06,13.48,2.0
+TKT-00362,2024-10-09 02:10:00,Bug Report,Low,Closed,Chat,Product A,Integration,Agent_12,29.47,164.2,3.0
+TKT-00363,2024-01-02 13:28:00,Billing Question,High,Open,Phone,Product B,Documentation,Agent_13,7.24,43.83,
+TKT-00364,2024-12-18 19:30:00,Billing Question,Medium,In Progress,Email,Product D,UI/UX,Agent_11,14.18,82.85,
+TKT-00365,2024-05-29 01:14:00,Billing Question,Medium,Closed,Phone,Product E,Documentation,Agent_15,12.64,37.89,3.0
+TKT-00366,2024-05-27 22:18:00,Bug Report,Critical,Open,Email,Product E,Payment,Agent_9,0.54,12.92,
+TKT-00367,2024-12-25 14:04:00,Bug Report,High,Pending,Phone,Product C,Payment,Agent_5,5.27,15.55,
+TKT-00368,2024-12-17 07:59:00,Account Access,Medium,In Progress,Web Portal,Product D,Authentication,Agent_7,22.38,91.81,
+TKT-00369,2024-05-15 20:37:00,Account Access,Critical,Closed,Web Portal,Product B,Data Loss,Agent_7,1.87,16.38,4.0
+TKT-00370,2024-12-04 06:27:00,Account Access,Low,In Progress,Email,Product C,UI/UX,Agent_15,71.38,84.18,
+TKT-00371,2024-02-28 17:14:00,Feature Request,Low,Pending,Phone,Product B,Data Loss,Agent_11,19.75,104.9,
+TKT-00372,2024-11-27 04:58:00,Technical Issue,Low,Open,Chat,Product A,Authentication,Agent_12,37.1,139.32,
+TKT-00373,2024-05-16 04:04:00,Account Access,Medium,Open,Chat,Product C,Data Loss,Agent_9,19.38,62.42,
+TKT-00374,2024-01-31 05:50:00,Feature Request,Medium,Open,Chat,Product B,UI/UX,Agent_14,13.0,35.06,
+TKT-00375,2024-06-06 19:47:00,Feature Request,Low,Closed,Phone,Product A,Documentation,Agent_5,66.22,63.34,4.0
+TKT-00376,2024-10-18 09:28:00,Bug Report,Critical,Open,Web Portal,Product B,Data Loss,Agent_12,1.22,12.36,
+TKT-00377,2024-03-04 14:44:00,Billing Question,Low,Closed,Chat,Product D,Documentation,Agent_12,64.23,133.39,4.0
+TKT-00378,2024-06-04 22:25:00,General Inquiry,High,Closed,Email,Product B,Data Loss,Agent_6,5.1,44.1,5.0
+TKT-00379,2024-05-19 16:34:00,Billing Question,Medium,Resolved,Web Portal,Product D,Performance,Agent_15,20.72,78.67,4.0
+TKT-00380,2024-09-09 14:05:00,Account Access,Medium,Closed,Email,Product B,Integration,Agent_6,17.97,84.92,4.0
+TKT-00381,2024-11-02 01:56:00,General Inquiry,High,In Progress,Phone,Product A,Authentication,Agent_1,3.59,32.17,
+TKT-00382,2024-08-09 23:20:00,Technical Issue,Medium,Open,Chat,Product D,Payment,Agent_14,16.35,49.01,
+TKT-00383,2024-11-05 08:01:00,General Inquiry,High,Closed,Email,Product E,Data Loss,Agent_5,5.1,25.18,4.0
+TKT-00384,2024-02-16 07:43:00,General Inquiry,Low,Pending,Phone,Product D,Authentication,Agent_15,24.18,123.58,
+TKT-00385,2024-10-21 18:01:00,Technical Issue,Low,Closed,Chat,Product A,Documentation,Agent_9,55.01,62.09,4.0
+TKT-00386,2024-12-10 08:36:00,Technical Issue,Medium,Closed,Phone,Product D,Documentation,Agent_10,14.26,55.4,4.0
+TKT-00387,2024-01-21 05:30:00,Feature Request,Medium,Resolved,Email,Product B,Performance,Agent_15,9.63,58.76,3.0
+TKT-00388,2024-09-22 20:28:00,Feature Request,Low,In Progress,Web Portal,Product B,Performance,Agent_3,71.47,110.85,
+TKT-00389,2024-05-22 05:37:00,Feature Request,High,Pending,Email,Product E,Documentation,Agent_12,6.46,46.29,
+TKT-00390,2024-08-11 20:52:00,Bug Report,Low,Resolved,Email,Product D,Data Loss,Agent_7,61.47,142.91,4.0
+TKT-00391,2024-09-08 02:30:00,Feature Request,High,In Progress,Web Portal,Product B,UI/UX,Agent_8,8.05,18.01,
+TKT-00392,2024-06-27 13:21:00,Technical Issue,Critical,Closed,Phone,Product D,Integration,Agent_11,1.36,9.48,4.0
+TKT-00393,2024-06-13 21:06:00,General Inquiry,Low,Pending,Phone,Product C,Documentation,Agent_4,31.73,164.1,
+TKT-00394,2024-03-23 10:26:00,Technical Issue,High,In Progress,Email,Product B,UI/UX,Agent_15,7.69,22.43,
+TKT-00395,2024-12-21 15:18:00,General Inquiry,High,Resolved,Email,Product D,UI/UX,Agent_9,6.91,46.41,2.0
+TKT-00396,2024-12-05 12:52:00,Billing Question,High,Closed,Phone,Product B,Payment,Agent_10,6.63,14.19,4.0
+TKT-00397,2024-10-08 01:29:00,Technical Issue,Medium,Closed,Web Portal,Product C,Integration,Agent_13,6.7,94.02,1.0
+TKT-00398,2024-02-15 10:16:00,Feature Request,Medium,Open,Chat,Product C,Payment,Agent_10,7.64,37.69,
+TKT-00399,2024-06-14 03:49:00,Feature Request,Critical,Resolved,Web Portal,Product B,Payment,Agent_11,2.76,20.29,4.0
+TKT-00400,2024-07-25 16:52:00,General Inquiry,Critical,Pending,Email,Product C,Authentication,Agent_8,3.72,13.9,
+TKT-00401,2024-01-01 21:55:00,Account Access,High,Closed,Phone,Product B,Payment,Agent_12,5.47,31.17,3.0
+TKT-00402,2024-10-04 14:26:00,Bug Report,Medium,Open,Web Portal,Product A,Payment,Agent_6,21.17,60.97,
+TKT-00403,2024-01-28 06:33:00,Technical Issue,High,In Progress,Email,Product E,Performance,Agent_15,9.92,14.7,
+TKT-00404,2024-07-04 19:48:00,Bug Report,Medium,Closed,Chat,Product A,Integration,Agent_13,13.04,55.52,3.0
+TKT-00405,2024-09-12 20:28:00,Technical Issue,Medium,In Progress,Chat,Product C,Integration,Agent_13,20.82,60.67,
+TKT-00406,2024-01-27 06:17:00,Billing Question,Critical,Closed,Web Portal,Product B,Performance,Agent_11,3.47,15.25,5.0
+TKT-00407,2024-10-08 04:59:00,Billing Question,High,In Progress,Email,Product A,Documentation,Agent_7,6.15,26.05,
+TKT-00408,2024-05-27 14:56:00,General Inquiry,High,Resolved,Email,Product D,Data Loss,Agent_13,3.8,33.86,4.0
+TKT-00409,2024-12-23 15:07:00,Bug Report,Medium,In Progress,Chat,Product D,Authentication,Agent_4,17.12,38.9,
+TKT-00410,2024-01-15 20:38:00,Feature Request,Medium,In Progress,Phone,Product D,Integration,Agent_15,13.78,24.26,
+TKT-00411,2024-05-02 22:10:00,Account Access,Low,Closed,Phone,Product B,Data Loss,Agent_5,35.08,116.63,3.0
+TKT-00412,2024-06-08 17:00:00,Technical Issue,Critical,Closed,Web Portal,Product C,Performance,Agent_2,2.81,15.84,3.0
+TKT-00413,2024-10-09 13:05:00,Technical Issue,Low,In Progress,Web Portal,Product B,UI/UX,Agent_1,53.91,49.06,
+TKT-00414,2024-04-25 03:29:00,General Inquiry,Medium,Resolved,Chat,Product C,Authentication,Agent_9,7.72,90.86,1.0
+TKT-00415,2024-03-01 20:53:00,Account Access,High,Pending,Email,Product E,Performance,Agent_6,8.99,30.46,
+TKT-00416,2024-03-19 15:59:00,Bug Report,Medium,Open,Phone,Product B,Data Loss,Agent_7,6.79,60.27,
+TKT-00417,2024-05-29 16:45:00,Bug Report,Low,In Progress,Phone,Product E,Integration,Agent_12,65.13,134.47,
+TKT-00418,2024-05-19 13:53:00,General Inquiry,Critical,Resolved,Phone,Product B,Integration,Agent_12,1.05,9.18,5.0
+TKT-00419,2024-09-04 15:15:00,Technical Issue,Medium,In Progress,Phone,Product E,UI/UX,Agent_12,21.89,85.38,
+TKT-00420,2024-08-21 17:09:00,Billing Question,High,Open,Chat,Product E,Payment,Agent_15,7.38,22.67,
+TKT-00421,2024-07-15 06:58:00,Account Access,Low,Pending,Phone,Product B,Performance,Agent_3,52.0,80.22,
+TKT-00422,2024-11-02 16:47:00,Technical Issue,Medium,Pending,Email,Product A,Documentation,Agent_9,7.2,32.58,
+TKT-00423,2024-03-10 02:17:00,Billing Question,High,In Progress,Phone,Product D,Payment,Agent_9,9.27,20.06,
+TKT-00424,2024-07-31 10:59:00,Bug Report,High,Open,Web Portal,Product E,Performance,Agent_5,11.02,31.21,
+TKT-00425,2024-09-16 08:52:00,Billing Question,Medium,In Progress,Email,Product D,Integration,Agent_4,22.36,45.01,
+TKT-00426,2024-01-02 09:46:00,General Inquiry,Low,Closed,Phone,Product B,UI/UX,Agent_2,36.68,124.75,4.0
+TKT-00427,2024-06-01 18:37:00,Feature Request,High,Pending,Chat,Product E,Performance,Agent_9,9.62,45.91,
+TKT-00428,2024-12-03 15:55:00,Technical Issue,Critical,Resolved,Chat,Product D,Documentation,Agent_9,0.92,9.56,3.0
+TKT-00429,2024-03-17 14:34:00,Account Access,Low,Resolved,Phone,Product D,Performance,Agent_5,34.12,63.96,3.0
+TKT-00430,2024-09-04 11:21:00,Billing Question,High,Resolved,Web Portal,Product C,Authentication,Agent_9,9.55,43.44,3.0
+TKT-00431,2024-10-09 17:24:00,Bug Report,Medium,Open,Chat,Product A,UI/UX,Agent_6,15.08,27.71,
+TKT-00432,2024-08-21 10:55:00,Billing Question,Medium,Open,Email,Product D,Data Loss,Agent_13,20.03,94.56,
+TKT-00433,2024-04-06 22:15:00,Bug Report,Low,Pending,Web Portal,Product B,Authentication,Agent_11,36.61,166.74,
+TKT-00434,2024-10-19 12:14:00,Feature Request,High,Open,Chat,Product B,Documentation,Agent_3,3.65,19.56,
+TKT-00435,2024-07-29 01:20:00,General Inquiry,High,Closed,Web Portal,Product C,UI/UX,Agent_1,4.07,16.18,5.0
+TKT-00436,2024-08-30 22:58:00,Bug Report,Low,Pending,Chat,Product D,UI/UX,Agent_1,14.68,125.84,
+TKT-00437,2024-07-14 12:42:00,Account Access,Low,Pending,Chat,Product E,Documentation,Agent_15,13.6,123.92,
+TKT-00438,2024-11-29 04:31:00,Feature Request,Low,Closed,Web Portal,Product B,Authentication,Agent_13,50.33,164.67,1.0
+TKT-00439,2024-01-19 04:32:00,General Inquiry,Critical,Closed,Phone,Product E,UI/UX,Agent_9,2.86,10.49,5.0
+TKT-00440,2024-10-29 10:55:00,Billing Question,Critical,Closed,Phone,Product B,Documentation,Agent_10,2.12,22.93,5.0
+TKT-00441,2024-02-21 14:06:00,General Inquiry,Critical,In Progress,Web Portal,Product E,UI/UX,Agent_5,1.7,21.68,
+TKT-00442,2024-09-26 14:00:00,General Inquiry,Medium,Resolved,Chat,Product A,Payment,Agent_4,13.19,43.01,3.0
+TKT-00443,2024-03-14 13:55:00,Technical Issue,Critical,Resolved,Chat,Product D,Performance,Agent_14,1.18,6.67,3.0
+TKT-00444,2024-12-01 04:04:00,Bug Report,Critical,Pending,Chat,Product A,Data Loss,Agent_13,0.63,21.97,
+TKT-00445,2024-08-28 08:21:00,General Inquiry,Critical,Closed,Chat,Product A,Integration,Agent_5,1.38,9.9,5.0
+TKT-00446,2024-11-15 22:25:00,Account Access,High,Open,Chat,Product D,Performance,Agent_12,9.09,47.47,
+TKT-00447,2024-11-28 02:54:00,Technical Issue,Critical,Closed,Phone,Product E,UI/UX,Agent_7,0.98,16.52,5.0
+TKT-00448,2024-06-17 21:54:00,Technical Issue,Low,Pending,Chat,Product A,UI/UX,Agent_9,52.22,49.25,
+TKT-00449,2024-09-30 12:20:00,Feature Request,Critical,Resolved,Web Portal,Product D,Performance,Agent_2,2.12,11.11,5.0
+TKT-00450,2024-11-16 22:56:00,Billing Question,Medium,In Progress,Chat,Product E,Documentation,Agent_12,14.3,76.59,
+TKT-00451,2024-09-06 17:02:00,Technical Issue,Medium,Closed,Chat,Product D,UI/UX,Agent_1,7.49,44.14,3.0
+TKT-00452,2024-11-12 02:15:00,Account Access,Critical,Resolved,Phone,Product D,Authentication,Agent_14,2.8,9.12,4.0
+TKT-00453,2024-11-19 21:58:00,Bug Report,Low,Pending,Email,Product A,Data Loss,Agent_6,54.81,49.88,
+TKT-00454,2024-05-27 07:47:00,Bug Report,Low,Pending,Email,Product D,Documentation,Agent_5,38.26,126.88,
+TKT-00455,2024-02-16 13:06:00,Bug Report,High,Resolved,Chat,Product D,Payment,Agent_11,6.71,43.25,4.0
+TKT-00456,2024-11-20 22:55:00,Feature Request,Low,Resolved,Phone,Product B,Documentation,Agent_9,28.75,160.68,2.0
+TKT-00457,2024-02-21 14:10:00,Account Access,High,Closed,Chat,Product A,Integration,Agent_6,3.61,33.0,5.0
+TKT-00458,2024-12-21 09:57:00,Technical Issue,High,Open,Email,Product E,Integration,Agent_2,10.38,38.01,
+TKT-00459,2024-01-15 01:20:00,General Inquiry,Low,Closed,Phone,Product A,Authentication,Agent_1,48.42,130.57,3.0
+TKT-00460,2024-01-29 09:22:00,Account Access,Low,In Progress,Web Portal,Product D,Integration,Agent_13,22.63,161.48,
+TKT-00461,2024-07-10 13:09:00,Feature Request,High,Resolved,Web Portal,Product B,Performance,Agent_11,3.24,21.26,2.0
+TKT-00462,2024-05-05 16:26:00,Feature Request,Medium,In Progress,Phone,Product B,Performance,Agent_2,19.35,69.09,
+TKT-00463,2024-10-16 21:50:00,Billing Question,Critical,In Progress,Web Portal,Product C,Authentication,Agent_8,1.09,16.09,
+TKT-00464,2024-04-02 05:11:00,Account Access,Medium,Open,Phone,Product C,Documentation,Agent_5,18.09,38.84,
+TKT-00465,2024-02-10 19:55:00,Bug Report,Low,Closed,Chat,Product B,Documentation,Agent_10,12.67,101.06,3.0
+TKT-00466,2024-07-14 19:43:00,Feature Request,Low,Pending,Chat,Product A,Payment,Agent_12,28.4,86.91,
+TKT-00467,2024-05-03 15:58:00,Feature Request,High,In Progress,Email,Product A,Performance,Agent_1,6.41,19.34,
+TKT-00468,2024-10-25 04:14:00,Billing Question,Critical,In Progress,Chat,Product D,Payment,Agent_8,1.12,16.6,
+TKT-00469,2024-08-24 20:16:00,General Inquiry,Low,In Progress,Chat,Product C,Documentation,Agent_6,54.86,150.99,
+TKT-00470,2024-08-23 08:42:00,Bug Report,Critical,In Progress,Email,Product B,Payment,Agent_4,3.62,11.91,
+TKT-00471,2024-01-05 14:57:00,General Inquiry,Medium,Pending,Phone,Product D,Integration,Agent_13,15.58,56.12,
+TKT-00472,2024-05-27 21:34:00,Feature Request,Critical,Closed,Chat,Product E,UI/UX,Agent_12,2.05,18.6,5.0
+TKT-00473,2024-03-21 02:28:00,Technical Issue,Medium,Open,Chat,Product E,Performance,Agent_10,6.86,55.24,
+TKT-00474,2024-06-25 18:19:00,Bug Report,Low,In Progress,Chat,Product A,Documentation,Agent_10,50.09,65.8,
+TKT-00475,2024-11-23 13:44:00,Account Access,Low,Resolved,Email,Product D,Documentation,Agent_12,43.37,105.48,3.0
+TKT-00476,2024-05-08 14:54:00,Billing Question,High,Pending,Phone,Product D,UI/UX,Agent_15,8.63,29.85,
+TKT-00477,2024-06-03 06:24:00,General Inquiry,Medium,Open,Email,Product B,Integration,Agent_11,17.88,57.08,
+TKT-00478,2024-09-04 03:15:00,Technical Issue,Medium,Resolved,Web Portal,Product D,Documentation,Agent_11,7.85,82.72,4.0
+TKT-00479,2024-07-14 18:22:00,Technical Issue,Critical,Resolved,Chat,Product B,Authentication,Agent_9,2.92,7.52,5.0
+TKT-00480,2024-10-21 09:44:00,Account Access,High,Resolved,Web Portal,Product C,Performance,Agent_14,6.44,32.51,5.0
+TKT-00481,2024-05-31 00:53:00,Billing Question,High,In Progress,Phone,Product D,Documentation,Agent_10,7.98,45.96,
+TKT-00482,2024-12-03 12:17:00,Feature Request,High,Closed,Chat,Product A,Authentication,Agent_4,2.49,18.49,5.0
+TKT-00483,2024-01-05 18:55:00,General Inquiry,Medium,In Progress,Web Portal,Product A,Documentation,Agent_6,12.79,44.31,
+TKT-00484,2024-12-17 23:03:00,General Inquiry,Low,Resolved,Web Portal,Product D,Documentation,Agent_5,24.1,85.22,2.0
+TKT-00485,2024-11-06 23:31:00,Billing Question,Low,Open,Web Portal,Product C,Integration,Agent_5,26.98,154.23,
+TKT-00486,2024-05-26 07:38:00,General Inquiry,Critical,In Progress,Chat,Product E,Integration,Agent_11,3.68,20.35,
+TKT-00487,2024-06-29 07:40:00,Feature Request,Critical,Open,Chat,Product A,UI/UX,Agent_13,1.2,17.75,
+TKT-00488,2024-04-07 19:16:00,Account Access,Medium,In Progress,Chat,Product C,Integration,Agent_14,6.29,37.53,
+TKT-00489,2024-12-13 23:49:00,Account Access,Low,Closed,Chat,Product D,Documentation,Agent_12,13.68,65.22,3.0
+TKT-00490,2024-12-03 21:53:00,Technical Issue,High,Closed,Email,Product C,Performance,Agent_10,2.15,27.35,5.0
+TKT-00491,2024-03-11 20:06:00,Technical Issue,Low,In Progress,Web Portal,Product E,UI/UX,Agent_11,61.23,102.6,
+TKT-00492,2024-11-17 20:02:00,Technical Issue,Critical,In Progress,Email,Product E,Integration,Agent_3,2.88,16.9,
+TKT-00493,2024-06-07 14:02:00,Account Access,Low,Closed,Phone,Product E,Documentation,Agent_12,15.79,96.3,2.0
+TKT-00494,2024-10-23 11:46:00,Feature Request,High,Open,Web Portal,Product B,Authentication,Agent_7,11.59,38.08,
+TKT-00495,2024-03-08 02:58:00,Account Access,Critical,Closed,Chat,Product A,Documentation,Agent_9,0.84,6.75,5.0
+TKT-00496,2024-05-31 10:47:00,Account Access,Medium,In Progress,Chat,Product E,Payment,Agent_12,21.04,78.03,
+TKT-00497,2024-07-31 05:12:00,Technical Issue,Low,Open,Chat,Product C,UI/UX,Agent_4,51.85,49.41,
+TKT-00498,2024-03-08 17:56:00,Billing Question,Low,In Progress,Email,Product A,Performance,Agent_2,55.44,59.97,
+TKT-00499,2024-07-06 16:32:00,Technical Issue,Medium,Pending,Chat,Product E,Data Loss,Agent_6,6.79,51.65,
+TKT-00500,2024-05-19 05:16:00,Billing Question,Medium,In Progress,Web Portal,Product C,Authentication,Agent_9,15.23,31.92,
+TKT-00501,2024-09-03 09:47:00,Feature Request,High,Closed,Web Portal,Product A,Performance,Agent_10,10.16,12.49,5.0
+TKT-00502,2024-06-22 03:29:00,Feature Request,Low,Resolved,Phone,Product A,Integration,Agent_4,31.36,147.66,4.0
+TKT-00503,2024-02-08 04:48:00,Bug Report,Critical,Closed,Web Portal,Product D,Data Loss,Agent_14,2.69,22.69,4.0
+TKT-00504,2024-04-25 21:46:00,Bug Report,Low,Closed,Chat,Product C,UI/UX,Agent_13,49.48,63.86,2.0
+TKT-00505,2024-12-11 12:54:00,Bug Report,High,Open,Web Portal,Product D,Documentation,Agent_6,11.34,39.72,
+TKT-00506,2024-10-12 11:05:00,Feature Request,Critical,Pending,Web Portal,Product E,Data Loss,Agent_8,1.88,9.35,
+TKT-00507,2024-07-21 00:16:00,Technical Issue,Critical,Open,Email,Product A,UI/UX,Agent_2,2.0,22.77,
+TKT-00508,2024-10-01 03:29:00,Technical Issue,Critical,In Progress,Web Portal,Product C,Performance,Agent_3,1.31,15.99,
+TKT-00509,2024-07-07 21:47:00,Technical Issue,High,Resolved,Phone,Product C,Integration,Agent_12,3.06,40.53,5.0
+TKT-00510,2024-12-10 08:37:00,Account Access,Low,Closed,Web Portal,Product B,UI/UX,Agent_7,31.4,49.13,4.0
+TKT-00511,2024-07-14 20:23:00,Bug Report,Critical,Resolved,Email,Product E,Authentication,Agent_14,0.55,19.83,5.0
+TKT-00512,2024-02-25 21:14:00,Technical Issue,Medium,Resolved,Email,Product A,Documentation,Agent_7,17.77,63.05,4.0
+TKT-00513,2024-08-29 00:39:00,Bug Report,High,In Progress,Web Portal,Product E,Authentication,Agent_2,2.12,41.46,
+TKT-00514,2024-10-14 10:58:00,Bug Report,Critical,In Progress,Web Portal,Product B,UI/UX,Agent_2,1.24,21.05,
+TKT-00515,2024-11-08 07:41:00,Account Access,High,Resolved,Email,Product B,UI/UX,Agent_1,4.2,15.06,2.0
+TKT-00516,2024-02-02 20:52:00,Feature Request,Medium,Closed,Chat,Product C,Payment,Agent_7,17.84,34.02,4.0
+TKT-00517,2024-08-25 22:19:00,Technical Issue,Critical,In Progress,Web Portal,Product B,UI/UX,Agent_15,1.47,19.19,
+TKT-00518,2024-11-28 13:07:00,Account Access,Low,Closed,Email,Product E,Integration,Agent_3,49.43,155.09,2.0
+TKT-00519,2024-03-12 01:02:00,Feature Request,High,In Progress,Web Portal,Product A,Documentation,Agent_8,2.44,41.36,
+TKT-00520,2024-06-04 15:07:00,Feature Request,Critical,Closed,Email,Product D,UI/UX,Agent_4,3.6,10.15,5.0
+TKT-00521,2024-02-19 07:56:00,Technical Issue,Critical,Closed,Chat,Product E,Payment,Agent_8,1.94,13.58,3.0
+TKT-00522,2024-10-02 04:24:00,General Inquiry,High,Pending,Phone,Product B,Authentication,Agent_2,9.68,20.78,
+TKT-00523,2024-08-20 11:42:00,Bug Report,Medium,In Progress,Web Portal,Product B,Integration,Agent_6,14.99,63.13,
+TKT-00524,2024-12-22 17:26:00,Billing Question,High,Pending,Web Portal,Product C,Payment,Agent_11,11.9,21.63,
+TKT-00525,2024-10-27 23:46:00,Bug Report,Low,Resolved,Phone,Product C,UI/UX,Agent_9,54.75,113.23,1.0
+TKT-00526,2024-03-20 13:41:00,Bug Report,Medium,Closed,Phone,Product C,Performance,Agent_7,20.24,25.53,3.0
+TKT-00527,2024-02-20 15:39:00,Billing Question,Low,Closed,Web Portal,Product E,Performance,Agent_10,67.33,53.34,3.0
+TKT-00528,2024-07-27 08:02:00,General Inquiry,Low,Open,Chat,Product D,Data Loss,Agent_9,46.15,113.36,
+TKT-00529,2024-12-19 11:13:00,Feature Request,High,In Progress,Web Portal,Product C,Authentication,Agent_9,4.52,15.69,
+TKT-00530,2024-08-15 14:15:00,Billing Question,Critical,Resolved,Phone,Product A,Authentication,Agent_13,0.83,21.73,5.0
+TKT-00531,2024-07-04 03:43:00,Billing Question,Medium,Resolved,Email,Product A,Payment,Agent_7,11.84,53.9,4.0
+TKT-00532,2024-07-07 17:57:00,Account Access,Low,In Progress,Chat,Product C,Payment,Agent_14,49.85,48.15,
+TKT-00533,2024-11-26 11:03:00,Account Access,Critical,Open,Web Portal,Product C,Data Loss,Agent_5,1.86,8.49,
+TKT-00534,2024-07-22 08:12:00,Account Access,Critical,Open,Web Portal,Product D,UI/UX,Agent_10,3.74,8.53,
+TKT-00535,2024-03-03 14:05:00,Feature Request,Critical,In Progress,Email,Product D,Documentation,Agent_8,3.2,11.71,
+TKT-00536,2024-12-05 06:41:00,Billing Question,Medium,Closed,Email,Product E,Documentation,Agent_11,8.39,49.44,3.0
+TKT-00537,2024-11-23 19:01:00,Technical Issue,Critical,Closed,Chat,Product E,UI/UX,Agent_7,1.11,9.74,5.0
+TKT-00538,2024-01-26 10:15:00,Billing Question,High,Resolved,Chat,Product A,Documentation,Agent_8,9.62,45.18,5.0
+TKT-00539,2024-03-05 18:13:00,Feature Request,Low,In Progress,Web Portal,Product D,Payment,Agent_12,53.26,130.13,
+TKT-00540,2024-02-05 17:13:00,Account Access,Critical,Closed,Web Portal,Product E,Documentation,Agent_15,3.92,17.74,5.0
+TKT-00541,2024-10-27 06:52:00,Feature Request,Low,Open,Phone,Product E,Data Loss,Agent_8,51.98,133.78,
+TKT-00542,2024-04-29 10:49:00,Account Access,Medium,In Progress,Web Portal,Product C,UI/UX,Agent_12,7.22,88.92,
+TKT-00543,2024-03-16 19:00:00,Feature Request,Low,Resolved,Email,Product D,Integration,Agent_7,13.06,107.02,2.0
+TKT-00544,2024-05-21 04:08:00,Technical Issue,Critical,Closed,Chat,Product E,Documentation,Agent_14,3.69,23.82,4.0
+TKT-00545,2024-10-03 08:51:00,Account Access,Medium,Closed,Web Portal,Product C,Performance,Agent_3,14.08,40.17,2.0
+TKT-00546,2024-03-30 03:42:00,Account Access,Medium,Open,Chat,Product A,Integration,Agent_3,15.2,92.87,
+TKT-00547,2024-01-14 04:00:00,Billing Question,Medium,Closed,Web Portal,Product B,Integration,Agent_9,19.35,44.29,4.0
+TKT-00548,2024-07-02 07:37:00,General Inquiry,Medium,Closed,Email,Product D,Documentation,Agent_3,15.06,29.49,5.0
+TKT-00549,2024-06-14 00:11:00,General Inquiry,Medium,Open,Phone,Product A,UI/UX,Agent_8,18.68,48.03,
+TKT-00550,2024-05-15 01:08:00,Feature Request,Low,Open,Phone,Product A,Payment,Agent_12,12.8,91.26,
+TKT-00551,2024-08-03 16:07:00,Bug Report,Critical,Resolved,Chat,Product D,Performance,Agent_8,0.57,22.49,5.0
+TKT-00552,2024-02-02 15:28:00,Bug Report,Low,In Progress,Email,Product B,Payment,Agent_3,57.54,58.18,
+TKT-00553,2024-07-04 16:37:00,Billing Question,Critical,Closed,Email,Product C,UI/UX,Agent_12,0.93,4.87,5.0
+TKT-00554,2024-02-25 14:32:00,Feature Request,Medium,Closed,Email,Product A,Data Loss,Agent_9,10.26,34.88,4.0
+TKT-00555,2024-04-23 19:02:00,Technical Issue,Medium,Open,Web Portal,Product A,Documentation,Agent_14,13.71,54.86,
+TKT-00556,2024-12-03 16:19:00,Billing Question,High,Resolved,Phone,Product B,Performance,Agent_9,4.44,24.05,4.0
+TKT-00557,2024-08-22 20:01:00,Account Access,High,Closed,Email,Product C,Documentation,Agent_2,2.79,18.53,3.0
+TKT-00558,2024-02-01 15:54:00,Technical Issue,Low,Resolved,Web Portal,Product A,Performance,Agent_12,20.25,99.03,3.0
+TKT-00559,2024-07-24 13:43:00,Feature Request,Low,Pending,Chat,Product B,Payment,Agent_4,41.92,155.17,
+TKT-00560,2024-02-25 15:45:00,Account Access,Critical,Open,Web Portal,Product D,Authentication,Agent_8,1.21,17.74,
+TKT-00561,2024-08-15 02:57:00,Bug Report,Critical,Closed,Web Portal,Product B,Integration,Agent_8,1.82,16.5,5.0
+TKT-00562,2024-02-11 10:38:00,Feature Request,High,Resolved,Email,Product B,Performance,Agent_1,8.42,22.33,3.0
+TKT-00563,2024-03-16 02:08:00,Account Access,High,In Progress,Chat,Product E,Payment,Agent_12,4.38,43.51,
+TKT-00564,2024-05-20 19:40:00,Feature Request,Critical,Resolved,Phone,Product A,Integration,Agent_3,3.04,9.42,5.0
+TKT-00565,2024-10-26 17:45:00,Account Access,Low,Resolved,Chat,Product C,Integration,Agent_9,71.31,107.91,3.0
+TKT-00566,2024-06-15 12:38:00,Feature Request,Critical,Pending,Chat,Product D,Documentation,Agent_6,2.05,11.38,
+TKT-00567,2024-09-28 09:29:00,General Inquiry,Low,Closed,Chat,Product E,Data Loss,Agent_15,64.64,79.85,2.0
+TKT-00568,2024-09-15 19:27:00,Bug Report,Critical,Closed,Chat,Product B,Payment,Agent_2,0.97,22.14,5.0
+TKT-00569,2024-02-20 22:07:00,Billing Question,Medium,Open,Email,Product D,Authentication,Agent_10,11.72,81.51,
+TKT-00570,2024-12-01 20:56:00,Account Access,Medium,Resolved,Web Portal,Product C,Authentication,Agent_14,20.17,80.8,4.0
+TKT-00571,2024-10-09 23:55:00,Account Access,Low,In Progress,Phone,Product D,Data Loss,Agent_7,14.38,151.41,
+TKT-00572,2024-04-20 13:28:00,Bug Report,Low,Pending,Phone,Product D,UI/UX,Agent_2,59.51,165.37,
+TKT-00573,2024-04-26 13:21:00,General Inquiry,Low,Resolved,Web Portal,Product A,Data Loss,Agent_2,36.89,141.33,3.0
+TKT-00574,2024-08-20 12:26:00,Billing Question,High,In Progress,Phone,Product C,UI/UX,Agent_6,10.13,17.28,
+TKT-00575,2024-02-18 10:27:00,Feature Request,High,Open,Chat,Product B,Payment,Agent_10,9.51,17.32,
+TKT-00576,2024-06-09 21:16:00,Account Access,Critical,Pending,Email,Product A,Authentication,Agent_5,1.3,12.93,
+TKT-00577,2024-07-10 04:43:00,Billing Question,High,Closed,Chat,Product A,Integration,Agent_1,9.33,40.69,5.0
+TKT-00578,2024-08-30 02:05:00,Feature Request,Critical,Closed,Chat,Product B,Payment,Agent_9,1.7,23.53,4.0
+TKT-00579,2024-02-13 02:27:00,Account Access,Critical,Resolved,Email,Product E,Performance,Agent_3,1.22,20.29,5.0
+TKT-00580,2024-02-19 23:47:00,Account Access,Critical,Pending,Phone,Product C,UI/UX,Agent_2,0.69,6.26,
+TKT-00581,2024-07-09 04:35:00,General Inquiry,Low,In Progress,Email,Product D,Documentation,Agent_6,67.06,99.29,
+TKT-00582,2024-01-31 18:35:00,General Inquiry,Medium,Open,Web Portal,Product E,Payment,Agent_5,23.79,76.32,
+TKT-00583,2024-10-14 10:42:00,General Inquiry,High,Open,Web Portal,Product C,Authentication,Agent_6,10.01,17.21,
+TKT-00584,2024-03-03 13:22:00,Feature Request,Critical,Closed,Web Portal,Product C,Integration,Agent_5,2.94,10.46,5.0
+TKT-00585,2024-12-06 13:55:00,Bug Report,Medium,Closed,Email,Product D,Data Loss,Agent_5,10.0,33.18,4.0
+TKT-00586,2024-01-27 09:38:00,Billing Question,Critical,Open,Web Portal,Product E,Integration,Agent_8,3.55,19.35,
+TKT-00587,2024-06-08 11:06:00,Account Access,Low,Closed,Chat,Product E,Data Loss,Agent_1,43.29,90.31,2.0
+TKT-00588,2024-10-22 16:13:00,Feature Request,Critical,Open,Chat,Product E,Performance,Agent_13,1.14,13.88,
+TKT-00589,2024-03-20 21:30:00,Account Access,High,Resolved,Web Portal,Product D,Payment,Agent_3,8.3,29.33,4.0
+TKT-00590,2024-04-24 03:22:00,Feature Request,Medium,In Progress,Web Portal,Product D,Authentication,Agent_3,7.16,94.05,
+TKT-00591,2024-10-11 11:07:00,Account Access,Low,Pending,Web Portal,Product C,Performance,Agent_13,41.5,120.21,
+TKT-00592,2024-05-22 18:14:00,Technical Issue,Critical,Resolved,Web Portal,Product E,Payment,Agent_10,3.84,16.73,4.0
+TKT-00593,2024-08-07 17:49:00,Bug Report,High,Pending,Email,Product B,Data Loss,Agent_7,2.52,16.98,
+TKT-00594,2024-11-14 19:43:00,Billing Question,High,Open,Email,Product C,Authentication,Agent_1,11.92,45.99,
+TKT-00595,2024-11-25 17:01:00,Bug Report,Low,In Progress,Chat,Product B,Authentication,Agent_15,68.3,158.59,
+TKT-00596,2024-11-07 21:53:00,Bug Report,High,Resolved,Phone,Product C,UI/UX,Agent_15,3.26,25.79,4.0
+TKT-00597,2024-12-21 08:01:00,Billing Question,High,Closed,Chat,Product B,Data Loss,Agent_5,3.74,31.78,4.0
+TKT-00598,2024-04-02 08:44:00,General Inquiry,High,Pending,Email,Product D,Integration,Agent_15,7.49,31.39,
+TKT-00599,2024-06-07 10:22:00,Bug Report,High,Pending,Chat,Product C,Documentation,Agent_5,9.95,29.73,
+TKT-00600,2024-01-04 05:55:00,Technical Issue,Critical,Closed,Chat,Product C,Integration,Agent_4,1.22,14.72,4.0
+TKT-00601,2024-03-14 18:42:00,General Inquiry,Low,Resolved,Email,Product A,Documentation,Agent_3,42.45,75.61,3.0
+TKT-00602,2024-07-24 02:09:00,Feature Request,Medium,Closed,Phone,Product B,UI/UX,Agent_14,13.67,30.02,3.0
+TKT-00603,2024-11-20 00:05:00,General Inquiry,Medium,Pending,Email,Product C,Integration,Agent_12,14.41,75.47,
+TKT-00604,2024-09-28 06:24:00,Billing Question,High,Closed,Chat,Product C,Authentication,Agent_8,3.64,30.97,5.0
+TKT-00605,2024-08-02 14:21:00,Feature Request,Critical,Pending,Email,Product D,Payment,Agent_1,1.19,19.53,
+TKT-00606,2024-03-21 11:19:00,Account Access,High,Resolved,Phone,Product B,UI/UX,Agent_2,6.24,41.21,5.0
+TKT-00607,2024-06-15 18:38:00,General Inquiry,High,In Progress,Phone,Product E,Payment,Agent_9,8.06,19.9,
+TKT-00608,2024-02-13 01:09:00,Technical Issue,Critical,Resolved,Email,Product B,Payment,Agent_6,1.56,5.75,5.0
+TKT-00609,2024-03-21 19:03:00,Feature Request,Low,Closed,Email,Product E,Documentation,Agent_2,46.59,91.41,3.0
+TKT-00610,2024-12-11 02:17:00,General Inquiry,Medium,Closed,Email,Product C,Documentation,Agent_14,23.42,38.64,5.0
+TKT-00611,2024-08-14 21:27:00,Feature Request,Critical,Resolved,Web Portal,Product B,Documentation,Agent_1,1.2,21.01,5.0
+TKT-00612,2024-09-05 19:28:00,Billing Question,Medium,In Progress,Chat,Product B,Performance,Agent_7,21.52,50.09,
+TKT-00613,2024-07-31 08:13:00,General Inquiry,Critical,Pending,Chat,Product B,Performance,Agent_8,2.18,13.48,
+TKT-00614,2024-09-19 03:22:00,Account Access,Critical,Closed,Phone,Product B,UI/UX,Agent_10,3.83,6.67,5.0
+TKT-00615,2024-08-08 03:18:00,Billing Question,High,Closed,Chat,Product B,Integration,Agent_5,5.6,15.97,5.0
+TKT-00616,2024-12-13 21:37:00,Account Access,Low,Resolved,Web Portal,Product A,Integration,Agent_10,34.66,157.36,2.0
+TKT-00617,2024-09-06 16:42:00,General Inquiry,Medium,Pending,Phone,Product A,Payment,Agent_8,14.47,49.98,
+TKT-00618,2024-06-06 01:14:00,Billing Question,Low,Pending,Email,Product C,Integration,Agent_15,37.36,149.92,
+TKT-00619,2024-07-21 19:03:00,General Inquiry,High,Closed,Email,Product E,Documentation,Agent_6,8.09,40.03,3.0
+TKT-00620,2024-01-04 06:19:00,Feature Request,Critical,Pending,Phone,Product B,Payment,Agent_13,2.02,6.79,
+TKT-00621,2024-04-18 04:48:00,Feature Request,Medium,Resolved,Phone,Product D,Data Loss,Agent_7,8.81,57.15,5.0
+TKT-00622,2024-05-10 09:20:00,Technical Issue,Low,In Progress,Phone,Product C,Payment,Agent_8,69.23,148.23,
+TKT-00623,2024-03-02 00:31:00,Feature Request,Medium,Open,Web Portal,Product C,Documentation,Agent_14,14.68,63.71,
+TKT-00624,2024-08-08 05:08:00,Bug Report,Medium,In Progress,Email,Product B,Performance,Agent_12,19.71,91.06,
+TKT-00625,2024-07-13 17:45:00,Feature Request,Medium,Resolved,Web Portal,Product B,UI/UX,Agent_14,13.69,54.32,3.0
+TKT-00626,2024-04-27 16:35:00,Bug Report,Low,In Progress,Email,Product E,UI/UX,Agent_10,16.99,73.29,
+TKT-00627,2024-12-08 11:04:00,Feature Request,Medium,Open,Phone,Product A,Payment,Agent_3,22.32,40.17,
+TKT-00628,2024-07-22 23:02:00,Bug Report,Low,In Progress,Web Portal,Product C,Integration,Agent_13,30.01,137.64,
+TKT-00629,2024-08-11 00:29:00,Bug Report,Critical,Closed,Chat,Product C,Payment,Agent_3,2.38,6.34,5.0
+TKT-00630,2024-02-09 10:36:00,General Inquiry,Low,Resolved,Email,Product B,Integration,Agent_9,45.17,131.49,4.0
+TKT-00631,2024-08-07 18:25:00,Feature Request,High,Pending,Phone,Product C,Documentation,Agent_11,3.76,17.15,
+TKT-00632,2024-12-29 20:26:00,Bug Report,Medium,Closed,Phone,Product D,Payment,Agent_8,12.85,76.78,3.0
+TKT-00633,2024-05-28 03:25:00,Technical Issue,High,Closed,Web Portal,Product E,Authentication,Agent_13,5.06,37.06,4.0
+TKT-00634,2024-01-11 10:10:00,Account Access,High,Open,Chat,Product B,Performance,Agent_8,4.83,27.29,
+TKT-00635,2024-11-12 14:53:00,General Inquiry,Critical,In Progress,Chat,Product E,Performance,Agent_11,2.47,5.08,
+TKT-00636,2024-12-19 11:05:00,Bug Report,Critical,Resolved,Email,Product C,Payment,Agent_8,2.18,6.12,3.0
+TKT-00637,2024-08-11 03:15:00,Bug Report,Low,Open,Email,Product A,Data Loss,Agent_3,31.99,117.79,
+TKT-00638,2024-08-11 18:25:00,General Inquiry,Low,Open,Email,Product A,Integration,Agent_14,54.89,105.22,
+TKT-00639,2024-09-25 02:25:00,Technical Issue,Medium,In Progress,Web Portal,Product D,Payment,Agent_12,9.52,66.76,
+TKT-00640,2024-06-07 23:21:00,Technical Issue,High,Resolved,Phone,Product D,Performance,Agent_6,11.16,17.69,4.0
+TKT-00641,2024-04-23 10:49:00,Billing Question,Critical,Closed,Web Portal,Product B,Data Loss,Agent_2,0.51,6.94,5.0
+TKT-00642,2024-03-27 02:32:00,General Inquiry,Critical,Resolved,Phone,Product D,UI/UX,Agent_13,3.52,6.83,5.0
+TKT-00643,2024-11-20 03:33:00,General Inquiry,Medium,Open,Phone,Product C,UI/UX,Agent_10,19.15,41.64,
+TKT-00644,2024-09-18 06:57:00,Account Access,Critical,Open,Phone,Product B,Integration,Agent_11,1.81,4.25,
+TKT-00645,2024-06-27 11:46:00,Billing Question,High,Pending,Chat,Product A,Authentication,Agent_10,6.05,41.92,
+TKT-00646,2024-11-26 04:15:00,General Inquiry,High,In Progress,Web Portal,Product E,Authentication,Agent_7,6.16,26.99,
+TKT-00647,2024-02-22 04:16:00,Bug Report,Medium,Pending,Web Portal,Product E,Integration,Agent_7,13.1,79.11,
+TKT-00648,2024-04-11 05:38:00,Technical Issue,High,Open,Web Portal,Product C,Payment,Agent_4,9.42,28.91,
+TKT-00649,2024-03-19 20:04:00,Bug Report,Low,Closed,Chat,Product C,Documentation,Agent_15,35.04,64.81,4.0
+TKT-00650,2024-03-31 20:31:00,General Inquiry,High,Open,Chat,Product D,Performance,Agent_7,5.08,30.99,
+TKT-00651,2024-08-25 18:48:00,General Inquiry,Low,Resolved,Phone,Product C,UI/UX,Agent_6,71.25,161.85,2.0
+TKT-00652,2024-10-23 14:43:00,General Inquiry,Critical,Resolved,Chat,Product E,Integration,Agent_9,0.75,13.4,5.0
+TKT-00653,2024-10-16 20:40:00,Feature Request,Low,Closed,Email,Product B,UI/UX,Agent_1,65.1,134.71,2.0
+TKT-00654,2024-11-15 10:55:00,Account Access,Medium,Closed,Email,Product E,Payment,Agent_11,23.86,55.97,2.0
+TKT-00655,2024-11-17 10:09:00,Feature Request,Medium,Pending,Email,Product D,UI/UX,Agent_15,8.24,70.43,
+TKT-00656,2024-08-13 02:30:00,Technical Issue,Medium,Closed,Web Portal,Product C,Integration,Agent_8,22.78,24.95,1.0
+TKT-00657,2024-08-14 20:19:00,Technical Issue,Medium,Open,Email,Product A,UI/UX,Agent_12,8.92,32.01,
+TKT-00658,2024-05-20 18:03:00,Technical Issue,Medium,In Progress,Chat,Product D,Integration,Agent_5,19.73,28.32,
+TKT-00659,2024-06-29 16:04:00,Account Access,High,Resolved,Web Portal,Product A,UI/UX,Agent_11,11.57,35.13,4.0
+TKT-00660,2024-06-07 14:28:00,Billing Question,Critical,Resolved,Web Portal,Product B,Data Loss,Agent_2,3.2,16.08,4.0
+TKT-00661,2024-01-20 01:23:00,Bug Report,Low,Open,Email,Product E,Performance,Agent_14,57.09,68.83,
+TKT-00662,2024-05-26 02:41:00,General Inquiry,Low,In Progress,Phone,Product A,Authentication,Agent_3,32.91,67.24,
+TKT-00663,2024-02-16 19:38:00,Bug Report,Critical,Closed,Phone,Product C,Authentication,Agent_12,2.98,11.93,5.0
+TKT-00664,2024-09-16 12:29:00,Bug Report,Medium,Pending,Chat,Product A,Data Loss,Agent_1,17.43,54.5,
+TKT-00665,2024-10-24 17:50:00,Bug Report,Medium,In Progress,Email,Product D,Authentication,Agent_10,12.63,92.27,
+TKT-00666,2024-01-22 14:58:00,General Inquiry,Low,Open,Chat,Product E,Authentication,Agent_11,15.46,102.52,
+TKT-00667,2024-10-19 20:12:00,Bug Report,Medium,Closed,Phone,Product B,Performance,Agent_13,12.94,75.22,4.0
+TKT-00668,2024-06-13 19:30:00,Billing Question,High,Closed,Phone,Product D,Payment,Agent_13,6.24,21.29,4.0
+TKT-00669,2024-09-13 04:03:00,Feature Request,High,Closed,Email,Product C,Integration,Agent_12,4.47,32.59,3.0
+TKT-00670,2024-08-18 03:51:00,Account Access,High,In Progress,Phone,Product A,Performance,Agent_5,6.78,23.02,
+TKT-00671,2024-06-24 22:05:00,Feature Request,Critical,Closed,Phone,Product C,Data Loss,Agent_9,3.73,8.55,5.0
+TKT-00672,2024-09-15 20:11:00,Feature Request,Critical,In Progress,Phone,Product A,UI/UX,Agent_11,1.76,22.63,
+TKT-00673,2024-01-21 07:45:00,General Inquiry,High,Open,Email,Product E,Documentation,Agent_2,9.07,21.79,
+TKT-00674,2024-08-12 14:33:00,Bug Report,Critical,Pending,Email,Product B,Data Loss,Agent_11,0.6,5.84,
+TKT-00675,2024-09-24 19:10:00,General Inquiry,High,In Progress,Phone,Product E,UI/UX,Agent_9,8.66,25.59,
+TKT-00676,2024-07-05 11:58:00,Bug Report,Medium,Open,Phone,Product E,UI/UX,Agent_2,8.66,92.48,
+TKT-00677,2024-05-24 12:26:00,Billing Question,Critical,In Progress,Web Portal,Product B,Documentation,Agent_4,2.62,18.86,
+TKT-00678,2024-06-22 21:38:00,Account Access,High,Open,Email,Product C,Authentication,Agent_10,11.44,26.41,
+TKT-00679,2024-01-27 20:41:00,Technical Issue,Critical,Pending,Chat,Product B,Authentication,Agent_9,1.02,5.12,
+TKT-00680,2024-06-20 02:21:00,Feature Request,Low,Resolved,Chat,Product A,Performance,Agent_10,26.84,95.07,3.0
+TKT-00681,2024-02-18 17:43:00,Technical Issue,Low,Pending,Phone,Product A,Data Loss,Agent_13,46.7,146.7,
+TKT-00682,2024-07-16 09:16:00,Account Access,High,Resolved,Phone,Product E,Data Loss,Agent_1,8.63,47.14,3.0
+TKT-00683,2024-12-02 19:55:00,Feature Request,High,Resolved,Web Portal,Product D,Integration,Agent_10,3.61,33.78,4.0
+TKT-00684,2024-03-17 10:05:00,Technical Issue,High,Closed,Web Portal,Product A,Performance,Agent_9,3.17,14.78,4.0
+TKT-00685,2024-10-25 21:09:00,Technical Issue,Low,In Progress,Email,Product E,Integration,Agent_4,17.54,131.09,
+TKT-00686,2024-06-28 09:41:00,General Inquiry,Critical,Closed,Chat,Product D,UI/UX,Agent_13,2.99,13.55,4.0
+TKT-00687,2024-12-23 21:25:00,Billing Question,Low,Open,Web Portal,Product B,Performance,Agent_8,35.06,126.32,
+TKT-00688,2024-03-07 19:45:00,Account Access,High,Open,Chat,Product D,Payment,Agent_9,9.06,26.58,
+TKT-00689,2024-02-13 09:35:00,Account Access,High,Open,Web Portal,Product C,Data Loss,Agent_15,11.74,25.7,
+TKT-00690,2024-07-11 20:50:00,Account Access,High,Closed,Phone,Product E,Authentication,Agent_1,2.8,13.97,4.0
+TKT-00691,2024-06-17 04:42:00,Feature Request,High,Pending,Web Portal,Product E,Data Loss,Agent_2,11.1,25.37,
+TKT-00692,2024-12-25 23:43:00,Billing Question,High,Closed,Web Portal,Product E,Payment,Agent_11,10.76,27.27,4.0
+TKT-00693,2024-09-26 02:41:00,Bug Report,High,Closed,Email,Product A,Performance,Agent_15,3.66,21.72,2.0
+TKT-00694,2024-12-09 13:32:00,Feature Request,Medium,Pending,Phone,Product C,Payment,Agent_9,13.68,31.52,
+TKT-00695,2024-07-04 00:23:00,Account Access,Medium,Pending,Phone,Product D,Data Loss,Agent_3,18.45,50.11,
+TKT-00696,2024-06-07 05:13:00,Feature Request,Medium,Pending,Email,Product B,Integration,Agent_1,15.01,80.07,
+TKT-00697,2024-06-23 15:12:00,Technical Issue,Low,In Progress,Chat,Product D,Performance,Agent_5,43.99,88.26,
+TKT-00698,2024-04-25 04:09:00,Feature Request,Critical,Closed,Phone,Product C,Integration,Agent_13,3.6,8.79,4.0
+TKT-00699,2024-02-09 09:54:00,General Inquiry,High,In Progress,Phone,Product D,Payment,Agent_4,7.86,17.86,
+TKT-00700,2024-02-21 16:49:00,General Inquiry,Medium,Resolved,Email,Product C,Authentication,Agent_4,19.21,31.67,5.0
+TKT-00701,2024-10-03 23:56:00,Feature Request,Low,Resolved,Chat,Product A,Performance,Agent_14,57.15,73.43,2.0
+TKT-00702,2024-09-26 01:42:00,Account Access,Critical,Closed,Phone,Product C,UI/UX,Agent_12,3.74,4.22,4.0
+TKT-00703,2024-06-21 19:08:00,Technical Issue,High,Open,Email,Product C,Data Loss,Agent_14,10.69,44.75,
+TKT-00704,2024-11-01 12:09:00,Account Access,High,Pending,Phone,Product C,Integration,Agent_15,3.09,18.76,
+TKT-00705,2024-03-24 05:53:00,Technical Issue,Critical,In Progress,Web Portal,Product C,Payment,Agent_10,2.5,8.03,
+TKT-00706,2024-12-20 19:51:00,General Inquiry,Critical,Resolved,Chat,Product D,Performance,Agent_8,3.29,22.58,4.0
+TKT-00707,2024-03-25 23:28:00,Technical Issue,Critical,Closed,Web Portal,Product E,Authentication,Agent_2,3.35,8.81,4.0
+TKT-00708,2024-01-23 13:23:00,Technical Issue,Low,Open,Chat,Product A,Performance,Agent_13,28.14,58.2,
+TKT-00709,2024-12-12 23:15:00,Account Access,Medium,Closed,Email,Product B,Authentication,Agent_9,9.77,65.05,4.0
+TKT-00710,2024-08-15 19:18:00,General Inquiry,High,Open,Phone,Product D,Payment,Agent_10,9.48,13.62,
+TKT-00711,2024-08-17 07:34:00,Technical Issue,Medium,Closed,Phone,Product D,Integration,Agent_6,18.58,95.03,4.0
+TKT-00712,2024-05-02 09:51:00,General Inquiry,Critical,Pending,Email,Product D,Documentation,Agent_7,0.52,13.68,
+TKT-00713,2024-08-28 06:23:00,Billing Question,High,Pending,Phone,Product C,Documentation,Agent_10,3.68,13.73,
+TKT-00714,2024-12-13 18:28:00,General Inquiry,High,Open,Web Portal,Product B,Performance,Agent_1,6.92,15.36,
+TKT-00715,2024-08-24 09:49:00,Billing Question,Medium,Closed,Email,Product D,UI/UX,Agent_8,7.74,46.22,2.0
+TKT-00716,2024-07-14 16:33:00,Bug Report,Medium,Pending,Web Portal,Product D,Performance,Agent_14,19.93,94.6,
+TKT-00717,2024-08-02 05:52:00,Billing Question,High,Closed,Chat,Product B,Integration,Agent_15,6.18,39.06,2.0
+TKT-00718,2024-04-12 19:08:00,Bug Report,Low,Closed,Phone,Product E,Performance,Agent_1,37.01,163.05,3.0
+TKT-00719,2024-05-08 01:41:00,Billing Question,Critical,Pending,Web Portal,Product E,Performance,Agent_6,1.51,14.0,
+TKT-00720,2024-09-03 11:35:00,Account Access,Medium,Resolved,Phone,Product A,Data Loss,Agent_7,13.76,46.64,2.0
+TKT-00721,2024-02-22 22:54:00,Bug Report,High,Resolved,Chat,Product B,Documentation,Agent_3,3.76,26.06,3.0
+TKT-00722,2024-09-21 03:18:00,Feature Request,Medium,Closed,Phone,Product B,Documentation,Agent_7,9.36,49.62,5.0
+TKT-00723,2024-02-12 05:17:00,Feature Request,High,Resolved,Chat,Product C,Performance,Agent_1,3.34,16.66,4.0
+TKT-00724,2024-08-18 16:09:00,Billing Question,Low,In Progress,Email,Product D,Data Loss,Agent_14,41.19,128.96,
+TKT-00725,2024-08-11 02:58:00,Feature Request,Medium,Pending,Phone,Product E,Performance,Agent_9,15.05,47.85,
+TKT-00726,2024-04-23 14:56:00,General Inquiry,High,Resolved,Email,Product C,Integration,Agent_6,3.1,44.27,3.0
+TKT-00727,2024-06-27 00:26:00,Billing Question,Medium,Resolved,Chat,Product A,Payment,Agent_7,16.21,60.26,4.0
+TKT-00728,2024-01-28 12:32:00,Billing Question,High,Closed,Email,Product E,Performance,Agent_5,4.13,30.08,3.0
+TKT-00729,2024-07-10 07:24:00,General Inquiry,Critical,Open,Web Portal,Product D,UI/UX,Agent_2,1.2,19.5,
+TKT-00730,2024-02-11 11:14:00,General Inquiry,High,Resolved,Email,Product A,Integration,Agent_2,9.5,12.85,5.0
+TKT-00731,2024-01-15 10:59:00,Feature Request,High,Open,Web Portal,Product A,Documentation,Agent_2,10.09,40.66,
+TKT-00732,2024-02-20 22:41:00,Feature Request,High,Pending,Chat,Product D,Payment,Agent_9,3.92,29.17,
+TKT-00733,2024-06-20 04:08:00,Technical Issue,High,Open,Chat,Product C,Data Loss,Agent_3,11.83,43.28,
+TKT-00734,2024-01-20 09:58:00,General Inquiry,Critical,Resolved,Phone,Product D,Documentation,Agent_5,3.55,4.75,5.0
+TKT-00735,2024-08-29 22:53:00,Bug Report,Low,In Progress,Web Portal,Product B,UI/UX,Agent_3,38.44,67.35,
+TKT-00736,2024-03-12 22:30:00,Billing Question,Critical,In Progress,Phone,Product E,UI/UX,Agent_3,3.7,17.65,
+TKT-00737,2024-08-17 19:00:00,Feature Request,Low,Pending,Phone,Product D,Documentation,Agent_5,18.55,57.45,
+TKT-00738,2024-02-10 00:16:00,Bug Report,Low,Resolved,Chat,Product E,Integration,Agent_13,50.19,123.11,3.0
+TKT-00739,2024-04-20 04:35:00,Feature Request,Critical,Pending,Email,Product B,Authentication,Agent_2,0.78,23.06,
+TKT-00740,2024-11-07 16:27:00,Feature Request,Medium,Closed,Chat,Product B,Payment,Agent_3,7.54,40.67,3.0
+TKT-00741,2024-02-26 09:15:00,Technical Issue,Low,Closed,Chat,Product B,Payment,Agent_5,19.48,73.88,3.0
+TKT-00742,2024-06-03 03:03:00,General Inquiry,Critical,Open,Email,Product D,Authentication,Agent_7,0.72,17.63,
+TKT-00743,2024-05-02 13:40:00,Billing Question,High,Pending,Web Portal,Product C,Payment,Agent_11,2.3,17.07,
+TKT-00744,2024-11-14 14:04:00,Billing Question,Critical,In Progress,Web Portal,Product E,Payment,Agent_3,1.32,18.37,
+TKT-00745,2024-02-26 15:38:00,Account Access,Low,Pending,Email,Product D,Authentication,Agent_1,41.11,167.21,
+TKT-00746,2024-10-01 00:40:00,General Inquiry,Medium,Open,Email,Product A,Integration,Agent_10,19.69,60.12,
+TKT-00747,2024-09-20 18:15:00,Technical Issue,Medium,Resolved,Phone,Product C,Performance,Agent_6,6.17,95.44,4.0
+TKT-00748,2024-03-14 09:27:00,Bug Report,Medium,Pending,Email,Product E,Payment,Agent_3,10.79,67.83,
+TKT-00749,2024-01-01 19:22:00,Technical Issue,High,Open,Email,Product C,UI/UX,Agent_1,11.55,30.84,
+TKT-00750,2024-05-03 18:26:00,Bug Report,Critical,Closed,Phone,Product D,Integration,Agent_12,2.83,19.37,5.0
+TKT-00751,2024-04-05 21:42:00,Billing Question,Critical,In Progress,Web Portal,Product E,Integration,Agent_1,3.26,12.95,
+TKT-00752,2024-02-13 16:23:00,Account Access,Medium,Resolved,Email,Product D,Authentication,Agent_5,6.75,33.45,3.0
+TKT-00753,2024-02-04 16:34:00,Account Access,High,Pending,Email,Product B,Integration,Agent_7,4.11,22.47,
+TKT-00754,2024-09-16 16:35:00,Billing Question,Medium,Pending,Phone,Product A,Authentication,Agent_2,20.25,68.89,
+TKT-00755,2024-01-11 12:55:00,Feature Request,Low,In Progress,Email,Product A,Integration,Agent_6,34.54,160.82,
+TKT-00756,2024-08-28 01:40:00,Technical Issue,Critical,Closed,Phone,Product B,Performance,Agent_3,2.32,4.8,4.0
+TKT-00757,2024-07-17 11:16:00,Account Access,High,Pending,Chat,Product C,UI/UX,Agent_7,11.62,37.66,
+TKT-00758,2024-01-09 11:50:00,General Inquiry,Medium,In Progress,Phone,Product C,Data Loss,Agent_15,10.79,73.17,
+TKT-00759,2024-02-04 11:15:00,Feature Request,High,In Progress,Chat,Product D,Integration,Agent_6,6.86,20.61,
+TKT-00760,2024-12-02 20:06:00,Bug Report,Low,Resolved,Chat,Product A,Integration,Agent_5,57.41,167.64,3.0
+TKT-00761,2024-10-24 23:48:00,General Inquiry,Low,In Progress,Phone,Product C,Integration,Agent_7,48.26,120.83,
+TKT-00762,2024-06-19 04:02:00,Account Access,Critical,In Progress,Phone,Product D,Authentication,Agent_14,1.68,23.16,
+TKT-00763,2024-06-29 17:21:00,Bug Report,High,In Progress,Phone,Product B,Documentation,Agent_15,8.82,32.41,
+TKT-00764,2024-11-25 05:53:00,Feature Request,Medium,Pending,Web Portal,Product D,UI/UX,Agent_2,12.18,95.6,
+TKT-00765,2024-12-16 14:44:00,Bug Report,Medium,In Progress,Email,Product B,Documentation,Agent_1,11.67,31.01,
+TKT-00766,2024-09-02 20:11:00,Feature Request,Medium,In Progress,Phone,Product A,Payment,Agent_4,10.31,25.08,
+TKT-00767,2024-03-10 02:45:00,Bug Report,Critical,In Progress,Chat,Product A,Authentication,Agent_4,1.76,19.33,
+TKT-00768,2024-08-22 01:18:00,Technical Issue,Low,In Progress,Chat,Product C,Performance,Agent_13,35.91,85.15,
+TKT-00769,2024-04-13 01:50:00,Account Access,Medium,Closed,Phone,Product D,Authentication,Agent_10,16.99,86.46,4.0
+TKT-00770,2024-04-12 01:20:00,Account Access,Critical,Pending,Email,Product A,Payment,Agent_10,3.91,19.95,
+TKT-00771,2024-06-07 16:25:00,Feature Request,Critical,In Progress,Email,Product E,Documentation,Agent_4,3.56,21.9,
+TKT-00772,2024-10-05 15:16:00,Bug Report,Critical,Open,Email,Product C,Performance,Agent_8,3.32,13.98,
+TKT-00773,2024-01-19 20:12:00,Billing Question,Critical,Open,Chat,Product E,Payment,Agent_9,0.51,13.1,
+TKT-00774,2024-05-26 11:55:00,General Inquiry,Critical,Open,Phone,Product D,Documentation,Agent_13,3.55,7.39,
+TKT-00775,2024-01-25 20:21:00,General Inquiry,Critical,Resolved,Phone,Product E,Payment,Agent_9,1.91,9.91,5.0
+TKT-00776,2024-05-19 03:51:00,Account Access,Low,Closed,Phone,Product D,UI/UX,Agent_7,62.13,56.18,3.0
+TKT-00777,2024-07-07 13:56:00,Bug Report,Low,Open,Chat,Product C,Data Loss,Agent_2,67.5,117.18,
+TKT-00778,2024-07-23 23:28:00,Bug Report,Medium,Closed,Phone,Product D,Documentation,Agent_5,6.46,49.44,1.0
+TKT-00779,2024-07-16 10:11:00,Technical Issue,High,Open,Chat,Product A,Performance,Agent_1,3.23,14.56,
+TKT-00780,2024-09-11 22:31:00,General Inquiry,Low,Resolved,Chat,Product C,Data Loss,Agent_6,43.84,133.28,2.0
+TKT-00781,2024-07-07 16:17:00,Billing Question,High,Pending,Email,Product E,UI/UX,Agent_8,11.51,28.59,
+TKT-00782,2024-02-12 23:27:00,Account Access,Medium,Closed,Phone,Product E,Data Loss,Agent_9,19.53,95.0,5.0
+TKT-00783,2024-02-10 13:38:00,Technical Issue,Low,Pending,Phone,Product A,Payment,Agent_7,26.91,165.42,
+TKT-00784,2024-04-02 17:18:00,Billing Question,Low,Resolved,Web Portal,Product C,Data Loss,Agent_2,39.12,139.58,4.0
+TKT-00785,2024-06-13 03:05:00,Account Access,Medium,Closed,Email,Product B,Authentication,Agent_8,18.35,55.83,4.0
+TKT-00786,2024-06-16 21:18:00,Technical Issue,Medium,Pending,Chat,Product E,Data Loss,Agent_1,21.66,90.54,
+TKT-00787,2024-06-05 14:38:00,Billing Question,High,Resolved,Email,Product A,Documentation,Agent_7,7.15,45.83,5.0
+TKT-00788,2024-08-06 05:44:00,Account Access,High,In Progress,Web Portal,Product B,Data Loss,Agent_11,8.6,46.98,
+TKT-00789,2024-08-15 11:28:00,General Inquiry,Medium,Closed,Email,Product C,Payment,Agent_4,6.06,59.15,4.0
+TKT-00790,2024-01-22 23:55:00,Billing Question,Low,Pending,Email,Product D,Integration,Agent_15,50.28,91.62,
+TKT-00791,2024-06-29 19:27:00,Bug Report,Critical,Resolved,Web Portal,Product B,Authentication,Agent_15,3.8,9.73,4.0
+TKT-00792,2024-05-20 20:50:00,Feature Request,High,In Progress,Email,Product C,Payment,Agent_1,5.22,26.73,
+TKT-00793,2024-01-30 02:42:00,Feature Request,Medium,Closed,Email,Product B,Documentation,Agent_5,17.41,68.62,4.0
+TKT-00794,2024-11-22 12:23:00,Bug Report,Low,In Progress,Web Portal,Product A,Integration,Agent_9,64.41,129.67,
+TKT-00795,2024-09-19 23:43:00,Billing Question,Low,Open,Web Portal,Product C,UI/UX,Agent_10,70.18,100.9,
+TKT-00796,2024-03-22 00:09:00,Bug Report,High,Closed,Chat,Product C,Authentication,Agent_11,9.36,30.45,3.0
+TKT-00797,2024-11-07 21:50:00,Feature Request,High,Resolved,Web Portal,Product D,Performance,Agent_2,8.78,34.49,4.0
+TKT-00798,2024-08-12 01:08:00,Feature Request,Critical,Resolved,Phone,Product C,Authentication,Agent_4,1.32,10.27,5.0
+TKT-00799,2024-02-04 07:49:00,Billing Question,High,Closed,Phone,Product A,Performance,Agent_13,6.85,15.01,5.0
+TKT-00800,2024-11-26 11:23:00,Feature Request,Critical,Open,Phone,Product C,UI/UX,Agent_9,3.09,12.26,
+TKT-00801,2024-07-15 18:02:00,General Inquiry,Medium,Closed,Chat,Product C,UI/UX,Agent_11,20.29,56.41,4.0
+TKT-00802,2024-11-05 04:43:00,Bug Report,High,Pending,Email,Product E,Authentication,Agent_13,5.48,43.59,
+TKT-00803,2024-08-18 11:23:00,General Inquiry,Critical,Resolved,Web Portal,Product A,Integration,Agent_3,3.79,23.82,5.0
+TKT-00804,2024-08-15 02:36:00,General Inquiry,High,In Progress,Chat,Product E,Performance,Agent_5,11.41,13.54,
+TKT-00805,2024-03-11 16:23:00,Billing Question,Medium,Resolved,Email,Product B,Data Loss,Agent_10,14.57,94.38,1.0
+TKT-00806,2024-07-22 10:41:00,Bug Report,Medium,Open,Web Portal,Product B,Authentication,Agent_7,17.85,28.11,
+TKT-00807,2024-05-22 07:07:00,Billing Question,Critical,Closed,Email,Product A,Documentation,Agent_8,2.95,19.81,5.0
+TKT-00808,2024-01-14 23:11:00,Feature Request,Low,Resolved,Web Portal,Product E,Performance,Agent_2,18.03,131.97,5.0
+TKT-00809,2024-09-12 16:24:00,Account Access,Medium,Pending,Phone,Product B,Payment,Agent_14,12.93,64.38,
+TKT-00810,2024-10-14 03:16:00,Billing Question,Medium,Open,Web Portal,Product E,Authentication,Agent_11,16.93,35.13,
+TKT-00811,2024-05-13 22:28:00,Billing Question,Medium,Open,Web Portal,Product C,Authentication,Agent_9,18.81,31.58,
+TKT-00812,2024-04-19 19:18:00,Account Access,Medium,In Progress,Chat,Product C,Integration,Agent_4,21.66,51.06,
+TKT-00813,2024-12-21 15:12:00,Feature Request,Low,Resolved,Chat,Product C,Documentation,Agent_13,64.57,116.42,2.0
+TKT-00814,2024-03-03 04:54:00,Bug Report,Medium,Closed,Chat,Product C,UI/UX,Agent_3,20.13,85.48,4.0
+TKT-00815,2024-02-07 14:11:00,Technical Issue,Low,Open,Phone,Product C,UI/UX,Agent_6,55.0,74.77,
+TKT-00816,2024-12-31 14:05:00,Account Access,High,Pending,Phone,Product A,Integration,Agent_9,2.32,43.47,
+TKT-00817,2024-12-15 10:42:00,Technical Issue,Low,Pending,Web Portal,Product E,Integration,Agent_3,41.88,128.3,
+TKT-00818,2024-06-26 22:04:00,Feature Request,Critical,Closed,Chat,Product E,UI/UX,Agent_13,0.8,10.98,3.0
+TKT-00819,2024-10-08 17:18:00,Billing Question,High,Pending,Phone,Product C,Performance,Agent_4,10.32,28.87,
+TKT-00820,2024-06-02 05:45:00,Billing Question,Low,In Progress,Phone,Product B,Data Loss,Agent_9,71.78,112.21,
+TKT-00821,2024-12-29 22:40:00,Feature Request,Low,Closed,Web Portal,Product A,UI/UX,Agent_7,71.23,146.19,3.0
+TKT-00822,2024-03-30 11:32:00,Bug Report,Low,Pending,Web Portal,Product B,Authentication,Agent_15,40.01,61.09,
+TKT-00823,2024-04-24 03:12:00,Bug Report,Low,In Progress,Email,Product E,Performance,Agent_9,65.78,69.63,
+TKT-00824,2024-03-12 07:50:00,General Inquiry,Low,Pending,Email,Product C,Authentication,Agent_8,69.3,61.0,
+TKT-00825,2024-09-09 00:23:00,Feature Request,Low,Resolved,Web Portal,Product C,UI/UX,Agent_1,40.93,163.15,3.0
+TKT-00826,2024-10-10 18:23:00,Feature Request,Critical,Closed,Email,Product D,Data Loss,Agent_1,2.39,11.94,3.0
+TKT-00827,2024-08-27 17:08:00,General Inquiry,Critical,Pending,Phone,Product D,Integration,Agent_14,1.35,12.66,
+TKT-00828,2024-11-09 02:04:00,Feature Request,Critical,Pending,Web Portal,Product C,Performance,Agent_8,1.1,12.03,
+TKT-00829,2024-06-07 12:45:00,Feature Request,Low,In Progress,Web Portal,Product B,UI/UX,Agent_14,68.65,55.74,
+TKT-00830,2024-09-02 16:26:00,General Inquiry,High,Resolved,Chat,Product A,UI/UX,Agent_10,9.0,24.33,5.0
+TKT-00831,2024-07-28 18:04:00,Feature Request,Critical,Resolved,Phone,Product B,Documentation,Agent_5,0.87,16.09,5.0
+TKT-00832,2024-03-05 10:41:00,Feature Request,Medium,In Progress,Phone,Product B,Data Loss,Agent_11,23.88,39.31,
+TKT-00833,2024-02-07 14:29:00,Billing Question,Medium,Resolved,Chat,Product E,Payment,Agent_3,6.53,77.37,1.0
+TKT-00834,2024-12-14 16:22:00,Technical Issue,Low,Pending,Email,Product B,Payment,Agent_1,67.74,61.72,
+TKT-00835,2024-03-06 17:40:00,Bug Report,High,Pending,Web Portal,Product B,Documentation,Agent_1,5.27,28.36,
+TKT-00836,2024-10-27 05:49:00,Technical Issue,Critical,Resolved,Email,Product E,Authentication,Agent_15,1.84,14.9,3.0
+TKT-00837,2024-03-07 13:32:00,Billing Question,Low,Pending,Phone,Product E,Documentation,Agent_15,28.82,161.82,
+TKT-00838,2024-01-29 03:33:00,Account Access,High,Resolved,Email,Product E,UI/UX,Agent_8,9.19,17.24,4.0
+TKT-00839,2024-03-19 09:10:00,Technical Issue,Medium,In Progress,Phone,Product E,Performance,Agent_5,17.99,39.37,
+TKT-00840,2024-03-23 10:59:00,Account Access,Critical,Closed,Web Portal,Product E,Performance,Agent_10,3.83,15.36,4.0
+TKT-00841,2024-12-29 07:22:00,Billing Question,Low,In Progress,Web Portal,Product A,Documentation,Agent_5,52.24,166.54,
+TKT-00842,2024-09-22 09:54:00,Bug Report,Low,Closed,Web Portal,Product D,Authentication,Agent_14,51.93,140.9,3.0
+TKT-00843,2024-02-10 08:12:00,Account Access,High,In Progress,Chat,Product D,UI/UX,Agent_11,11.23,14.25,
+TKT-00844,2024-11-21 17:17:00,Billing Question,Low,Open,Chat,Product A,Authentication,Agent_7,50.01,145.02,
+TKT-00845,2024-03-05 20:19:00,Feature Request,Low,Pending,Chat,Product A,Data Loss,Agent_6,41.52,142.75,
+TKT-00846,2024-11-10 17:05:00,Bug Report,Critical,In Progress,Web Portal,Product B,Data Loss,Agent_14,3.28,23.57,
+TKT-00847,2024-09-14 20:10:00,General Inquiry,Medium,Closed,Web Portal,Product A,Integration,Agent_11,11.99,39.37,4.0
+TKT-00848,2024-10-30 18:09:00,Feature Request,Medium,Resolved,Email,Product D,Authentication,Agent_4,10.03,39.23,4.0
+TKT-00849,2024-03-28 21:39:00,Bug Report,High,Resolved,Phone,Product C,Integration,Agent_10,7.76,12.83,5.0
+TKT-00850,2024-11-05 10:53:00,Bug Report,Medium,In Progress,Chat,Product C,Performance,Agent_14,22.63,78.62,
+TKT-00851,2024-10-15 01:52:00,Technical Issue,High,In Progress,Web Portal,Product C,Payment,Agent_9,2.65,27.23,
+TKT-00852,2024-01-15 02:02:00,Bug Report,Critical,In Progress,Web Portal,Product B,Payment,Agent_5,1.7,9.04,
+TKT-00853,2024-11-24 18:16:00,Technical Issue,High,Resolved,Phone,Product D,Documentation,Agent_1,11.1,18.34,2.0
+TKT-00854,2024-11-29 06:49:00,Account Access,Medium,Open,Chat,Product E,Documentation,Agent_3,19.37,34.21,
+TKT-00855,2024-10-19 13:39:00,Bug Report,Low,In Progress,Chat,Product E,Integration,Agent_12,55.5,80.87,
+TKT-00856,2024-11-23 00:31:00,Account Access,Critical,Resolved,Email,Product C,Authentication,Agent_9,2.79,5.63,5.0
+TKT-00857,2024-11-17 17:18:00,Bug Report,Medium,Resolved,Web Portal,Product B,Authentication,Agent_10,20.13,86.91,3.0
+TKT-00858,2024-11-24 09:30:00,Technical Issue,Critical,In Progress,Email,Product C,Documentation,Agent_2,3.88,13.03,
+TKT-00859,2024-05-05 21:25:00,General Inquiry,High,Closed,Web Portal,Product A,Payment,Agent_5,6.37,27.11,4.0
+TKT-00860,2024-06-01 14:04:00,Feature Request,Medium,Closed,Phone,Product A,Payment,Agent_2,10.2,39.42,3.0
+TKT-00861,2024-12-18 01:10:00,Bug Report,Low,Pending,Email,Product B,Integration,Agent_7,27.55,155.17,
+TKT-00862,2024-08-13 13:30:00,Billing Question,Low,Resolved,Web Portal,Product B,Documentation,Agent_12,29.46,70.09,4.0
+TKT-00863,2024-08-25 06:21:00,Feature Request,Low,Pending,Chat,Product B,Integration,Agent_2,18.68,54.45,
+TKT-00864,2024-11-06 04:20:00,Technical Issue,Low,Pending,Phone,Product B,Performance,Agent_14,32.41,155.39,
+TKT-00865,2024-06-12 23:55:00,General Inquiry,Critical,Closed,Web Portal,Product C,UI/UX,Agent_3,2.57,12.57,5.0
+TKT-00866,2024-06-25 12:08:00,General Inquiry,Medium,Closed,Email,Product B,Documentation,Agent_12,9.39,93.36,3.0
+TKT-00867,2024-07-08 16:35:00,Billing Question,Low,Open,Email,Product B,UI/UX,Agent_9,68.52,83.63,
+TKT-00868,2024-02-24 10:15:00,Account Access,Low,Resolved,Web Portal,Product B,Payment,Agent_5,46.37,71.83,3.0
+TKT-00869,2024-08-26 03:17:00,Technical Issue,Low,Open,Phone,Product A,Authentication,Agent_15,19.65,161.03,
+TKT-00870,2024-08-18 07:09:00,Feature Request,High,In Progress,Web Portal,Product D,Performance,Agent_7,5.13,29.34,
+TKT-00871,2024-02-19 01:18:00,Account Access,Medium,Open,Email,Product A,Integration,Agent_4,12.84,62.56,
+TKT-00872,2024-07-15 19:26:00,Account Access,Critical,In Progress,Email,Product A,Documentation,Agent_10,3.08,19.68,
+TKT-00873,2024-05-07 05:52:00,Technical Issue,High,Pending,Chat,Product A,Integration,Agent_9,5.11,46.76,
+TKT-00874,2024-06-16 18:46:00,Feature Request,High,Resolved,Chat,Product D,UI/UX,Agent_13,7.9,27.72,5.0
+TKT-00875,2024-06-09 06:48:00,Technical Issue,Critical,Open,Email,Product D,Documentation,Agent_6,1.16,22.25,
+TKT-00876,2024-03-22 15:32:00,Billing Question,Low,Resolved,Chat,Product A,Performance,Agent_15,35.29,116.44,3.0
+TKT-00877,2024-08-27 15:56:00,Billing Question,Low,Pending,Chat,Product B,UI/UX,Agent_11,37.42,146.76,
+TKT-00878,2024-06-06 15:01:00,General Inquiry,Medium,Pending,Web Portal,Product A,Data Loss,Agent_6,19.88,64.39,
+TKT-00879,2024-02-16 12:32:00,Bug Report,Low,Pending,Phone,Product A,Payment,Agent_11,59.85,155.25,
+TKT-00880,2024-08-22 07:13:00,General Inquiry,High,Pending,Web Portal,Product E,Performance,Agent_5,11.34,19.15,
+TKT-00881,2024-10-25 11:03:00,Account Access,High,Closed,Web Portal,Product E,UI/UX,Agent_13,3.26,38.02,4.0
+TKT-00882,2024-01-26 09:31:00,General Inquiry,High,Closed,Chat,Product A,Authentication,Agent_12,8.64,32.83,4.0
+TKT-00883,2024-11-01 20:43:00,Bug Report,Critical,Pending,Chat,Product D,Documentation,Agent_8,2.57,6.89,
+TKT-00884,2024-08-28 09:34:00,General Inquiry,Low,Pending,Phone,Product A,Performance,Agent_5,18.4,127.69,
+TKT-00885,2024-01-05 03:27:00,Feature Request,Low,Open,Phone,Product C,Data Loss,Agent_4,12.55,146.82,
+TKT-00886,2024-03-09 08:46:00,Billing Question,Low,Resolved,Phone,Product A,Payment,Agent_11,63.14,136.12,4.0
+TKT-00887,2024-07-06 12:23:00,Bug Report,Low,Open,Web Portal,Product A,Integration,Agent_6,30.96,147.03,
+TKT-00888,2024-01-24 12:03:00,Billing Question,Medium,Pending,Phone,Product C,Integration,Agent_6,20.69,76.79,
+TKT-00889,2024-10-18 17:12:00,Billing Question,Medium,Closed,Email,Product A,Integration,Agent_4,11.34,25.02,5.0
+TKT-00890,2024-07-04 17:18:00,Billing Question,High,In Progress,Email,Product A,Integration,Agent_8,4.19,44.27,
+TKT-00891,2024-02-07 12:32:00,Technical Issue,High,Closed,Web Portal,Product A,Performance,Agent_10,8.8,45.62,5.0
+TKT-00892,2024-08-18 17:17:00,Bug Report,Critical,Closed,Chat,Product E,Data Loss,Agent_6,1.02,13.99,5.0
+TKT-00893,2024-11-15 21:39:00,Account Access,High,Closed,Phone,Product B,Data Loss,Agent_1,4.83,23.39,3.0
+TKT-00894,2024-03-01 04:06:00,Bug Report,Low,In Progress,Email,Product E,Integration,Agent_15,56.82,143.04,
+TKT-00895,2024-07-20 11:50:00,Account Access,High,Pending,Phone,Product B,Authentication,Agent_12,10.49,36.26,
+TKT-00896,2024-06-22 17:23:00,Bug Report,High,Pending,Email,Product B,Documentation,Agent_3,10.28,21.46,
+TKT-00897,2024-03-14 06:38:00,Bug Report,Medium,Pending,Email,Product C,Integration,Agent_11,6.62,76.0,
+TKT-00898,2024-09-17 12:32:00,Billing Question,Low,Closed,Phone,Product A,Documentation,Agent_15,31.21,166.59,4.0
+TKT-00899,2024-01-21 01:02:00,Account Access,Critical,Resolved,Email,Product A,Performance,Agent_1,2.26,22.87,5.0
+TKT-00900,2024-03-11 22:21:00,General Inquiry,Critical,Resolved,Phone,Product B,Data Loss,Agent_10,2.91,21.15,4.0
+TKT-00901,2024-08-30 16:29:00,Account Access,Critical,Open,Email,Product C,Payment,Agent_8,1.46,16.69,
+TKT-00902,2024-03-17 19:57:00,Account Access,High,Resolved,Chat,Product E,Integration,Agent_1,10.48,35.0,4.0
+TKT-00903,2024-09-20 04:20:00,Bug Report,Critical,Closed,Web Portal,Product C,UI/UX,Agent_15,2.51,15.57,4.0
+TKT-00904,2024-11-09 10:10:00,Account Access,Critical,Pending,Web Portal,Product C,Integration,Agent_1,2.71,4.73,
+TKT-00905,2024-07-20 19:47:00,Bug Report,Critical,Resolved,Phone,Product B,Authentication,Agent_11,1.25,18.91,5.0
+TKT-00906,2024-06-02 18:21:00,General Inquiry,Medium,In Progress,Web Portal,Product E,Authentication,Agent_3,11.25,37.51,
+TKT-00907,2024-09-16 16:34:00,Technical Issue,Low,In Progress,Web Portal,Product E,Data Loss,Agent_7,69.99,131.57,
+TKT-00908,2024-09-07 22:36:00,Billing Question,Medium,Pending,Web Portal,Product B,Performance,Agent_9,7.06,79.76,
+TKT-00909,2024-06-02 15:52:00,Feature Request,Low,Resolved,Web Portal,Product E,Integration,Agent_15,60.61,120.11,3.0
+TKT-00910,2024-01-09 11:21:00,Technical Issue,Medium,Closed,Chat,Product E,UI/UX,Agent_12,8.75,39.56,1.0
+TKT-00911,2024-12-10 03:26:00,Account Access,Low,Closed,Chat,Product A,Payment,Agent_12,55.01,73.17,4.0
+TKT-00912,2024-10-25 09:50:00,General Inquiry,Critical,Resolved,Web Portal,Product A,UI/UX,Agent_8,3.47,7.82,5.0
+TKT-00913,2024-12-18 20:01:00,Billing Question,Critical,Open,Chat,Product E,UI/UX,Agent_13,3.77,17.59,
+TKT-00914,2024-11-01 15:16:00,General Inquiry,Critical,Open,Chat,Product A,UI/UX,Agent_7,1.29,23.1,
+TKT-00915,2024-12-01 18:36:00,Billing Question,Medium,In Progress,Web Portal,Product E,Payment,Agent_9,19.24,50.66,
+TKT-00916,2024-04-26 23:03:00,Billing Question,Critical,Pending,Phone,Product B,Integration,Agent_2,3.73,11.28,
+TKT-00917,2024-10-25 15:10:00,Billing Question,High,In Progress,Web Portal,Product B,Data Loss,Agent_13,9.76,22.87,
+TKT-00918,2024-09-25 20:46:00,General Inquiry,Low,Pending,Chat,Product C,UI/UX,Agent_15,63.41,84.84,
+TKT-00919,2024-11-13 12:09:00,Account Access,Medium,Pending,Phone,Product B,UI/UX,Agent_11,19.09,82.97,
+TKT-00920,2024-12-14 07:02:00,Billing Question,Critical,Pending,Chat,Product E,Data Loss,Agent_11,1.55,6.49,
+TKT-00921,2024-10-20 22:07:00,General Inquiry,Critical,Pending,Chat,Product A,Authentication,Agent_2,3.35,13.98,
+TKT-00922,2024-04-07 00:28:00,Feature Request,Low,Closed,Email,Product A,Performance,Agent_9,66.74,167.89,3.0
+TKT-00923,2024-06-09 13:09:00,Feature Request,Critical,Resolved,Email,Product B,Integration,Agent_1,1.06,12.28,4.0
+TKT-00924,2024-07-30 22:13:00,Billing Question,Critical,Pending,Email,Product E,Integration,Agent_15,0.58,11.03,
+TKT-00925,2024-07-29 16:49:00,Bug Report,Low,Resolved,Chat,Product D,Authentication,Agent_14,35.54,147.38,2.0
+TKT-00926,2024-11-09 15:55:00,General Inquiry,Low,Pending,Web Portal,Product C,Documentation,Agent_14,37.35,99.1,
+TKT-00927,2024-02-01 22:08:00,Account Access,High,Closed,Web Portal,Product E,Integration,Agent_11,6.73,47.07,5.0
+TKT-00928,2024-09-22 06:35:00,General Inquiry,High,Closed,Chat,Product B,Performance,Agent_8,5.48,24.09,4.0
+TKT-00929,2024-06-15 21:30:00,Feature Request,Low,Resolved,Email,Product D,Payment,Agent_11,35.48,159.16,2.0
+TKT-00930,2024-09-26 12:20:00,Feature Request,Medium,Resolved,Chat,Product A,Payment,Agent_2,7.29,57.04,3.0
+TKT-00931,2024-03-29 14:58:00,Feature Request,High,In Progress,Web Portal,Product B,UI/UX,Agent_6,9.27,25.43,
+TKT-00932,2024-09-29 10:34:00,Technical Issue,Low,In Progress,Web Portal,Product C,Performance,Agent_14,28.94,114.33,
+TKT-00933,2024-06-30 21:49:00,General Inquiry,Critical,Open,Web Portal,Product D,Documentation,Agent_7,3.73,7.25,
+TKT-00934,2024-12-14 20:51:00,Technical Issue,Medium,In Progress,Chat,Product D,Payment,Agent_14,18.62,55.38,
+TKT-00935,2024-12-20 08:39:00,Feature Request,Critical,In Progress,Web Portal,Product B,Data Loss,Agent_10,2.42,9.7,
+TKT-00936,2024-09-04 06:15:00,Bug Report,High,Pending,Web Portal,Product E,Integration,Agent_6,2.97,35.75,
+TKT-00937,2024-05-22 17:19:00,General Inquiry,Critical,Open,Web Portal,Product B,Performance,Agent_7,1.63,17.61,
+TKT-00938,2024-04-25 09:49:00,Account Access,Medium,In Progress,Web Portal,Product D,Data Loss,Agent_3,20.24,69.66,
+TKT-00939,2024-05-27 22:13:00,General Inquiry,Low,In Progress,Phone,Product A,Authentication,Agent_14,63.95,132.25,
+TKT-00940,2024-12-19 22:31:00,Account Access,Low,Resolved,Chat,Product C,Data Loss,Agent_13,15.25,160.55,4.0
+TKT-00941,2024-06-11 15:22:00,Feature Request,Medium,Open,Chat,Product A,Authentication,Agent_13,22.82,89.22,
+TKT-00942,2024-10-13 23:17:00,Feature Request,Critical,Open,Web Portal,Product D,Authentication,Agent_12,1.56,5.98,
+TKT-00943,2024-05-27 03:36:00,Account Access,Critical,Open,Email,Product A,Data Loss,Agent_1,2.79,5.75,
+TKT-00944,2024-12-12 17:24:00,Bug Report,Medium,Resolved,Web Portal,Product E,Authentication,Agent_2,16.39,84.28,4.0
+TKT-00945,2024-07-21 11:49:00,Technical Issue,Low,Closed,Chat,Product B,Data Loss,Agent_8,38.51,58.76,5.0
+TKT-00946,2024-03-15 09:02:00,General Inquiry,Critical,Open,Phone,Product D,Integration,Agent_6,2.19,4.33,
+TKT-00947,2024-05-27 22:05:00,Technical Issue,High,Open,Web Portal,Product C,Integration,Agent_15,10.97,45.57,
+TKT-00948,2024-06-26 14:41:00,General Inquiry,Medium,Resolved,Phone,Product C,Authentication,Agent_4,9.78,31.46,5.0
+TKT-00949,2024-05-11 23:30:00,Feature Request,High,Closed,Email,Product E,Integration,Agent_8,10.04,39.0,5.0
+TKT-00950,2024-04-19 06:52:00,General Inquiry,High,Open,Email,Product A,UI/UX,Agent_1,3.96,34.46,
+TKT-00951,2024-10-02 08:59:00,General Inquiry,Low,Open,Web Portal,Product A,UI/UX,Agent_4,51.07,113.37,
+TKT-00952,2024-10-14 22:17:00,General Inquiry,Medium,Pending,Phone,Product C,Data Loss,Agent_12,12.52,69.61,
+TKT-00953,2024-03-11 03:39:00,Account Access,Critical,Closed,Email,Product D,Documentation,Agent_1,3.5,14.07,4.0
+TKT-00954,2024-10-27 07:15:00,Technical Issue,Critical,In Progress,Web Portal,Product A,Performance,Agent_13,0.86,20.12,
+TKT-00955,2024-01-26 21:57:00,Bug Report,Medium,Open,Email,Product D,Performance,Agent_5,20.14,72.08,
+TKT-00956,2024-09-28 07:40:00,Feature Request,Low,Resolved,Chat,Product C,Performance,Agent_11,63.51,150.2,5.0
+TKT-00957,2024-04-29 01:06:00,Billing Question,Critical,Pending,Phone,Product D,Data Loss,Agent_15,1.82,8.24,
+TKT-00958,2024-07-30 10:45:00,Feature Request,Critical,In Progress,Web Portal,Product E,Authentication,Agent_12,3.94,19.54,
+TKT-00959,2024-08-29 03:43:00,Billing Question,Critical,In Progress,Email,Product C,Documentation,Agent_6,2.88,15.03,
+TKT-00960,2024-03-11 00:35:00,Feature Request,Low,Pending,Email,Product D,Data Loss,Agent_4,22.09,61.74,
+TKT-00961,2024-03-21 13:41:00,Account Access,Critical,Resolved,Chat,Product B,Authentication,Agent_2,0.7,21.13,4.0
+TKT-00962,2024-08-31 15:41:00,Account Access,Critical,In Progress,Web Portal,Product E,Authentication,Agent_14,1.74,23.01,
+TKT-00963,2024-04-12 09:20:00,Account Access,High,In Progress,Email,Product D,UI/UX,Agent_10,6.74,24.62,
+TKT-00964,2024-05-26 20:03:00,Account Access,Low,Closed,Phone,Product C,UI/UX,Agent_11,68.7,143.25,3.0
+TKT-00965,2024-02-15 20:36:00,Bug Report,Critical,In Progress,Email,Product D,Integration,Agent_5,0.91,13.28,
+TKT-00966,2024-04-28 17:47:00,Bug Report,Low,Open,Phone,Product B,Payment,Agent_13,42.93,156.96,
+TKT-00967,2024-01-20 05:26:00,Billing Question,Low,Open,Email,Product A,Documentation,Agent_12,32.31,125.38,
+TKT-00968,2024-03-31 01:53:00,Bug Report,Critical,Pending,Web Portal,Product D,Payment,Agent_4,2.02,19.69,
+TKT-00969,2024-07-22 15:11:00,Feature Request,Critical,Pending,Web Portal,Product C,Documentation,Agent_4,1.02,11.92,
+TKT-00970,2024-05-28 01:00:00,Account Access,Low,Resolved,Web Portal,Product B,Integration,Agent_8,55.35,160.75,4.0
+TKT-00971,2024-06-01 18:38:00,General Inquiry,Low,Resolved,Phone,Product A,Authentication,Agent_6,26.7,141.86,5.0
+TKT-00972,2024-02-24 10:18:00,Technical Issue,Low,Closed,Web Portal,Product D,Authentication,Agent_1,19.13,108.91,3.0
+TKT-00973,2024-08-20 20:34:00,Technical Issue,High,Pending,Phone,Product A,Integration,Agent_5,5.97,21.63,
+TKT-00974,2024-09-25 15:56:00,Technical Issue,Medium,Closed,Phone,Product D,UI/UX,Agent_8,11.45,71.43,2.0
+TKT-00975,2024-03-09 16:29:00,General Inquiry,Critical,Resolved,Phone,Product D,Performance,Agent_15,2.59,10.15,5.0
+TKT-00976,2024-05-19 06:51:00,Feature Request,High,In Progress,Chat,Product E,Performance,Agent_12,3.72,44.5,
+TKT-00977,2024-02-27 10:10:00,Technical Issue,High,Closed,Email,Product A,Data Loss,Agent_12,9.45,44.74,5.0
+TKT-00978,2024-08-22 20:16:00,Technical Issue,Low,In Progress,Phone,Product A,UI/UX,Agent_10,58.55,128.8,
+TKT-00979,2024-04-05 00:47:00,Billing Question,Medium,Closed,Phone,Product B,Integration,Agent_4,23.84,24.3,4.0
+TKT-00980,2024-06-21 09:36:00,Feature Request,Critical,Closed,Email,Product D,Documentation,Agent_1,2.85,22.18,4.0
+TKT-00981,2024-12-11 06:11:00,Feature Request,High,Resolved,Web Portal,Product D,UI/UX,Agent_4,2.9,13.18,5.0
+TKT-00982,2024-11-08 20:57:00,Technical Issue,Critical,Closed,Chat,Product E,Integration,Agent_14,2.12,4.52,5.0
+TKT-00983,2024-07-26 13:32:00,Feature Request,High,Resolved,Email,Product A,Data Loss,Agent_11,10.18,40.46,5.0
+TKT-00984,2024-06-16 02:25:00,Billing Question,Critical,Closed,Phone,Product B,Documentation,Agent_7,1.84,20.82,4.0
+TKT-00985,2024-12-08 03:11:00,General Inquiry,Low,Closed,Email,Product A,Performance,Agent_2,49.94,110.28,2.0
+TKT-00986,2024-03-12 15:20:00,Billing Question,Low,Pending,Phone,Product C,Performance,Agent_14,38.71,136.95,
+TKT-00987,2024-05-07 00:16:00,General Inquiry,Medium,Pending,Web Portal,Product B,Documentation,Agent_5,6.21,46.86,
+TKT-00988,2024-07-15 07:28:00,Account Access,Low,Resolved,Email,Product C,Documentation,Agent_10,19.0,68.45,1.0
+TKT-00989,2024-05-16 10:19:00,Billing Question,High,Closed,Chat,Product B,Payment,Agent_9,3.22,32.6,5.0
+TKT-00990,2024-10-25 23:36:00,Account Access,High,In Progress,Email,Product E,Payment,Agent_8,8.41,27.48,
+TKT-00991,2024-01-06 08:41:00,Technical Issue,High,Open,Phone,Product D,Payment,Agent_3,11.08,32.01,
+TKT-00992,2024-07-03 22:15:00,General Inquiry,High,Resolved,Phone,Product A,Authentication,Agent_9,4.25,26.09,3.0
+TKT-00993,2024-02-01 21:07:00,Account Access,Low,Pending,Chat,Product B,UI/UX,Agent_4,47.21,121.95,
+TKT-00994,2024-08-26 09:10:00,Account Access,Low,Pending,Phone,Product D,Data Loss,Agent_11,71.24,95.2,
+TKT-00995,2024-07-26 21:32:00,Technical Issue,Medium,Resolved,Phone,Product D,Performance,Agent_12,14.63,27.71,4.0
+TKT-00996,2024-12-26 09:44:00,Account Access,Critical,Pending,Phone,Product C,Documentation,Agent_10,2.93,22.64,
+TKT-00997,2024-03-01 20:58:00,General Inquiry,Medium,In Progress,Email,Product E,UI/UX,Agent_11,7.7,54.9,
+TKT-00998,2024-05-31 11:39:00,General Inquiry,Critical,Pending,Email,Product E,Authentication,Agent_11,2.58,22.79,
+TKT-00999,2024-04-23 07:08:00,Billing Question,Low,Open,Chat,Product C,Integration,Agent_10,35.04,94.85,
+TKT-01000,2024-09-01 04:29:00,Technical Issue,High,Open,Chat,Product D,Data Loss,Agent_10,12.0,38.21,
